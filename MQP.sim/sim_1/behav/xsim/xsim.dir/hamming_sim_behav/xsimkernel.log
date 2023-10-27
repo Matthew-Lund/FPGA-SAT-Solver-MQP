@@ -1,7 +1,4 @@
-Running: xsim.dir/hamming_sim_behav/xsimk.exe -simmode gui -wdb hamming_sim_behav.wdb -simrunnum 0 -socket 51159
+Running: xsim.dir/hamming_sim_behav/xsimk.exe -simmode gui -wdb hamming_sim_behav.wdb -simrunnum 0 -socket 64399
 Design successfully loaded
-Design Loading Memory Usage: 8136 KB (Peak: 8136 KB)
-Design Loading CPU Usage: 15 ms
-Simulation completed
-Simulation Memory Usage: 9144 KB (Peak: 9144 KB)
-Simulation CPU Usage: 249 ms
+Design Loading Memory Usage: 8148 KB (Peak: 8148 KB)
+Design Loading CPU Usage: 31 ms

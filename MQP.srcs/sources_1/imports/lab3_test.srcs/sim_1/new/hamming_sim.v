@@ -22,30 +22,7 @@
 
 module hamming_sim();
         
-        parameter length = 5;   //X-bit # of total terms(linear + quad)
-        /*reg [length-1:0] counter;
-        wire [length-1:0] weight; 
-        reg flag;
-        
-        hamming #(.length(length)) uut(
-        .counter(counter),
-        .weight(weight)
-        );
-        
-        initial begin
-            counter = 0;
-            while(counter < {(length){1'b1}} )begin //Counts up to all 1's in the counter (concatenation to help make it all ones of length)
-                #20;
-                if(weight > 1 && weight < 3) begin
-                    flag = 1'b1;    //Says which one has weight of 2 in waveform simulations
-                    $display("binary = %b, decimal = %d", counter, counter);    //Tells us what numbers have weight of 2
-                end
-                else begin
-                    flag = 1'b0;
-                end
-                #5 counter = counter + 1;
-            end 
-        end  */
+parameter length = 5;
 
 wire [(length-1):0] weight2_max = {2'b11,  {(length-2){1'b0}} };
 

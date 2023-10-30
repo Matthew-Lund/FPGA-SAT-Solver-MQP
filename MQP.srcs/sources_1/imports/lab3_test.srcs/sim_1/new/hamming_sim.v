@@ -52,7 +52,7 @@ hamming #(.length(length)) h2(
 	.flag2(weightcheck_eq2)
 );
 
-
+reg first_run;
 
 assign eq1 = {eq1_coeff, Rest, RHS_eq1};
 assign eq2 = {eq2_coeff, Rest, RHS_eq2};
@@ -60,6 +60,7 @@ assign eq2 = {eq2_coeff, Rest, RHS_eq2};
     initial begin
     sys_num = 0;
     RHS = 2'b00;
+    first_run = 1'b1;
     Rest = 1'b0;
     repeat(2) begin	//changes rest
     
@@ -68,12 +69,15 @@ assign eq2 = {eq2_coeff, Rest, RHS_eq2};
             while(eq1_coeff < weight2_max + 1) begin //changes eq1 coeff
     
                 while(eq2_coeff <= weight2_max + 1) begin	//changes eq2 coeff
-                    if(weightcheck_eq1 && weightcheck_eq2)begin
+                    if(weightcheck_eq1 && weightcheck_eq2)
+                    begin
+                        if(eq1[length+1:2] != eq2[length+1:2]) begin
                         sys_num = sys_num + 1;
                         $display("System # %d Found!", sys_num);
                         $display("eq1 = %b", eq1);
                         $display("eq2 = %b", eq2);
                         $display("");
+                        end
                     end
                     #10 eq2_coeff = eq2_coeff + 1'b1;
                 end
@@ -83,7 +87,13 @@ assign eq2 = {eq2_coeff, Rest, RHS_eq2};
             end
     
             eq1_coeff = 0;
+            if(first_run)begin
+                RHS = 3'b000;
+                first_run = 1'b0;
+            end
+            else begin
             #10 RHS = RHS + 3'b001;
+            end
         end
     
         RHS = 2'b00;

@@ -62,16 +62,16 @@ assign eq2 = {eq2_coeff, Rest, RHS_eq2};
     RHS = 2'b00;
     first_run = 1'b1;
     Rest = 1'b0;
-    repeat(2) begin	//changes rest
+    repeat(2) begin	//changes rest variable 
     
         while(RHS < 3'b100) begin //changes RHS
     
-            while(eq1_coeff < weight2_max + 1) begin //changes eq1 coeff
+            while(eq1_coeff < weight2_max + 1) begin //changes eq1 coefficients
     
-                while(eq2_coeff <= weight2_max + 1) begin	//changes eq2 coeff
+                while(eq2_coeff <= weight2_max + 1) begin	//changes eq2 coefficients
                     if(weightcheck_eq1 && weightcheck_eq2)
                     begin
-                        if(eq1[length+1:2] != eq2[length+1:2]) begin
+                        if(eq1[length+1:2] != eq2[length+1:2]) begin    //Only looking for finite # of solutions
                         sys_num = sys_num + 1;
                         $display("System # %d Found!", sys_num);
                         $display("eq1 = %b", eq1);

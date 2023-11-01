@@ -15091,4 +15091,112 @@ System #                                    3753 Found!
 eq1 = 101000011
 eq2 = 010010011
 
-System #                                    3754 Fo
+System #                                    3754 Found!
+eq1 = 101000011
+eq2 = 010100011
+
+System #                                    3755 Found!
+eq1 = 101000011
+eq2 = 011000011
+
+System #                                    3756 Found!
+eq1 = 101000011
+eq2 = 100000111
+
+System #                                    3757 Found!
+eq1 = 101000011
+eq2 = 100001011
+
+System #                                    3758 Found!
+eq1 = 101000011
+eq2 = 100010011
+
+System #                                    3759 Found!
+eq1 = 101000011
+eq2 = 100100011
+
+System #                                    3760 Found!
+eq1 = 101000011
+eq2 = 110000011
+
+System #                                    3761 Found!
+eq1 = 110000011
+eq2 = 000001111
+
+System #                                    3762 Found!
+eq1 = 110000011
+eq2 = 000010111
+
+System #                                    3763 Found!
+eq1 = 110000011
+eq2 = 000011011
+
+System #                                    3764 Found!
+eq1 = 110000011
+eq2 = 000100111
+
+System #                                    3765 Found!
+eq1 = 110000011
+eq2 = 000101011
+
+System #                                    3766 Found!
+eq1 = 110000011
+eq2 = 000110011
+
+System #                                    3767 Found!
+eq1 = 110000011
+eq2 = 001000111
+
+System #                                    3768 Found!
+eq1 = 110000011
+eq2 = 001001011
+
+System #                                    3769 Found!
+eq1 = 110000011
+eq2 = 001010011
+
+System #                                    3770 Found!
+eq1 = 110000011
+eq2 = 001100011
+
+System #                                    3771 Found!
+eq1 = 110000011
+eq2 = 010000111
+
+System #                                    3772 Found!
+eq1 = 110000011
+eq2 = 010001011
+
+System #                                    3773 Found!
+eq1 = 110000011
+eq2 = 010010011
+
+System #                                    3774 Found!
+eq1 = 110000011
+eq2 = 010100011
+
+System #                                    3775 Found!
+eq1 = 110000011
+eq2 = 011000011
+
+System #                                    3776 Found!
+eq1 = 110000011
+eq2 = 100000111
+
+System #                                    3777 Found!
+eq1 = 110000011
+eq2 = 100001011
+
+System #                                    3778 Found!
+eq1 = 110000011
+eq2 = 100010011
+
+System #                                    3779 Found!
+eq1 = 110000011
+eq2 = 100100011
+
+System #                                    3780 Found!
+eq1 = 110000011
+eq2 = 101000011
+
+$stop called at time : 861350 ns : File "C:/Users/mtlun/Documents/MQP/MQP/MQP.srcs/sources_1/imports/lab3_test.srcs/sim_1/new/hamming_sim.v" Line 103

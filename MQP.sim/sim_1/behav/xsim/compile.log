@@ -1,4 +1,4 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mtlun/Documents/MQP/MQP/MQP.srcs/sources_1/imports/lab3_test.srcs/sources_1/new/hamming.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module hamming
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mtlun/Documents/MQP/MQP/MQP.srcs/sources_1/imports/lab3_test.srcs/sim_1/new/hamming_sim.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module hamming_sim
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Matthew/Documents/GitHub/FPGA-SAT-Solver-MQP/MQP.srcs/sources_1/new/Solver_Example.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module solver
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Matthew/Documents/GitHub/FPGA-SAT-Solver-MQP/MQP.srcs/sim_1/new/solve_sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module solve_sim

@@ -28,7 +28,7 @@ module solver(
     assign {X4, X3, X2, X1} = terms[3:0];
     
     //X1 + X2 + X3 + X1X2 + X2X3 + X3X4 + Rest = RHS
-    //7 Terms + Rest + RHS = 8 Bit long Equations
+    //7 Terms + Rest + RHS = 9 Bit long Equations
     
     wire X1X2 = X1 & X2;
     wire X2X3 = X2 & X3;

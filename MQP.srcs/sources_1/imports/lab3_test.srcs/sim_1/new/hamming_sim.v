@@ -22,7 +22,7 @@
 
 module hamming_sim();
         
-parameter length = 5;
+parameter length = 6;
 
 wire [(length-1):0] weight2_max = {2'b11,  {(length-2){1'b0}} };
 

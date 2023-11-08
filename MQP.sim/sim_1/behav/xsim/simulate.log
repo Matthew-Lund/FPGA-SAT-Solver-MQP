@@ -1,0 +1,6722 @@
+Time resolution is 1 ps
+System #                                       1 Found!
+eq1 = 00001100
+eq2 = 00010100
+
+System #                                       2 Found!
+eq1 = 00001100
+eq2 = 00011000
+
+System #                                       3 Found!
+eq1 = 00001100
+eq2 = 00100100
+
+System #                                       4 Found!
+eq1 = 00001100
+eq2 = 00101000
+
+System #                                       5 Found!
+eq1 = 00001100
+eq2 = 00110000
+
+System #                                       6 Found!
+eq1 = 00001100
+eq2 = 01000100
+
+System #                                       7 Found!
+eq1 = 00001100
+eq2 = 01001000
+
+System #                                       8 Found!
+eq1 = 00001100
+eq2 = 01010000
+
+System #                                       9 Found!
+eq1 = 00001100
+eq2 = 01100000
+
+System #                                      10 Found!
+eq1 = 00001100
+eq2 = 10000100
+
+System #                                      11 Found!
+eq1 = 00001100
+eq2 = 10001000
+
+System #                                      12 Found!
+eq1 = 00001100
+eq2 = 10010000
+
+System #                                      13 Found!
+eq1 = 00001100
+eq2 = 10100000
+
+System #                                      14 Found!
+eq1 = 00001100
+eq2 = 11000000
+
+System #                                      15 Found!
+eq1 = 00010100
+eq2 = 00001100
+
+System #                                      16 Found!
+eq1 = 00010100
+eq2 = 00011000
+
+System #                                      17 Found!
+eq1 = 00010100
+eq2 = 00100100
+
+System #                                      18 Found!
+eq1 = 00010100
+eq2 = 00101000
+
+System #                                      19 Found!
+eq1 = 00010100
+eq2 = 00110000
+
+System #                                      20 Found!
+eq1 = 00010100
+eq2 = 01000100
+
+System #                                      21 Found!
+eq1 = 00010100
+eq2 = 01001000
+
+System #                                      22 Found!
+eq1 = 00010100
+eq2 = 01010000
+
+System #                                      23 Found!
+eq1 = 00010100
+eq2 = 01100000
+
+System #                                      24 Found!
+eq1 = 00010100
+eq2 = 10000100
+
+System #                                      25 Found!
+eq1 = 00010100
+eq2 = 10001000
+
+System #                                      26 Found!
+eq1 = 00010100
+eq2 = 10010000
+
+System #                                      27 Found!
+eq1 = 00010100
+eq2 = 10100000
+
+System #                                      28 Found!
+eq1 = 00010100
+eq2 = 11000000
+
+System #                                      29 Found!
+eq1 = 00011000
+eq2 = 00001100
+
+System #                                      30 Found!
+eq1 = 00011000
+eq2 = 00010100
+
+System #                                      31 Found!
+eq1 = 00011000
+eq2 = 00100100
+
+System #                                      32 Found!
+eq1 = 00011000
+eq2 = 00101000
+
+System #                                      33 Found!
+eq1 = 00011000
+eq2 = 00110000
+
+System #                                      34 Found!
+eq1 = 00011000
+eq2 = 01000100
+
+System #                                      35 Found!
+eq1 = 00011000
+eq2 = 01001000
+
+System #                                      36 Found!
+eq1 = 00011000
+eq2 = 01010000
+
+System #                                      37 Found!
+eq1 = 00011000
+eq2 = 01100000
+
+System #                                      38 Found!
+eq1 = 00011000
+eq2 = 10000100
+
+System #                                      39 Found!
+eq1 = 00011000
+eq2 = 10001000
+
+System #                                      40 Found!
+eq1 = 00011000
+eq2 = 10010000
+
+System #                                      41 Found!
+eq1 = 00011000
+eq2 = 10100000
+
+System #                                      42 Found!
+eq1 = 00011000
+eq2 = 11000000
+
+System #                                      43 Found!
+eq1 = 00100100
+eq2 = 00001100
+
+System #                                      44 Found!
+eq1 = 00100100
+eq2 = 00010100
+
+System #                                      45 Found!
+eq1 = 00100100
+eq2 = 00011000
+
+System #                                      46 Found!
+eq1 = 00100100
+eq2 = 00101000
+
+System #                                      47 Found!
+eq1 = 00100100
+eq2 = 00110000
+
+System #                                      48 Found!
+eq1 = 00100100
+eq2 = 01000100
+
+System #                                      49 Found!
+eq1 = 00100100
+eq2 = 01001000
+
+System #                                      50 Found!
+eq1 = 00100100
+eq2 = 01010000
+
+System #                                      51 Found!
+eq1 = 00100100
+eq2 = 01100000
+
+System #                                      52 Found!
+eq1 = 00100100
+eq2 = 10000100
+
+System #                                      53 Found!
+eq1 = 00100100
+eq2 = 10001000
+
+System #                                      54 Found!
+eq1 = 00100100
+eq2 = 10010000
+
+System #                                      55 Found!
+eq1 = 00100100
+eq2 = 10100000
+
+System #                                      56 Found!
+eq1 = 00100100
+eq2 = 11000000
+
+System #                                      57 Found!
+eq1 = 00101000
+eq2 = 00001100
+
+System #                                      58 Found!
+eq1 = 00101000
+eq2 = 00010100
+
+System #                                      59 Found!
+eq1 = 00101000
+eq2 = 00011000
+
+System #                                      60 Found!
+eq1 = 00101000
+eq2 = 00100100
+
+System #                                      61 Found!
+eq1 = 00101000
+eq2 = 00110000
+
+System #                                      62 Found!
+eq1 = 00101000
+eq2 = 01000100
+
+System #                                      63 Found!
+eq1 = 00101000
+eq2 = 01001000
+
+System #                                      64 Found!
+eq1 = 00101000
+eq2 = 01010000
+
+System #                                      65 Found!
+eq1 = 00101000
+eq2 = 01100000
+
+System #                                      66 Found!
+eq1 = 00101000
+eq2 = 10000100
+
+System #                                      67 Found!
+eq1 = 00101000
+eq2 = 10001000
+
+System #                                      68 Found!
+eq1 = 00101000
+eq2 = 10010000
+
+System #                                      69 Found!
+eq1 = 00101000
+eq2 = 10100000
+
+System #                                      70 Found!
+eq1 = 00101000
+eq2 = 11000000
+
+System #                                      71 Found!
+eq1 = 00110000
+eq2 = 00001100
+
+System #                                      72 Found!
+eq1 = 00110000
+eq2 = 00010100
+
+System #                                      73 Found!
+eq1 = 00110000
+eq2 = 00011000
+
+System #                                      74 Found!
+eq1 = 00110000
+eq2 = 00100100
+
+System #                                      75 Found!
+eq1 = 00110000
+eq2 = 00101000
+
+System #                                      76 Found!
+eq1 = 00110000
+eq2 = 01000100
+
+System #                                      77 Found!
+eq1 = 00110000
+eq2 = 01001000
+
+System #                                      78 Found!
+eq1 = 00110000
+eq2 = 01010000
+
+System #                                      79 Found!
+eq1 = 00110000
+eq2 = 01100000
+
+System #                                      80 Found!
+eq1 = 00110000
+eq2 = 10000100
+
+System #                                      81 Found!
+eq1 = 00110000
+eq2 = 10001000
+
+System #                                      82 Found!
+eq1 = 00110000
+eq2 = 10010000
+
+System #                                      83 Found!
+eq1 = 00110000
+eq2 = 10100000
+
+System #                                      84 Found!
+eq1 = 00110000
+eq2 = 11000000
+
+System #                                      85 Found!
+eq1 = 01000100
+eq2 = 00001100
+
+System #                                      86 Found!
+eq1 = 01000100
+eq2 = 00010100
+
+System #                                      87 Found!
+eq1 = 01000100
+eq2 = 00011000
+
+System #                                      88 Found!
+eq1 = 01000100
+eq2 = 00100100
+
+System #                                      89 Found!
+eq1 = 01000100
+eq2 = 00101000
+
+System #                                      90 Found!
+eq1 = 01000100
+eq2 = 00110000
+
+System #                                      91 Found!
+eq1 = 01000100
+eq2 = 01001000
+
+System #                                      92 Found!
+eq1 = 01000100
+eq2 = 01010000
+
+System #                                      93 Found!
+eq1 = 01000100
+eq2 = 01100000
+
+System #                                      94 Found!
+eq1 = 01000100
+eq2 = 10000100
+
+System #                                      95 Found!
+eq1 = 01000100
+eq2 = 10001000
+
+System #                                      96 Found!
+eq1 = 01000100
+eq2 = 10010000
+
+System #                                      97 Found!
+eq1 = 01000100
+eq2 = 10100000
+
+System #                                      98 Found!
+eq1 = 01000100
+eq2 = 11000000
+
+System #                                      99 Found!
+eq1 = 01001000
+eq2 = 00001100
+
+System #                                     100 Found!
+eq1 = 01001000
+eq2 = 00010100
+
+System #                                     101 Found!
+eq1 = 01001000
+eq2 = 00011000
+
+System #                                     102 Found!
+eq1 = 01001000
+eq2 = 00100100
+
+System #                                     103 Found!
+eq1 = 01001000
+eq2 = 00101000
+
+System #                                     104 Found!
+eq1 = 01001000
+eq2 = 00110000
+
+System #                                     105 Found!
+eq1 = 01001000
+eq2 = 01000100
+
+System #                                     106 Found!
+eq1 = 01001000
+eq2 = 01010000
+
+System #                                     107 Found!
+eq1 = 01001000
+eq2 = 01100000
+
+System #                                     108 Found!
+eq1 = 01001000
+eq2 = 10000100
+
+System #                                     109 Found!
+eq1 = 01001000
+eq2 = 10001000
+
+System #                                     110 Found!
+eq1 = 01001000
+eq2 = 10010000
+
+System #                                     111 Found!
+eq1 = 01001000
+eq2 = 10100000
+
+System #                                     112 Found!
+eq1 = 01001000
+eq2 = 11000000
+
+System #                                     113 Found!
+eq1 = 01010000
+eq2 = 00001100
+
+System #                                     114 Found!
+eq1 = 01010000
+eq2 = 00010100
+
+System #                                     115 Found!
+eq1 = 01010000
+eq2 = 00011000
+
+System #                                     116 Found!
+eq1 = 01010000
+eq2 = 00100100
+
+System #                                     117 Found!
+eq1 = 01010000
+eq2 = 00101000
+
+System #                                     118 Found!
+eq1 = 01010000
+eq2 = 00110000
+
+System #                                     119 Found!
+eq1 = 01010000
+eq2 = 01000100
+
+System #                                     120 Found!
+eq1 = 01010000
+eq2 = 01001000
+
+System #                                     121 Found!
+eq1 = 01010000
+eq2 = 01100000
+
+System #                                     122 Found!
+eq1 = 01010000
+eq2 = 10000100
+
+System #                                     123 Found!
+eq1 = 01010000
+eq2 = 10001000
+
+System #                                     124 Found!
+eq1 = 01010000
+eq2 = 10010000
+
+System #                                     125 Found!
+eq1 = 01010000
+eq2 = 10100000
+
+System #                                     126 Found!
+eq1 = 01010000
+eq2 = 11000000
+
+System #                                     127 Found!
+eq1 = 01100000
+eq2 = 00001100
+
+System #                                     128 Found!
+eq1 = 01100000
+eq2 = 00010100
+
+System #                                     129 Found!
+eq1 = 01100000
+eq2 = 00011000
+
+System #                                     130 Found!
+eq1 = 01100000
+eq2 = 00100100
+
+System #                                     131 Found!
+eq1 = 01100000
+eq2 = 00101000
+
+System #                                     132 Found!
+eq1 = 01100000
+eq2 = 00110000
+
+System #                                     133 Found!
+eq1 = 01100000
+eq2 = 01000100
+
+System #                                     134 Found!
+eq1 = 01100000
+eq2 = 01001000
+
+System #                                     135 Found!
+eq1 = 01100000
+eq2 = 01010000
+
+System #                                     136 Found!
+eq1 = 01100000
+eq2 = 10000100
+
+System #                                     137 Found!
+eq1 = 01100000
+eq2 = 10001000
+
+System #                                     138 Found!
+eq1 = 01100000
+eq2 = 10010000
+
+System #                                     139 Found!
+eq1 = 01100000
+eq2 = 10100000
+
+System #                                     140 Found!
+eq1 = 01100000
+eq2 = 11000000
+
+System #                                     141 Found!
+eq1 = 10000100
+eq2 = 00001100
+
+System #                                     142 Found!
+eq1 = 10000100
+eq2 = 00010100
+
+System #                                     143 Found!
+eq1 = 10000100
+eq2 = 00011000
+
+System #                                     144 Found!
+eq1 = 10000100
+eq2 = 00100100
+
+System #                                     145 Found!
+eq1 = 10000100
+eq2 = 00101000
+
+System #                                     146 Found!
+eq1 = 10000100
+eq2 = 00110000
+
+System #                                     147 Found!
+eq1 = 10000100
+eq2 = 01000100
+
+System #                                     148 Found!
+eq1 = 10000100
+eq2 = 01001000
+
+System #                                     149 Found!
+eq1 = 10000100
+eq2 = 01010000
+
+System #                                     150 Found!
+eq1 = 10000100
+eq2 = 01100000
+
+System #                                     151 Found!
+eq1 = 10000100
+eq2 = 10001000
+
+System #                                     152 Found!
+eq1 = 10000100
+eq2 = 10010000
+
+System #                                     153 Found!
+eq1 = 10000100
+eq2 = 10100000
+
+System #                                     154 Found!
+eq1 = 10000100
+eq2 = 11000000
+
+System #                                     155 Found!
+eq1 = 10001000
+eq2 = 00001100
+
+System #                                     156 Found!
+eq1 = 10001000
+eq2 = 00010100
+
+System #                                     157 Found!
+eq1 = 10001000
+eq2 = 00011000
+
+System #                                     158 Found!
+eq1 = 10001000
+eq2 = 00100100
+
+System #                                     159 Found!
+eq1 = 10001000
+eq2 = 00101000
+
+System #                                     160 Found!
+eq1 = 10001000
+eq2 = 00110000
+
+System #                                     161 Found!
+eq1 = 10001000
+eq2 = 01000100
+
+System #                                     162 Found!
+eq1 = 10001000
+eq2 = 01001000
+
+System #                                     163 Found!
+eq1 = 10001000
+eq2 = 01010000
+
+System #                                     164 Found!
+eq1 = 10001000
+eq2 = 01100000
+
+System #                                     165 Found!
+eq1 = 10001000
+eq2 = 10000100
+
+System #                                     166 Found!
+eq1 = 10001000
+eq2 = 10010000
+
+System #                                     167 Found!
+eq1 = 10001000
+eq2 = 10100000
+
+System #                                     168 Found!
+eq1 = 10001000
+eq2 = 11000000
+
+System #                                     169 Found!
+eq1 = 10010000
+eq2 = 00001100
+
+System #                                     170 Found!
+eq1 = 10010000
+eq2 = 00010100
+
+System #                                     171 Found!
+eq1 = 10010000
+eq2 = 00011000
+
+System #                                     172 Found!
+eq1 = 10010000
+eq2 = 00100100
+
+System #                                     173 Found!
+eq1 = 10010000
+eq2 = 00101000
+
+System #                                     174 Found!
+eq1 = 10010000
+eq2 = 00110000
+
+System #                                     175 Found!
+eq1 = 10010000
+eq2 = 01000100
+
+System #                                     176 Found!
+eq1 = 10010000
+eq2 = 01001000
+
+System #                                     177 Found!
+eq1 = 10010000
+eq2 = 01010000
+
+System #                                     178 Found!
+eq1 = 10010000
+eq2 = 01100000
+
+System #                                     179 Found!
+eq1 = 10010000
+eq2 = 10000100
+
+System #                                     180 Found!
+eq1 = 10010000
+eq2 = 10001000
+
+System #                                     181 Found!
+eq1 = 10010000
+eq2 = 10100000
+
+System #                                     182 Found!
+eq1 = 10010000
+eq2 = 11000000
+
+System #                                     183 Found!
+eq1 = 10100000
+eq2 = 00001100
+
+System #                                     184 Found!
+eq1 = 10100000
+eq2 = 00010100
+
+System #                                     185 Found!
+eq1 = 10100000
+eq2 = 00011000
+
+System #                                     186 Found!
+eq1 = 10100000
+eq2 = 00100100
+
+System #                                     187 Found!
+eq1 = 10100000
+eq2 = 00101000
+
+System #                                     188 Found!
+eq1 = 10100000
+eq2 = 00110000
+
+System #                                     189 Found!
+eq1 = 10100000
+eq2 = 01000100
+
+System #                                     190 Found!
+eq1 = 10100000
+eq2 = 01001000
+
+System #                                     191 Found!
+eq1 = 10100000
+eq2 = 01010000
+
+System #                                     192 Found!
+eq1 = 10100000
+eq2 = 01100000
+
+System #                                     193 Found!
+eq1 = 10100000
+eq2 = 10000100
+
+System #                                     194 Found!
+eq1 = 10100000
+eq2 = 10001000
+
+System #                                     195 Found!
+eq1 = 10100000
+eq2 = 10010000
+
+System #                                     196 Found!
+eq1 = 10100000
+eq2 = 11000000
+
+System #                                     197 Found!
+eq1 = 11000000
+eq2 = 00001100
+
+System #                                     198 Found!
+eq1 = 11000000
+eq2 = 00010100
+
+System #                                     199 Found!
+eq1 = 11000000
+eq2 = 00011000
+
+System #                                     200 Found!
+eq1 = 11000000
+eq2 = 00100100
+
+System #                                     201 Found!
+eq1 = 11000000
+eq2 = 00101000
+
+System #                                     202 Found!
+eq1 = 11000000
+eq2 = 00110000
+
+System #                                     203 Found!
+eq1 = 11000000
+eq2 = 01000100
+
+System #                                     204 Found!
+eq1 = 11000000
+eq2 = 01001000
+
+System #                                     205 Found!
+eq1 = 11000000
+eq2 = 01010000
+
+System #                                     206 Found!
+eq1 = 11000000
+eq2 = 01100000
+
+System #                                     207 Found!
+eq1 = 11000000
+eq2 = 10000100
+
+System #                                     208 Found!
+eq1 = 11000000
+eq2 = 10001000
+
+System #                                     209 Found!
+eq1 = 11000000
+eq2 = 10010000
+
+System #                                     210 Found!
+eq1 = 11000000
+eq2 = 10100000
+
+System #                                     211 Found!
+eq1 = 00001101
+eq2 = 00010100
+
+System #                                     212 Found!
+eq1 = 00001101
+eq2 = 00011000
+
+System #                                     213 Found!
+eq1 = 00001101
+eq2 = 00100100
+
+System #                                     214 Found!
+eq1 = 00001101
+eq2 = 00101000
+
+System #                                     215 Found!
+eq1 = 00001101
+eq2 = 00110000
+
+System #                                     216 Found!
+eq1 = 00001101
+eq2 = 01000100
+
+System #                                     217 Found!
+eq1 = 00001101
+eq2 = 01001000
+
+System #                                     218 Found!
+eq1 = 00001101
+eq2 = 01010000
+
+System #                                     219 Found!
+eq1 = 00001101
+eq2 = 01100000
+
+System #                                     220 Found!
+eq1 = 00001101
+eq2 = 10000100
+
+System #                                     221 Found!
+eq1 = 00001101
+eq2 = 10001000
+
+System #                                     222 Found!
+eq1 = 00001101
+eq2 = 10010000
+
+System #                                     223 Found!
+eq1 = 00001101
+eq2 = 10100000
+
+System #                                     224 Found!
+eq1 = 00001101
+eq2 = 11000000
+
+System #                                     225 Found!
+eq1 = 00010101
+eq2 = 00001100
+
+System #                                     226 Found!
+eq1 = 00010101
+eq2 = 00011000
+
+System #                                     227 Found!
+eq1 = 00010101
+eq2 = 00100100
+
+System #                                     228 Found!
+eq1 = 00010101
+eq2 = 00101000
+
+System #                                     229 Found!
+eq1 = 00010101
+eq2 = 00110000
+
+System #                                     230 Found!
+eq1 = 00010101
+eq2 = 01000100
+
+System #                                     231 Found!
+eq1 = 00010101
+eq2 = 01001000
+
+System #                                     232 Found!
+eq1 = 00010101
+eq2 = 01010000
+
+System #                                     233 Found!
+eq1 = 00010101
+eq2 = 01100000
+
+System #                                     234 Found!
+eq1 = 00010101
+eq2 = 10000100
+
+System #                                     235 Found!
+eq1 = 00010101
+eq2 = 10001000
+
+System #                                     236 Found!
+eq1 = 00010101
+eq2 = 10010000
+
+System #                                     237 Found!
+eq1 = 00010101
+eq2 = 10100000
+
+System #                                     238 Found!
+eq1 = 00010101
+eq2 = 11000000
+
+System #                                     239 Found!
+eq1 = 00011001
+eq2 = 00001100
+
+System #                                     240 Found!
+eq1 = 00011001
+eq2 = 00010100
+
+System #                                     241 Found!
+eq1 = 00011001
+eq2 = 00100100
+
+System #                                     242 Found!
+eq1 = 00011001
+eq2 = 00101000
+
+System #                                     243 Found!
+eq1 = 00011001
+eq2 = 00110000
+
+System #                                     244 Found!
+eq1 = 00011001
+eq2 = 01000100
+
+System #                                     245 Found!
+eq1 = 00011001
+eq2 = 01001000
+
+System #                                     246 Found!
+eq1 = 00011001
+eq2 = 01010000
+
+System #                                     247 Found!
+eq1 = 00011001
+eq2 = 01100000
+
+System #                                     248 Found!
+eq1 = 00011001
+eq2 = 10000100
+
+System #                                     249 Found!
+eq1 = 00011001
+eq2 = 10001000
+
+System #                                     250 Found!
+eq1 = 00011001
+eq2 = 10010000
+
+System #                                     251 Found!
+eq1 = 00011001
+eq2 = 10100000
+
+System #                                     252 Found!
+eq1 = 00011001
+eq2 = 11000000
+
+System #                                     253 Found!
+eq1 = 00100101
+eq2 = 00001100
+
+System #                                     254 Found!
+eq1 = 00100101
+eq2 = 00010100
+
+System #                                     255 Found!
+eq1 = 00100101
+eq2 = 00011000
+
+System #                                     256 Found!
+eq1 = 00100101
+eq2 = 00101000
+
+System #                                     257 Found!
+eq1 = 00100101
+eq2 = 00110000
+
+System #                                     258 Found!
+eq1 = 00100101
+eq2 = 01000100
+
+System #                                     259 Found!
+eq1 = 00100101
+eq2 = 01001000
+
+System #                                     260 Found!
+eq1 = 00100101
+eq2 = 01010000
+
+System #                                     261 Found!
+eq1 = 00100101
+eq2 = 01100000
+
+System #                                     262 Found!
+eq1 = 00100101
+eq2 = 10000100
+
+System #                                     263 Found!
+eq1 = 00100101
+eq2 = 10001000
+
+System #                                     264 Found!
+eq1 = 00100101
+eq2 = 10010000
+
+System #                                     265 Found!
+eq1 = 00100101
+eq2 = 10100000
+
+System #                                     266 Found!
+eq1 = 00100101
+eq2 = 11000000
+
+System #                                     267 Found!
+eq1 = 00101001
+eq2 = 00001100
+
+System #                                     268 Found!
+eq1 = 00101001
+eq2 = 00010100
+
+System #                                     269 Found!
+eq1 = 00101001
+eq2 = 00011000
+
+System #                                     270 Found!
+eq1 = 00101001
+eq2 = 00100100
+
+System #                                     271 Found!
+eq1 = 00101001
+eq2 = 00110000
+
+System #                                     272 Found!
+eq1 = 00101001
+eq2 = 01000100
+
+System #                                     273 Found!
+eq1 = 00101001
+eq2 = 01001000
+
+System #                                     274 Found!
+eq1 = 00101001
+eq2 = 01010000
+
+System #                                     275 Found!
+eq1 = 00101001
+eq2 = 01100000
+
+System #                                     276 Found!
+eq1 = 00101001
+eq2 = 10000100
+
+System #                                     277 Found!
+eq1 = 00101001
+eq2 = 10001000
+
+System #                                     278 Found!
+eq1 = 00101001
+eq2 = 10010000
+
+System #                                     279 Found!
+eq1 = 00101001
+eq2 = 10100000
+
+System #                                     280 Found!
+eq1 = 00101001
+eq2 = 11000000
+
+System #                                     281 Found!
+eq1 = 00110001
+eq2 = 00001100
+
+System #                                     282 Found!
+eq1 = 00110001
+eq2 = 00010100
+
+System #                                     283 Found!
+eq1 = 00110001
+eq2 = 00011000
+
+System #                                     284 Found!
+eq1 = 00110001
+eq2 = 00100100
+
+System #                                     285 Found!
+eq1 = 00110001
+eq2 = 00101000
+
+System #                                     286 Found!
+eq1 = 00110001
+eq2 = 01000100
+
+System #                                     287 Found!
+eq1 = 00110001
+eq2 = 01001000
+
+System #                                     288 Found!
+eq1 = 00110001
+eq2 = 01010000
+
+System #                                     289 Found!
+eq1 = 00110001
+eq2 = 01100000
+
+System #                                     290 Found!
+eq1 = 00110001
+eq2 = 10000100
+
+System #                                     291 Found!
+eq1 = 00110001
+eq2 = 10001000
+
+System #                                     292 Found!
+eq1 = 00110001
+eq2 = 10010000
+
+System #                                     293 Found!
+eq1 = 00110001
+eq2 = 10100000
+
+System #                                     294 Found!
+eq1 = 00110001
+eq2 = 11000000
+
+System #                                     295 Found!
+eq1 = 01000101
+eq2 = 00001100
+
+System #                                     296 Found!
+eq1 = 01000101
+eq2 = 00010100
+
+System #                                     297 Found!
+eq1 = 01000101
+eq2 = 00011000
+
+System #                                     298 Found!
+eq1 = 01000101
+eq2 = 00100100
+
+System #                                     299 Found!
+eq1 = 01000101
+eq2 = 00101000
+
+System #                                     300 Found!
+eq1 = 01000101
+eq2 = 00110000
+
+System #                                     301 Found!
+eq1 = 01000101
+eq2 = 01001000
+
+System #                                     302 Found!
+eq1 = 01000101
+eq2 = 01010000
+
+System #                                     303 Found!
+eq1 = 01000101
+eq2 = 01100000
+
+System #                                     304 Found!
+eq1 = 01000101
+eq2 = 10000100
+
+System #                                     305 Found!
+eq1 = 01000101
+eq2 = 10001000
+
+System #                                     306 Found!
+eq1 = 01000101
+eq2 = 10010000
+
+System #                                     307 Found!
+eq1 = 01000101
+eq2 = 10100000
+
+System #                                     308 Found!
+eq1 = 01000101
+eq2 = 11000000
+
+System #                                     309 Found!
+eq1 = 01001001
+eq2 = 00001100
+
+System #                                     310 Found!
+eq1 = 01001001
+eq2 = 00010100
+
+System #                                     311 Found!
+eq1 = 01001001
+eq2 = 00011000
+
+System #                                     312 Found!
+eq1 = 01001001
+eq2 = 00100100
+
+System #                                     313 Found!
+eq1 = 01001001
+eq2 = 00101000
+
+System #                                     314 Found!
+eq1 = 01001001
+eq2 = 00110000
+
+System #                                     315 Found!
+eq1 = 01001001
+eq2 = 01000100
+
+System #                                     316 Found!
+eq1 = 01001001
+eq2 = 01010000
+
+System #                                     317 Found!
+eq1 = 01001001
+eq2 = 01100000
+
+System #                                     318 Found!
+eq1 = 01001001
+eq2 = 10000100
+
+System #                                     319 Found!
+eq1 = 01001001
+eq2 = 10001000
+
+System #                                     320 Found!
+eq1 = 01001001
+eq2 = 10010000
+
+System #                                     321 Found!
+eq1 = 01001001
+eq2 = 10100000
+
+System #                                     322 Found!
+eq1 = 01001001
+eq2 = 11000000
+
+System #                                     323 Found!
+eq1 = 01010001
+eq2 = 00001100
+
+System #                                     324 Found!
+eq1 = 01010001
+eq2 = 00010100
+
+System #                                     325 Found!
+eq1 = 01010001
+eq2 = 00011000
+
+System #                                     326 Found!
+eq1 = 01010001
+eq2 = 00100100
+
+System #                                     327 Found!
+eq1 = 01010001
+eq2 = 00101000
+
+System #                                     328 Found!
+eq1 = 01010001
+eq2 = 00110000
+
+System #                                     329 Found!
+eq1 = 01010001
+eq2 = 01000100
+
+System #                                     330 Found!
+eq1 = 01010001
+eq2 = 01001000
+
+System #                                     331 Found!
+eq1 = 01010001
+eq2 = 01100000
+
+System #                                     332 Found!
+eq1 = 01010001
+eq2 = 10000100
+
+System #                                     333 Found!
+eq1 = 01010001
+eq2 = 10001000
+
+System #                                     334 Found!
+eq1 = 01010001
+eq2 = 10010000
+
+System #                                     335 Found!
+eq1 = 01010001
+eq2 = 10100000
+
+System #                                     336 Found!
+eq1 = 01010001
+eq2 = 11000000
+
+System #                                     337 Found!
+eq1 = 01100001
+eq2 = 00001100
+
+System #                                     338 Found!
+eq1 = 01100001
+eq2 = 00010100
+
+System #                                     339 Found!
+eq1 = 01100001
+eq2 = 00011000
+
+System #                                     340 Found!
+eq1 = 01100001
+eq2 = 00100100
+
+System #                                     341 Found!
+eq1 = 01100001
+eq2 = 00101000
+
+System #                                     342 Found!
+eq1 = 01100001
+eq2 = 00110000
+
+System #                                     343 Found!
+eq1 = 01100001
+eq2 = 01000100
+
+System #                                     344 Found!
+eq1 = 01100001
+eq2 = 01001000
+
+System #                                     345 Found!
+eq1 = 01100001
+eq2 = 01010000
+
+System #                                     346 Found!
+eq1 = 01100001
+eq2 = 10000100
+
+System #                                     347 Found!
+eq1 = 01100001
+eq2 = 10001000
+
+System #                                     348 Found!
+eq1 = 01100001
+eq2 = 10010000
+
+System #                                     349 Found!
+eq1 = 01100001
+eq2 = 10100000
+
+System #                                     350 Found!
+eq1 = 01100001
+eq2 = 11000000
+
+System #                                     351 Found!
+eq1 = 10000101
+eq2 = 00001100
+
+System #                                     352 Found!
+eq1 = 10000101
+eq2 = 00010100
+
+System #                                     353 Found!
+eq1 = 10000101
+eq2 = 00011000
+
+System #                                     354 Found!
+eq1 = 10000101
+eq2 = 00100100
+
+System #                                     355 Found!
+eq1 = 10000101
+eq2 = 00101000
+
+System #                                     356 Found!
+eq1 = 10000101
+eq2 = 00110000
+
+System #                                     357 Found!
+eq1 = 10000101
+eq2 = 01000100
+
+System #                                     358 Found!
+eq1 = 10000101
+eq2 = 01001000
+
+System #                                     359 Found!
+eq1 = 10000101
+eq2 = 01010000
+
+System #                                     360 Found!
+eq1 = 10000101
+eq2 = 01100000
+
+System #                                     361 Found!
+eq1 = 10000101
+eq2 = 10001000
+
+System #                                     362 Found!
+eq1 = 10000101
+eq2 = 10010000
+
+System #                                     363 Found!
+eq1 = 10000101
+eq2 = 10100000
+
+System #                                     364 Found!
+eq1 = 10000101
+eq2 = 11000000
+
+System #                                     365 Found!
+eq1 = 10001001
+eq2 = 00001100
+
+System #                                     366 Found!
+eq1 = 10001001
+eq2 = 00010100
+
+System #                                     367 Found!
+eq1 = 10001001
+eq2 = 00011000
+
+System #                                     368 Found!
+eq1 = 10001001
+eq2 = 00100100
+
+System #                                     369 Found!
+eq1 = 10001001
+eq2 = 00101000
+
+System #                                     370 Found!
+eq1 = 10001001
+eq2 = 00110000
+
+System #                                     371 Found!
+eq1 = 10001001
+eq2 = 01000100
+
+System #                                     372 Found!
+eq1 = 10001001
+eq2 = 01001000
+
+System #                                     373 Found!
+eq1 = 10001001
+eq2 = 01010000
+
+System #                                     374 Found!
+eq1 = 10001001
+eq2 = 01100000
+
+System #                                     375 Found!
+eq1 = 10001001
+eq2 = 10000100
+
+System #                                     376 Found!
+eq1 = 10001001
+eq2 = 10010000
+
+System #                                     377 Found!
+eq1 = 10001001
+eq2 = 10100000
+
+System #                                     378 Found!
+eq1 = 10001001
+eq2 = 11000000
+
+System #                                     379 Found!
+eq1 = 10010001
+eq2 = 00001100
+
+System #                                     380 Found!
+eq1 = 10010001
+eq2 = 00010100
+
+System #                                     381 Found!
+eq1 = 10010001
+eq2 = 00011000
+
+System #                                     382 Found!
+eq1 = 10010001
+eq2 = 00100100
+
+System #                                     383 Found!
+eq1 = 10010001
+eq2 = 00101000
+
+System #                                     384 Found!
+eq1 = 10010001
+eq2 = 00110000
+
+System #                                     385 Found!
+eq1 = 10010001
+eq2 = 01000100
+
+System #                                     386 Found!
+eq1 = 10010001
+eq2 = 01001000
+
+System #                                     387 Found!
+eq1 = 10010001
+eq2 = 01010000
+
+System #                                     388 Found!
+eq1 = 10010001
+eq2 = 01100000
+
+System #                                     389 Found!
+eq1 = 10010001
+eq2 = 10000100
+
+System #                                     390 Found!
+eq1 = 10010001
+eq2 = 10001000
+
+System #                                     391 Found!
+eq1 = 10010001
+eq2 = 10100000
+
+System #                                     392 Found!
+eq1 = 10010001
+eq2 = 11000000
+
+System #                                     393 Found!
+eq1 = 10100001
+eq2 = 00001100
+
+System #                                     394 Found!
+eq1 = 10100001
+eq2 = 00010100
+
+System #                                     395 Found!
+eq1 = 10100001
+eq2 = 00011000
+
+System #                                     396 Found!
+eq1 = 10100001
+eq2 = 00100100
+
+System #                                     397 Found!
+eq1 = 10100001
+eq2 = 00101000
+
+System #                                     398 Found!
+eq1 = 10100001
+eq2 = 00110000
+
+System #                                     399 Found!
+eq1 = 10100001
+eq2 = 01000100
+
+System #                                     400 Found!
+eq1 = 10100001
+eq2 = 01001000
+
+System #                                     401 Found!
+eq1 = 10100001
+eq2 = 01010000
+
+System #                                     402 Found!
+eq1 = 10100001
+eq2 = 01100000
+
+System #                                     403 Found!
+eq1 = 10100001
+eq2 = 10000100
+
+System #                                     404 Found!
+eq1 = 10100001
+eq2 = 10001000
+
+System #                                     405 Found!
+eq1 = 10100001
+eq2 = 10010000
+
+System #                                     406 Found!
+eq1 = 10100001
+eq2 = 11000000
+
+System #                                     407 Found!
+eq1 = 11000001
+eq2 = 00001100
+
+System #                                     408 Found!
+eq1 = 11000001
+eq2 = 00010100
+
+System #                                     409 Found!
+eq1 = 11000001
+eq2 = 00011000
+
+System #                                     410 Found!
+eq1 = 11000001
+eq2 = 00100100
+
+System #                                     411 Found!
+eq1 = 11000001
+eq2 = 00101000
+
+System #                                     412 Found!
+eq1 = 11000001
+eq2 = 00110000
+
+System #                                     413 Found!
+eq1 = 11000001
+eq2 = 01000100
+
+System #                                     414 Found!
+eq1 = 11000001
+eq2 = 01001000
+
+System #                                     415 Found!
+eq1 = 11000001
+eq2 = 01010000
+
+System #                                     416 Found!
+eq1 = 11000001
+eq2 = 01100000
+
+System #                                     417 Found!
+eq1 = 11000001
+eq2 = 10000100
+
+System #                                     418 Found!
+eq1 = 11000001
+eq2 = 10001000
+
+System #                                     419 Found!
+eq1 = 11000001
+eq2 = 10010000
+
+System #                                     420 Found!
+eq1 = 11000001
+eq2 = 10100000
+
+System #                                     421 Found!
+eq1 = 00001100
+eq2 = 00010101
+
+System #                                     422 Found!
+eq1 = 00001100
+eq2 = 00011001
+
+System #                                     423 Found!
+eq1 = 00001100
+eq2 = 00100101
+
+System #                                     424 Found!
+eq1 = 00001100
+eq2 = 00101001
+
+System #                                     425 Found!
+eq1 = 00001100
+eq2 = 00110001
+
+System #                                     426 Found!
+eq1 = 00001100
+eq2 = 01000101
+
+System #                                     427 Found!
+eq1 = 00001100
+eq2 = 01001001
+
+System #                                     428 Found!
+eq1 = 00001100
+eq2 = 01010001
+
+System #                                     429 Found!
+eq1 = 00001100
+eq2 = 01100001
+
+System #                                     430 Found!
+eq1 = 00001100
+eq2 = 10000101
+
+System #                                     431 Found!
+eq1 = 00001100
+eq2 = 10001001
+
+System #                                     432 Found!
+eq1 = 00001100
+eq2 = 10010001
+
+System #                                     433 Found!
+eq1 = 00001100
+eq2 = 10100001
+
+System #                                     434 Found!
+eq1 = 00001100
+eq2 = 11000001
+
+System #                                     435 Found!
+eq1 = 00010100
+eq2 = 00001101
+
+System #                                     436 Found!
+eq1 = 00010100
+eq2 = 00011001
+
+System #                                     437 Found!
+eq1 = 00010100
+eq2 = 00100101
+
+System #                                     438 Found!
+eq1 = 00010100
+eq2 = 00101001
+
+System #                                     439 Found!
+eq1 = 00010100
+eq2 = 00110001
+
+System #                                     440 Found!
+eq1 = 00010100
+eq2 = 01000101
+
+System #                                     441 Found!
+eq1 = 00010100
+eq2 = 01001001
+
+System #                                     442 Found!
+eq1 = 00010100
+eq2 = 01010001
+
+System #                                     443 Found!
+eq1 = 00010100
+eq2 = 01100001
+
+System #                                     444 Found!
+eq1 = 00010100
+eq2 = 10000101
+
+System #                                     445 Found!
+eq1 = 00010100
+eq2 = 10001001
+
+System #                                     446 Found!
+eq1 = 00010100
+eq2 = 10010001
+
+System #                                     447 Found!
+eq1 = 00010100
+eq2 = 10100001
+
+System #                                     448 Found!
+eq1 = 00010100
+eq2 = 11000001
+
+System #                                     449 Found!
+eq1 = 00011000
+eq2 = 00001101
+
+System #                                     450 Found!
+eq1 = 00011000
+eq2 = 00010101
+
+System #                                     451 Found!
+eq1 = 00011000
+eq2 = 00100101
+
+System #                                     452 Found!
+eq1 = 00011000
+eq2 = 00101001
+
+System #                                     453 Found!
+eq1 = 00011000
+eq2 = 00110001
+
+System #                                     454 Found!
+eq1 = 00011000
+eq2 = 01000101
+
+System #                                     455 Found!
+eq1 = 00011000
+eq2 = 01001001
+
+System #                                     456 Found!
+eq1 = 00011000
+eq2 = 01010001
+
+System #                                     457 Found!
+eq1 = 00011000
+eq2 = 01100001
+
+System #                                     458 Found!
+eq1 = 00011000
+eq2 = 10000101
+
+System #                                     459 Found!
+eq1 = 00011000
+eq2 = 10001001
+
+System #                                     460 Found!
+eq1 = 00011000
+eq2 = 10010001
+
+System #                                     461 Found!
+eq1 = 00011000
+eq2 = 10100001
+
+System #                                     462 Found!
+eq1 = 00011000
+eq2 = 11000001
+
+System #                                     463 Found!
+eq1 = 00100100
+eq2 = 00001101
+
+System #                                     464 Found!
+eq1 = 00100100
+eq2 = 00010101
+
+System #                                     465 Found!
+eq1 = 00100100
+eq2 = 00011001
+
+System #                                     466 Found!
+eq1 = 00100100
+eq2 = 00101001
+
+System #                                     467 Found!
+eq1 = 00100100
+eq2 = 00110001
+
+System #                                     468 Found!
+eq1 = 00100100
+eq2 = 01000101
+
+System #                                     469 Found!
+eq1 = 00100100
+eq2 = 01001001
+
+System #                                     470 Found!
+eq1 = 00100100
+eq2 = 01010001
+
+System #                                     471 Found!
+eq1 = 00100100
+eq2 = 01100001
+
+System #                                     472 Found!
+eq1 = 00100100
+eq2 = 10000101
+
+System #                                     473 Found!
+eq1 = 00100100
+eq2 = 10001001
+
+System #                                     474 Found!
+eq1 = 00100100
+eq2 = 10010001
+
+System #                                     475 Found!
+eq1 = 00100100
+eq2 = 10100001
+
+System #                                     476 Found!
+eq1 = 00100100
+eq2 = 11000001
+
+System #                                     477 Found!
+eq1 = 00101000
+eq2 = 00001101
+
+System #                                     478 Found!
+eq1 = 00101000
+eq2 = 00010101
+
+System #                                     479 Found!
+eq1 = 00101000
+eq2 = 00011001
+
+System #                                     480 Found!
+eq1 = 00101000
+eq2 = 00100101
+
+System #                                     481 Found!
+eq1 = 00101000
+eq2 = 00110001
+
+System #                                     482 Found!
+eq1 = 00101000
+eq2 = 01000101
+
+System #                                     483 Found!
+eq1 = 00101000
+eq2 = 01001001
+
+System #                                     484 Found!
+eq1 = 00101000
+eq2 = 01010001
+
+System #                                     485 Found!
+eq1 = 00101000
+eq2 = 01100001
+
+System #                                     486 Found!
+eq1 = 00101000
+eq2 = 10000101
+
+System #                                     487 Found!
+eq1 = 00101000
+eq2 = 10001001
+
+System #                                     488 Found!
+eq1 = 00101000
+eq2 = 10010001
+
+System #                                     489 Found!
+eq1 = 00101000
+eq2 = 10100001
+
+System #                                     490 Found!
+eq1 = 00101000
+eq2 = 11000001
+
+System #                                     491 Found!
+eq1 = 00110000
+eq2 = 00001101
+
+System #                                     492 Found!
+eq1 = 00110000
+eq2 = 00010101
+
+System #                                     493 Found!
+eq1 = 00110000
+eq2 = 00011001
+
+System #                                     494 Found!
+eq1 = 00110000
+eq2 = 00100101
+
+System #                                     495 Found!
+eq1 = 00110000
+eq2 = 00101001
+
+System #                                     496 Found!
+eq1 = 00110000
+eq2 = 01000101
+
+System #                                     497 Found!
+eq1 = 00110000
+eq2 = 01001001
+
+System #                                     498 Found!
+eq1 = 00110000
+eq2 = 01010001
+
+System #                                     499 Found!
+eq1 = 00110000
+eq2 = 01100001
+
+System #                                     500 Found!
+eq1 = 00110000
+eq2 = 10000101
+
+System #                                     501 Found!
+eq1 = 00110000
+eq2 = 10001001
+
+System #                                     502 Found!
+eq1 = 00110000
+eq2 = 10010001
+
+System #                                     503 Found!
+eq1 = 00110000
+eq2 = 10100001
+
+System #                                     504 Found!
+eq1 = 00110000
+eq2 = 11000001
+
+System #                                     505 Found!
+eq1 = 01000100
+eq2 = 00001101
+
+System #                                     506 Found!
+eq1 = 01000100
+eq2 = 00010101
+
+System #                                     507 Found!
+eq1 = 01000100
+eq2 = 00011001
+
+System #                                     508 Found!
+eq1 = 01000100
+eq2 = 00100101
+
+System #                                     509 Found!
+eq1 = 01000100
+eq2 = 00101001
+
+System #                                     510 Found!
+eq1 = 01000100
+eq2 = 00110001
+
+System #                                     511 Found!
+eq1 = 01000100
+eq2 = 01001001
+
+System #                                     512 Found!
+eq1 = 01000100
+eq2 = 01010001
+
+System #                                     513 Found!
+eq1 = 01000100
+eq2 = 01100001
+
+System #                                     514 Found!
+eq1 = 01000100
+eq2 = 10000101
+
+System #                                     515 Found!
+eq1 = 01000100
+eq2 = 10001001
+
+System #                                     516 Found!
+eq1 = 01000100
+eq2 = 10010001
+
+System #                                     517 Found!
+eq1 = 01000100
+eq2 = 10100001
+
+System #                                     518 Found!
+eq1 = 01000100
+eq2 = 11000001
+
+System #                                     519 Found!
+eq1 = 01001000
+eq2 = 00001101
+
+System #                                     520 Found!
+eq1 = 01001000
+eq2 = 00010101
+
+System #                                     521 Found!
+eq1 = 01001000
+eq2 = 00011001
+
+System #                                     522 Found!
+eq1 = 01001000
+eq2 = 00100101
+
+System #                                     523 Found!
+eq1 = 01001000
+eq2 = 00101001
+
+System #                                     524 Found!
+eq1 = 01001000
+eq2 = 00110001
+
+System #                                     525 Found!
+eq1 = 01001000
+eq2 = 01000101
+
+System #                                     526 Found!
+eq1 = 01001000
+eq2 = 01010001
+
+System #                                     527 Found!
+eq1 = 01001000
+eq2 = 01100001
+
+System #                                     528 Found!
+eq1 = 01001000
+eq2 = 10000101
+
+System #                                     529 Found!
+eq1 = 01001000
+eq2 = 10001001
+
+System #                                     530 Found!
+eq1 = 01001000
+eq2 = 10010001
+
+System #                                     531 Found!
+eq1 = 01001000
+eq2 = 10100001
+
+System #                                     532 Found!
+eq1 = 01001000
+eq2 = 11000001
+
+System #                                     533 Found!
+eq1 = 01010000
+eq2 = 00001101
+
+System #                                     534 Found!
+eq1 = 01010000
+eq2 = 00010101
+
+System #                                     535 Found!
+eq1 = 01010000
+eq2 = 00011001
+
+System #                                     536 Found!
+eq1 = 01010000
+eq2 = 00100101
+
+System #                                     537 Found!
+eq1 = 01010000
+eq2 = 00101001
+
+System #                                     538 Found!
+eq1 = 01010000
+eq2 = 00110001
+
+System #                                     539 Found!
+eq1 = 01010000
+eq2 = 01000101
+
+System #                                     540 Found!
+eq1 = 01010000
+eq2 = 01001001
+
+System #                                     541 Found!
+eq1 = 01010000
+eq2 = 01100001
+
+System #                                     542 Found!
+eq1 = 01010000
+eq2 = 10000101
+
+System #                                     543 Found!
+eq1 = 01010000
+eq2 = 10001001
+
+System #                                     544 Found!
+eq1 = 01010000
+eq2 = 10010001
+
+System #                                     545 Found!
+eq1 = 01010000
+eq2 = 10100001
+
+System #                                     546 Found!
+eq1 = 01010000
+eq2 = 11000001
+
+System #                                     547 Found!
+eq1 = 01100000
+eq2 = 00001101
+
+System #                                     548 Found!
+eq1 = 01100000
+eq2 = 00010101
+
+System #                                     549 Found!
+eq1 = 01100000
+eq2 = 00011001
+
+System #                                     550 Found!
+eq1 = 01100000
+eq2 = 00100101
+
+System #                                     551 Found!
+eq1 = 01100000
+eq2 = 00101001
+
+System #                                     552 Found!
+eq1 = 01100000
+eq2 = 00110001
+
+System #                                     553 Found!
+eq1 = 01100000
+eq2 = 01000101
+
+System #                                     554 Found!
+eq1 = 01100000
+eq2 = 01001001
+
+System #                                     555 Found!
+eq1 = 01100000
+eq2 = 01010001
+
+System #                                     556 Found!
+eq1 = 01100000
+eq2 = 10000101
+
+System #                                     557 Found!
+eq1 = 01100000
+eq2 = 10001001
+
+System #                                     558 Found!
+eq1 = 01100000
+eq2 = 10010001
+
+System #                                     559 Found!
+eq1 = 01100000
+eq2 = 10100001
+
+System #                                     560 Found!
+eq1 = 01100000
+eq2 = 11000001
+
+System #                                     561 Found!
+eq1 = 10000100
+eq2 = 00001101
+
+System #                                     562 Found!
+eq1 = 10000100
+eq2 = 00010101
+
+System #                                     563 Found!
+eq1 = 10000100
+eq2 = 00011001
+
+System #                                     564 Found!
+eq1 = 10000100
+eq2 = 00100101
+
+System #                                     565 Found!
+eq1 = 10000100
+eq2 = 00101001
+
+System #                                     566 Found!
+eq1 = 10000100
+eq2 = 00110001
+
+System #                                     567 Found!
+eq1 = 10000100
+eq2 = 01000101
+
+System #                                     568 Found!
+eq1 = 10000100
+eq2 = 01001001
+
+System #                                     569 Found!
+eq1 = 10000100
+eq2 = 01010001
+
+System #                                     570 Found!
+eq1 = 10000100
+eq2 = 01100001
+
+System #                                     571 Found!
+eq1 = 10000100
+eq2 = 10001001
+
+System #                                     572 Found!
+eq1 = 10000100
+eq2 = 10010001
+
+System #                                     573 Found!
+eq1 = 10000100
+eq2 = 10100001
+
+System #                                     574 Found!
+eq1 = 10000100
+eq2 = 11000001
+
+System #                                     575 Found!
+eq1 = 10001000
+eq2 = 00001101
+
+System #                                     576 Found!
+eq1 = 10001000
+eq2 = 00010101
+
+System #                                     577 Found!
+eq1 = 10001000
+eq2 = 00011001
+
+System #                                     578 Found!
+eq1 = 10001000
+eq2 = 00100101
+
+System #                                     579 Found!
+eq1 = 10001000
+eq2 = 00101001
+
+System #                                     580 Found!
+eq1 = 10001000
+eq2 = 00110001
+
+System #                                     581 Found!
+eq1 = 10001000
+eq2 = 01000101
+
+System #                                     582 Found!
+eq1 = 10001000
+eq2 = 01001001
+
+System #                                     583 Found!
+eq1 = 10001000
+eq2 = 01010001
+
+System #                                     584 Found!
+eq1 = 10001000
+eq2 = 01100001
+
+System #                                     585 Found!
+eq1 = 10001000
+eq2 = 10000101
+
+System #                                     586 Found!
+eq1 = 10001000
+eq2 = 10010001
+
+System #                                     587 Found!
+eq1 = 10001000
+eq2 = 10100001
+
+System #                                     588 Found!
+eq1 = 10001000
+eq2 = 11000001
+
+System #                                     589 Found!
+eq1 = 10010000
+eq2 = 00001101
+
+System #                                     590 Found!
+eq1 = 10010000
+eq2 = 00010101
+
+System #                                     591 Found!
+eq1 = 10010000
+eq2 = 00011001
+
+System #                                     592 Found!
+eq1 = 10010000
+eq2 = 00100101
+
+System #                                     593 Found!
+eq1 = 10010000
+eq2 = 00101001
+
+System #                                     594 Found!
+eq1 = 10010000
+eq2 = 00110001
+
+System #                                     595 Found!
+eq1 = 10010000
+eq2 = 01000101
+
+System #                                     596 Found!
+eq1 = 10010000
+eq2 = 01001001
+
+System #                                     597 Found!
+eq1 = 10010000
+eq2 = 01010001
+
+System #                                     598 Found!
+eq1 = 10010000
+eq2 = 01100001
+
+System #                                     599 Found!
+eq1 = 10010000
+eq2 = 10000101
+
+System #                                     600 Found!
+eq1 = 10010000
+eq2 = 10001001
+
+System #                                     601 Found!
+eq1 = 10010000
+eq2 = 10100001
+
+System #                                     602 Found!
+eq1 = 10010000
+eq2 = 11000001
+
+System #                                     603 Found!
+eq1 = 10100000
+eq2 = 00001101
+
+System #                                     604 Found!
+eq1 = 10100000
+eq2 = 00010101
+
+System #                                     605 Found!
+eq1 = 10100000
+eq2 = 00011001
+
+System #                                     606 Found!
+eq1 = 10100000
+eq2 = 00100101
+
+System #                                     607 Found!
+eq1 = 10100000
+eq2 = 00101001
+
+System #                                     608 Found!
+eq1 = 10100000
+eq2 = 00110001
+
+System #                                     609 Found!
+eq1 = 10100000
+eq2 = 01000101
+
+System #                                     610 Found!
+eq1 = 10100000
+eq2 = 01001001
+
+System #                                     611 Found!
+eq1 = 10100000
+eq2 = 01010001
+
+System #                                     612 Found!
+eq1 = 10100000
+eq2 = 01100001
+
+System #                                     613 Found!
+eq1 = 10100000
+eq2 = 10000101
+
+System #                                     614 Found!
+eq1 = 10100000
+eq2 = 10001001
+
+System #                                     615 Found!
+eq1 = 10100000
+eq2 = 10010001
+
+System #                                     616 Found!
+eq1 = 10100000
+eq2 = 11000001
+
+System #                                     617 Found!
+eq1 = 11000000
+eq2 = 00001101
+
+System #                                     618 Found!
+eq1 = 11000000
+eq2 = 00010101
+
+System #                                     619 Found!
+eq1 = 11000000
+eq2 = 00011001
+
+System #                                     620 Found!
+eq1 = 11000000
+eq2 = 00100101
+
+System #                                     621 Found!
+eq1 = 11000000
+eq2 = 00101001
+
+System #                                     622 Found!
+eq1 = 11000000
+eq2 = 00110001
+
+System #                                     623 Found!
+eq1 = 11000000
+eq2 = 01000101
+
+System #                                     624 Found!
+eq1 = 11000000
+eq2 = 01001001
+
+System #                                     625 Found!
+eq1 = 11000000
+eq2 = 01010001
+
+System #                                     626 Found!
+eq1 = 11000000
+eq2 = 01100001
+
+System #                                     627 Found!
+eq1 = 11000000
+eq2 = 10000101
+
+System #                                     628 Found!
+eq1 = 11000000
+eq2 = 10001001
+
+System #                                     629 Found!
+eq1 = 11000000
+eq2 = 10010001
+
+System #                                     630 Found!
+eq1 = 11000000
+eq2 = 10100001
+
+System #                                     631 Found!
+eq1 = 00001101
+eq2 = 00010101
+
+System #                                     632 Found!
+eq1 = 00001101
+eq2 = 00011001
+
+System #                                     633 Found!
+eq1 = 00001101
+eq2 = 00100101
+
+System #                                     634 Found!
+eq1 = 00001101
+eq2 = 00101001
+
+System #                                     635 Found!
+eq1 = 00001101
+eq2 = 00110001
+
+System #                                     636 Found!
+eq1 = 00001101
+eq2 = 01000101
+
+System #                                     637 Found!
+eq1 = 00001101
+eq2 = 01001001
+
+System #                                     638 Found!
+eq1 = 00001101
+eq2 = 01010001
+
+System #                                     639 Found!
+eq1 = 00001101
+eq2 = 01100001
+
+System #                                     640 Found!
+eq1 = 00001101
+eq2 = 10000101
+
+System #                                     641 Found!
+eq1 = 00001101
+eq2 = 10001001
+
+System #                                     642 Found!
+eq1 = 00001101
+eq2 = 10010001
+
+System #                                     643 Found!
+eq1 = 00001101
+eq2 = 10100001
+
+System #                                     644 Found!
+eq1 = 00001101
+eq2 = 11000001
+
+System #                                     645 Found!
+eq1 = 00010101
+eq2 = 00001101
+
+System #                                     646 Found!
+eq1 = 00010101
+eq2 = 00011001
+
+System #                                     647 Found!
+eq1 = 00010101
+eq2 = 00100101
+
+System #                                     648 Found!
+eq1 = 00010101
+eq2 = 00101001
+
+System #                                     649 Found!
+eq1 = 00010101
+eq2 = 00110001
+
+System #                                     650 Found!
+eq1 = 00010101
+eq2 = 01000101
+
+System #                                     651 Found!
+eq1 = 00010101
+eq2 = 01001001
+
+System #                                     652 Found!
+eq1 = 00010101
+eq2 = 01010001
+
+System #                                     653 Found!
+eq1 = 00010101
+eq2 = 01100001
+
+System #                                     654 Found!
+eq1 = 00010101
+eq2 = 10000101
+
+System #                                     655 Found!
+eq1 = 00010101
+eq2 = 10001001
+
+System #                                     656 Found!
+eq1 = 00010101
+eq2 = 10010001
+
+System #                                     657 Found!
+eq1 = 00010101
+eq2 = 10100001
+
+System #                                     658 Found!
+eq1 = 00010101
+eq2 = 11000001
+
+System #                                     659 Found!
+eq1 = 00011001
+eq2 = 00001101
+
+System #                                     660 Found!
+eq1 = 00011001
+eq2 = 00010101
+
+System #                                     661 Found!
+eq1 = 00011001
+eq2 = 00100101
+
+System #                                     662 Found!
+eq1 = 00011001
+eq2 = 00101001
+
+System #                                     663 Found!
+eq1 = 00011001
+eq2 = 00110001
+
+System #                                     664 Found!
+eq1 = 00011001
+eq2 = 01000101
+
+System #                                     665 Found!
+eq1 = 00011001
+eq2 = 01001001
+
+System #                                     666 Found!
+eq1 = 00011001
+eq2 = 01010001
+
+System #                                     667 Found!
+eq1 = 00011001
+eq2 = 01100001
+
+System #                                     668 Found!
+eq1 = 00011001
+eq2 = 10000101
+
+System #                                     669 Found!
+eq1 = 00011001
+eq2 = 10001001
+
+System #                                     670 Found!
+eq1 = 00011001
+eq2 = 10010001
+
+System #                                     671 Found!
+eq1 = 00011001
+eq2 = 10100001
+
+System #                                     672 Found!
+eq1 = 00011001
+eq2 = 11000001
+
+System #                                     673 Found!
+eq1 = 00100101
+eq2 = 00001101
+
+System #                                     674 Found!
+eq1 = 00100101
+eq2 = 00010101
+
+System #                                     675 Found!
+eq1 = 00100101
+eq2 = 00011001
+
+System #                                     676 Found!
+eq1 = 00100101
+eq2 = 00101001
+
+System #                                     677 Found!
+eq1 = 00100101
+eq2 = 00110001
+
+System #                                     678 Found!
+eq1 = 00100101
+eq2 = 01000101
+
+System #                                     679 Found!
+eq1 = 00100101
+eq2 = 01001001
+
+System #                                     680 Found!
+eq1 = 00100101
+eq2 = 01010001
+
+System #                                     681 Found!
+eq1 = 00100101
+eq2 = 01100001
+
+System #                                     682 Found!
+eq1 = 00100101
+eq2 = 10000101
+
+System #                                     683 Found!
+eq1 = 00100101
+eq2 = 10001001
+
+System #                                     684 Found!
+eq1 = 00100101
+eq2 = 10010001
+
+System #                                     685 Found!
+eq1 = 00100101
+eq2 = 10100001
+
+System #                                     686 Found!
+eq1 = 00100101
+eq2 = 11000001
+
+System #                                     687 Found!
+eq1 = 00101001
+eq2 = 00001101
+
+System #                                     688 Found!
+eq1 = 00101001
+eq2 = 00010101
+
+System #                                     689 Found!
+eq1 = 00101001
+eq2 = 00011001
+
+System #                                     690 Found!
+eq1 = 00101001
+eq2 = 00100101
+
+System #                                     691 Found!
+eq1 = 00101001
+eq2 = 00110001
+
+System #                                     692 Found!
+eq1 = 00101001
+eq2 = 01000101
+
+System #                                     693 Found!
+eq1 = 00101001
+eq2 = 01001001
+
+System #                                     694 Found!
+eq1 = 00101001
+eq2 = 01010001
+
+System #                                     695 Found!
+eq1 = 00101001
+eq2 = 01100001
+
+System #                                     696 Found!
+eq1 = 00101001
+eq2 = 10000101
+
+System #                                     697 Found!
+eq1 = 00101001
+eq2 = 10001001
+
+System #                                     698 Found!
+eq1 = 00101001
+eq2 = 10010001
+
+System #                                     699 Found!
+eq1 = 00101001
+eq2 = 10100001
+
+System #                                     700 Found!
+eq1 = 00101001
+eq2 = 11000001
+
+System #                                     701 Found!
+eq1 = 00110001
+eq2 = 00001101
+
+System #                                     702 Found!
+eq1 = 00110001
+eq2 = 00010101
+
+System #                                     703 Found!
+eq1 = 00110001
+eq2 = 00011001
+
+System #                                     704 Found!
+eq1 = 00110001
+eq2 = 00100101
+
+System #                                     705 Found!
+eq1 = 00110001
+eq2 = 00101001
+
+System #                                     706 Found!
+eq1 = 00110001
+eq2 = 01000101
+
+System #                                     707 Found!
+eq1 = 00110001
+eq2 = 01001001
+
+System #                                     708 Found!
+eq1 = 00110001
+eq2 = 01010001
+
+System #                                     709 Found!
+eq1 = 00110001
+eq2 = 01100001
+
+System #                                     710 Found!
+eq1 = 00110001
+eq2 = 10000101
+
+System #                                     711 Found!
+eq1 = 00110001
+eq2 = 10001001
+
+System #                                     712 Found!
+eq1 = 00110001
+eq2 = 10010001
+
+System #                                     713 Found!
+eq1 = 00110001
+eq2 = 10100001
+
+System #                                     714 Found!
+eq1 = 00110001
+eq2 = 11000001
+
+System #                                     715 Found!
+eq1 = 01000101
+eq2 = 00001101
+
+System #                                     716 Found!
+eq1 = 01000101
+eq2 = 00010101
+
+System #                                     717 Found!
+eq1 = 01000101
+eq2 = 00011001
+
+System #                                     718 Found!
+eq1 = 01000101
+eq2 = 00100101
+
+System #                                     719 Found!
+eq1 = 01000101
+eq2 = 00101001
+
+System #                                     720 Found!
+eq1 = 01000101
+eq2 = 00110001
+
+System #                                     721 Found!
+eq1 = 01000101
+eq2 = 01001001
+
+System #                                     722 Found!
+eq1 = 01000101
+eq2 = 01010001
+
+System #                                     723 Found!
+eq1 = 01000101
+eq2 = 01100001
+
+System #                                     724 Found!
+eq1 = 01000101
+eq2 = 10000101
+
+System #                                     725 Found!
+eq1 = 01000101
+eq2 = 10001001
+
+System #                                     726 Found!
+eq1 = 01000101
+eq2 = 10010001
+
+System #                                     727 Found!
+eq1 = 01000101
+eq2 = 10100001
+
+System #                                     728 Found!
+eq1 = 01000101
+eq2 = 11000001
+
+System #                                     729 Found!
+eq1 = 01001001
+eq2 = 00001101
+
+System #                                     730 Found!
+eq1 = 01001001
+eq2 = 00010101
+
+System #                                     731 Found!
+eq1 = 01001001
+eq2 = 00011001
+
+System #                                     732 Found!
+eq1 = 01001001
+eq2 = 00100101
+
+System #                                     733 Found!
+eq1 = 01001001
+eq2 = 00101001
+
+System #                                     734 Found!
+eq1 = 01001001
+eq2 = 00110001
+
+System #                                     735 Found!
+eq1 = 01001001
+eq2 = 01000101
+
+System #                                     736 Found!
+eq1 = 01001001
+eq2 = 01010001
+
+System #                                     737 Found!
+eq1 = 01001001
+eq2 = 01100001
+
+System #                                     738 Found!
+eq1 = 01001001
+eq2 = 10000101
+
+System #                                     739 Found!
+eq1 = 01001001
+eq2 = 10001001
+
+System #                                     740 Found!
+eq1 = 01001001
+eq2 = 10010001
+
+System #                                     741 Found!
+eq1 = 01001001
+eq2 = 10100001
+
+System #                                     742 Found!
+eq1 = 01001001
+eq2 = 11000001
+
+System #                                     743 Found!
+eq1 = 01010001
+eq2 = 00001101
+
+System #                                     744 Found!
+eq1 = 01010001
+eq2 = 00010101
+
+System #                                     745 Found!
+eq1 = 01010001
+eq2 = 00011001
+
+System #                                     746 Found!
+eq1 = 01010001
+eq2 = 00100101
+
+System #                                     747 Found!
+eq1 = 01010001
+eq2 = 00101001
+
+System #                                     748 Found!
+eq1 = 01010001
+eq2 = 00110001
+
+System #                                     749 Found!
+eq1 = 01010001
+eq2 = 01000101
+
+System #                                     750 Found!
+eq1 = 01010001
+eq2 = 01001001
+
+System #                                     751 Found!
+eq1 = 01010001
+eq2 = 01100001
+
+System #                                     752 Found!
+eq1 = 01010001
+eq2 = 10000101
+
+System #                                     753 Found!
+eq1 = 01010001
+eq2 = 10001001
+
+System #                                     754 Found!
+eq1 = 01010001
+eq2 = 10010001
+
+System #                                     755 Found!
+eq1 = 01010001
+eq2 = 10100001
+
+System #                                     756 Found!
+eq1 = 01010001
+eq2 = 11000001
+
+System #                                     757 Found!
+eq1 = 01100001
+eq2 = 00001101
+
+System #                                     758 Found!
+eq1 = 01100001
+eq2 = 00010101
+
+System #                                     759 Found!
+eq1 = 01100001
+eq2 = 00011001
+
+System #                                     760 Found!
+eq1 = 01100001
+eq2 = 00100101
+
+System #                                     761 Found!
+eq1 = 01100001
+eq2 = 00101001
+
+System #                                     762 Found!
+eq1 = 01100001
+eq2 = 00110001
+
+System #                                     763 Found!
+eq1 = 01100001
+eq2 = 01000101
+
+System #                                     764 Found!
+eq1 = 01100001
+eq2 = 01001001
+
+System #                                     765 Found!
+eq1 = 01100001
+eq2 = 01010001
+
+System #                                     766 Found!
+eq1 = 01100001
+eq2 = 10000101
+
+System #                                     767 Found!
+eq1 = 01100001
+eq2 = 10001001
+
+System #                                     768 Found!
+eq1 = 01100001
+eq2 = 10010001
+
+System #                                     769 Found!
+eq1 = 01100001
+eq2 = 10100001
+
+System #                                     770 Found!
+eq1 = 01100001
+eq2 = 11000001
+
+System #                                     771 Found!
+eq1 = 10000101
+eq2 = 00001101
+
+System #                                     772 Found!
+eq1 = 10000101
+eq2 = 00010101
+
+System #                                     773 Found!
+eq1 = 10000101
+eq2 = 00011001
+
+System #                                     774 Found!
+eq1 = 10000101
+eq2 = 00100101
+
+System #                                     775 Found!
+eq1 = 10000101
+eq2 = 00101001
+
+System #                                     776 Found!
+eq1 = 10000101
+eq2 = 00110001
+
+System #                                     777 Found!
+eq1 = 10000101
+eq2 = 01000101
+
+System #                                     778 Found!
+eq1 = 10000101
+eq2 = 01001001
+
+System #                                     779 Found!
+eq1 = 10000101
+eq2 = 01010001
+
+System #                                     780 Found!
+eq1 = 10000101
+eq2 = 01100001
+
+System #                                     781 Found!
+eq1 = 10000101
+eq2 = 10001001
+
+System #                                     782 Found!
+eq1 = 10000101
+eq2 = 10010001
+
+System #                                     783 Found!
+eq1 = 10000101
+eq2 = 10100001
+
+System #                                     784 Found!
+eq1 = 10000101
+eq2 = 11000001
+
+System #                                     785 Found!
+eq1 = 10001001
+eq2 = 00001101
+
+System #                                     786 Found!
+eq1 = 10001001
+eq2 = 00010101
+
+System #                                     787 Found!
+eq1 = 10001001
+eq2 = 00011001
+
+System #                                     788 Found!
+eq1 = 10001001
+eq2 = 00100101
+
+System #                                     789 Found!
+eq1 = 10001001
+eq2 = 00101001
+
+System #                                     790 Found!
+eq1 = 10001001
+eq2 = 00110001
+
+System #                                     791 Found!
+eq1 = 10001001
+eq2 = 01000101
+
+System #                                     792 Found!
+eq1 = 10001001
+eq2 = 01001001
+
+System #                                     793 Found!
+eq1 = 10001001
+eq2 = 01010001
+
+System #                                     794 Found!
+eq1 = 10001001
+eq2 = 01100001
+
+System #                                     795 Found!
+eq1 = 10001001
+eq2 = 10000101
+
+System #                                     796 Found!
+eq1 = 10001001
+eq2 = 10010001
+
+System #                                     797 Found!
+eq1 = 10001001
+eq2 = 10100001
+
+System #                                     798 Found!
+eq1 = 10001001
+eq2 = 11000001
+
+System #                                     799 Found!
+eq1 = 10010001
+eq2 = 00001101
+
+System #                                     800 Found!
+eq1 = 10010001
+eq2 = 00010101
+
+System #                                     801 Found!
+eq1 = 10010001
+eq2 = 00011001
+
+System #                                     802 Found!
+eq1 = 10010001
+eq2 = 00100101
+
+System #                                     803 Found!
+eq1 = 10010001
+eq2 = 00101001
+
+System #                                     804 Found!
+eq1 = 10010001
+eq2 = 00110001
+
+System #                                     805 Found!
+eq1 = 10010001
+eq2 = 01000101
+
+System #                                     806 Found!
+eq1 = 10010001
+eq2 = 01001001
+
+System #                                     807 Found!
+eq1 = 10010001
+eq2 = 01010001
+
+System #                                     808 Found!
+eq1 = 10010001
+eq2 = 01100001
+
+System #                                     809 Found!
+eq1 = 10010001
+eq2 = 10000101
+
+System #                                     810 Found!
+eq1 = 10010001
+eq2 = 10001001
+
+System #                                     811 Found!
+eq1 = 10010001
+eq2 = 10100001
+
+System #                                     812 Found!
+eq1 = 10010001
+eq2 = 11000001
+
+System #                                     813 Found!
+eq1 = 10100001
+eq2 = 00001101
+
+System #                                     814 Found!
+eq1 = 10100001
+eq2 = 00010101
+
+System #                                     815 Found!
+eq1 = 10100001
+eq2 = 00011001
+
+System #                                     816 Found!
+eq1 = 10100001
+eq2 = 00100101
+
+System #                                     817 Found!
+eq1 = 10100001
+eq2 = 00101001
+
+System #                                     818 Found!
+eq1 = 10100001
+eq2 = 00110001
+
+System #                                     819 Found!
+eq1 = 10100001
+eq2 = 01000101
+
+System #                                     820 Found!
+eq1 = 10100001
+eq2 = 01001001
+
+System #                                     821 Found!
+eq1 = 10100001
+eq2 = 01010001
+
+System #                                     822 Found!
+eq1 = 10100001
+eq2 = 01100001
+
+System #                                     823 Found!
+eq1 = 10100001
+eq2 = 10000101
+
+System #                                     824 Found!
+eq1 = 10100001
+eq2 = 10001001
+
+System #                                     825 Found!
+eq1 = 10100001
+eq2 = 10010001
+
+System #                                     826 Found!
+eq1 = 10100001
+eq2 = 11000001
+
+System #                                     827 Found!
+eq1 = 11000001
+eq2 = 00001101
+
+System #                                     828 Found!
+eq1 = 11000001
+eq2 = 00010101
+
+System #                                     829 Found!
+eq1 = 11000001
+eq2 = 00011001
+
+System #                                     830 Found!
+eq1 = 11000001
+eq2 = 00100101
+
+System #                                     831 Found!
+eq1 = 11000001
+eq2 = 00101001
+
+System #                                     832 Found!
+eq1 = 11000001
+eq2 = 00110001
+
+System #                                     833 Found!
+eq1 = 11000001
+eq2 = 01000101
+
+System #                                     834 Found!
+eq1 = 11000001
+eq2 = 01001001
+
+System #                                     835 Found!
+eq1 = 11000001
+eq2 = 01010001
+
+System #                                     836 Found!
+eq1 = 11000001
+eq2 = 01100001
+
+System #                                     837 Found!
+eq1 = 11000001
+eq2 = 10000101
+
+System #                                     838 Found!
+eq1 = 11000001
+eq2 = 10001001
+
+System #                                     839 Found!
+eq1 = 11000001
+eq2 = 10010001
+
+System #                                     840 Found!
+eq1 = 11000001
+eq2 = 10100001
+
+System #                                     841 Found!
+eq1 = 00001110
+eq2 = 00010110
+
+System #                                     842 Found!
+eq1 = 00001110
+eq2 = 00011010
+
+System #                                     843 Found!
+eq1 = 00001110
+eq2 = 00100110
+
+System #                                     844 Found!
+eq1 = 00001110
+eq2 = 00101010
+
+System #                                     845 Found!
+eq1 = 00001110
+eq2 = 00110010
+
+System #                                     846 Found!
+eq1 = 00001110
+eq2 = 01000110
+
+System #                                     847 Found!
+eq1 = 00001110
+eq2 = 01001010
+
+System #                                     848 Found!
+eq1 = 00001110
+eq2 = 01010010
+
+System #                                     849 Found!
+eq1 = 00001110
+eq2 = 01100010
+
+System #                                     850 Found!
+eq1 = 00001110
+eq2 = 10000110
+
+System #                                     851 Found!
+eq1 = 00001110
+eq2 = 10001010
+
+System #                                     852 Found!
+eq1 = 00001110
+eq2 = 10010010
+
+System #                                     853 Found!
+eq1 = 00001110
+eq2 = 10100010
+
+System #                                     854 Found!
+eq1 = 00001110
+eq2 = 11000010
+
+System #                                     855 Found!
+eq1 = 00010110
+eq2 = 00001110
+
+System #                                     856 Found!
+eq1 = 00010110
+eq2 = 00011010
+
+System #                                     857 Found!
+eq1 = 00010110
+eq2 = 00100110
+
+System #                                     858 Found!
+eq1 = 00010110
+eq2 = 00101010
+
+System #                                     859 Found!
+eq1 = 00010110
+eq2 = 00110010
+
+System #                                     860 Found!
+eq1 = 00010110
+eq2 = 01000110
+
+System #                                     861 Found!
+eq1 = 00010110
+eq2 = 01001010
+
+System #                                     862 Found!
+eq1 = 00010110
+eq2 = 01010010
+
+System #                                     863 Found!
+eq1 = 00010110
+eq2 = 01100010
+
+System #                                     864 Found!
+eq1 = 00010110
+eq2 = 10000110
+
+System #                                     865 Found!
+eq1 = 00010110
+eq2 = 10001010
+
+System #                                     866 Found!
+eq1 = 00010110
+eq2 = 10010010
+
+System #                                     867 Found!
+eq1 = 00010110
+eq2 = 10100010
+
+System #                                     868 Found!
+eq1 = 00010110
+eq2 = 11000010
+
+System #                                     869 Found!
+eq1 = 00011010
+eq2 = 00001110
+
+System #                                     870 Found!
+eq1 = 00011010
+eq2 = 00010110
+
+System #                                     871 Found!
+eq1 = 00011010
+eq2 = 00100110
+
+System #                                     872 Found!
+eq1 = 00011010
+eq2 = 00101010
+
+System #                                     873 Found!
+eq1 = 00011010
+eq2 = 00110010
+
+System #                                     874 Found!
+eq1 = 00011010
+eq2 = 01000110
+
+System #                                     875 Found!
+eq1 = 00011010
+eq2 = 01001010
+
+System #                                     876 Found!
+eq1 = 00011010
+eq2 = 01010010
+
+System #                                     877 Found!
+eq1 = 00011010
+eq2 = 01100010
+
+System #                                     878 Found!
+eq1 = 00011010
+eq2 = 10000110
+
+System #                                     879 Found!
+eq1 = 00011010
+eq2 = 10001010
+
+System #                                     880 Found!
+eq1 = 00011010
+eq2 = 10010010
+
+System #                                     881 Found!
+eq1 = 00011010
+eq2 = 10100010
+
+System #                                     882 Found!
+eq1 = 00011010
+eq2 = 11000010
+
+System #                                     883 Found!
+eq1 = 00100110
+eq2 = 00001110
+
+System #                                     884 Found!
+eq1 = 00100110
+eq2 = 00010110
+
+System #                                     885 Found!
+eq1 = 00100110
+eq2 = 00011010
+
+System #                                     886 Found!
+eq1 = 00100110
+eq2 = 00101010
+
+System #                                     887 Found!
+eq1 = 00100110
+eq2 = 00110010
+
+System #                                     888 Found!
+eq1 = 00100110
+eq2 = 01000110
+
+System #                                     889 Found!
+eq1 = 00100110
+eq2 = 01001010
+
+System #                                     890 Found!
+eq1 = 00100110
+eq2 = 01010010
+
+System #                                     891 Found!
+eq1 = 00100110
+eq2 = 01100010
+
+System #                                     892 Found!
+eq1 = 00100110
+eq2 = 10000110
+
+System #                                     893 Found!
+eq1 = 00100110
+eq2 = 10001010
+
+System #                                     894 Found!
+eq1 = 00100110
+eq2 = 10010010
+
+System #                                     895 Found!
+eq1 = 00100110
+eq2 = 10100010
+
+System #                                     896 Found!
+eq1 = 00100110
+eq2 = 11000010
+
+System #                                     897 Found!
+eq1 = 00101010
+eq2 = 00001110
+
+System #                                     898 Found!
+eq1 = 00101010
+eq2 = 00010110
+
+System #                                     899 Found!
+eq1 = 00101010
+eq2 = 00011010
+
+System #                                     900 Found!
+eq1 = 00101010
+eq2 = 00100110
+
+System #                                     901 Found!
+eq1 = 00101010
+eq2 = 00110010
+
+System #                                     902 Found!
+eq1 = 00101010
+eq2 = 01000110
+
+System #                                     903 Found!
+eq1 = 00101010
+eq2 = 01001010
+
+System #                                     904 Found!
+eq1 = 00101010
+eq2 = 01010010
+
+System #                                     905 Found!
+eq1 = 00101010
+eq2 = 01100010
+
+System #                                     906 Found!
+eq1 = 00101010
+eq2 = 10000110
+
+System #                                     907 Found!
+eq1 = 00101010
+eq2 = 10001010
+
+System #                                     908 Found!
+eq1 = 00101010
+eq2 = 10010010
+
+System #                                     909 Found!
+eq1 = 00101010
+eq2 = 10100010
+
+System #                                     910 Found!
+eq1 = 00101010
+eq2 = 11000010
+
+System #                                     911 Found!
+eq1 = 00110010
+eq2 = 00001110
+
+System #                                     912 Found!
+eq1 = 00110010
+eq2 = 00010110
+
+System #                                     913 Found!
+eq1 = 00110010
+eq2 = 00011010
+
+System #                                     914 Found!
+eq1 = 00110010
+eq2 = 00100110
+
+System #                                     915 Found!
+eq1 = 00110010
+eq2 = 00101010
+
+System #                                     916 Found!
+eq1 = 00110010
+eq2 = 01000110
+
+System #                                     917 Found!
+eq1 = 00110010
+eq2 = 01001010
+
+System #                                     918 Found!
+eq1 = 00110010
+eq2 = 01010010
+
+System #                                     919 Found!
+eq1 = 00110010
+eq2 = 01100010
+
+System #                                     920 Found!
+eq1 = 00110010
+eq2 = 10000110
+
+System #                                     921 Found!
+eq1 = 00110010
+eq2 = 10001010
+
+System #                                     922 Found!
+eq1 = 00110010
+eq2 = 10010010
+
+System #                                     923 Found!
+eq1 = 00110010
+eq2 = 10100010
+
+System #                                     924 Found!
+eq1 = 00110010
+eq2 = 11000010
+
+System #                                     925 Found!
+eq1 = 01000110
+eq2 = 00001110
+
+System #                                     926 Found!
+eq1 = 01000110
+eq2 = 00010110
+
+System #                                     927 Found!
+eq1 = 01000110
+eq2 = 00011010
+
+System #                                     928 Found!
+eq1 = 01000110
+eq2 = 00100110
+
+System #                                     929 Found!
+eq1 = 01000110
+eq2 = 00101010
+
+System #                                     930 Found!
+eq1 = 01000110
+eq2 = 00110010
+
+System #                                     931 Found!
+eq1 = 01000110
+eq2 = 01001010
+
+System #                                     932 Found!
+eq1 = 01000110
+eq2 = 01010010
+
+System #                                     933 Found!
+eq1 = 01000110
+eq2 = 01100010
+
+System #                                     934 Found!
+eq1 = 01000110
+eq2 = 10000110
+
+System #                                     935 Found!
+eq1 = 01000110
+eq2 = 10001010
+
+System #                                     936 Found!
+eq1 = 01000110
+eq2 = 10010010
+
+System #                                     937 Found!
+eq1 = 01000110
+eq2 = 10100010
+
+System #                                     938 Found!
+eq1 = 01000110
+eq2 = 11000010
+
+System #                                     939 Found!
+eq1 = 01001010
+eq2 = 00001110
+
+System #                                     940 Found!
+eq1 = 01001010
+eq2 = 00010110
+
+System #                                     941 Found!
+eq1 = 01001010
+eq2 = 00011010
+
+System #                                     942 Found!
+eq1 = 01001010
+eq2 = 00100110
+
+System #                                     943 Found!
+eq1 = 01001010
+eq2 = 00101010
+
+System #                                     944 Found!
+eq1 = 01001010
+eq2 = 00110010
+
+System #                                     945 Found!
+eq1 = 01001010
+eq2 = 01000110
+
+System #                                     946 Found!
+eq1 = 01001010
+eq2 = 01010010
+
+System #                                     947 Found!
+eq1 = 01001010
+eq2 = 01100010
+
+System #                                     948 Found!
+eq1 = 01001010
+eq2 = 10000110
+
+System #                                     949 Found!
+eq1 = 01001010
+eq2 = 10001010
+
+System #                                     950 Found!
+eq1 = 01001010
+eq2 = 10010010
+
+System #                                     951 Found!
+eq1 = 01001010
+eq2 = 10100010
+
+System #                                     952 Found!
+eq1 = 01001010
+eq2 = 11000010
+
+System #                                     953 Found!
+eq1 = 01010010
+eq2 = 00001110
+
+System #                                     954 Found!
+eq1 = 01010010
+eq2 = 00010110
+
+System #                                     955 Found!
+eq1 = 01010010
+eq2 = 00011010
+
+System #                                     956 Found!
+eq1 = 01010010
+eq2 = 00100110
+
+System #                                     957 Found!
+eq1 = 01010010
+eq2 = 00101010
+
+System #                                     958 Found!
+eq1 = 01010010
+eq2 = 00110010
+
+System #                                     959 Found!
+eq1 = 01010010
+eq2 = 01000110
+
+System #                                     960 Found!
+eq1 = 01010010
+eq2 = 01001010
+
+System #                                     961 Found!
+eq1 = 01010010
+eq2 = 01100010
+
+System #                                     962 Found!
+eq1 = 01010010
+eq2 = 10000110
+
+System #                                     963 Found!
+eq1 = 01010010
+eq2 = 10001010
+
+System #                                     964 Found!
+eq1 = 01010010
+eq2 = 10010010
+
+System #                                     965 Found!
+eq1 = 01010010
+eq2 = 10100010
+
+System #                                     966 Found!
+eq1 = 01010010
+eq2 = 11000010
+
+System #                                     967 Found!
+eq1 = 01100010
+eq2 = 00001110
+
+System #                                     968 Found!
+eq1 = 01100010
+eq2 = 00010110
+
+System #                                     969 Found!
+eq1 = 01100010
+eq2 = 00011010
+
+System #                                     970 Found!
+eq1 = 01100010
+eq2 = 00100110
+
+System #                                     971 Found!
+eq1 = 01100010
+eq2 = 00101010
+
+System #                                     972 Found!
+eq1 = 01100010
+eq2 = 00110010
+
+System #                                     973 Found!
+eq1 = 01100010
+eq2 = 01000110
+
+System #                                     974 Found!
+eq1 = 01100010
+eq2 = 01001010
+
+System #                                     975 Found!
+eq1 = 01100010
+eq2 = 01010010
+
+System #                                     976 Found!
+eq1 = 01100010
+eq2 = 10000110
+
+System #                                     977 Found!
+eq1 = 01100010
+eq2 = 10001010
+
+System #                                     978 Found!
+eq1 = 01100010
+eq2 = 10010010
+
+System #                                     979 Found!
+eq1 = 01100010
+eq2 = 10100010
+
+System #                                     980 Found!
+eq1 = 01100010
+eq2 = 11000010
+
+System #                                     981 Found!
+eq1 = 10000110
+eq2 = 00001110
+
+System #                                     982 Found!
+eq1 = 10000110
+eq2 = 00010110
+
+System #                                     983 Found!
+eq1 = 10000110
+eq2 = 00011010
+
+System #                                     984 Found!
+eq1 = 10000110
+eq2 = 00100110
+
+System #                                     985 Found!
+eq1 = 10000110
+eq2 = 00101010
+
+System #                                     986 Found!
+eq1 = 10000110
+eq2 = 00110010
+
+System #                                     987 Found!
+eq1 = 10000110
+eq2 = 01000110
+
+System #                                     988 Found!
+eq1 = 10000110
+eq2 = 01001010
+
+System #                                     989 Found!
+eq1 = 10000110
+eq2 = 01010010
+
+System #                                     990 Found!
+eq1 = 10000110
+eq2 = 01100010
+
+System #                                     991 Found!
+eq1 = 10000110
+eq2 = 10001010
+
+System #                                     992 Found!
+eq1 = 10000110
+eq2 = 10010010
+
+System #                                     993 Found!
+eq1 = 10000110
+eq2 = 10100010
+
+System #                                     994 Found!
+eq1 = 10000110
+eq2 = 11000010
+
+System #                                     995 Found!
+eq1 = 10001010
+eq2 = 00001110
+
+System #                                     996 Found!
+eq1 = 10001010
+eq2 = 00010110
+
+System #                                     997 Found!
+eq1 = 10001010
+eq2 = 00011010
+
+System #                                     998 Found!
+eq1 = 10001010
+eq2 = 00100110
+
+System #                                     999 Found!
+eq1 = 10001010
+eq2 = 00101010
+
+System #                                    1000 Found!
+eq1 = 10001010
+eq2 = 00110010
+
+System #                                    1001 Found!
+eq1 = 10001010
+eq2 = 01000110
+
+System #                                    1002 Found!
+eq1 = 10001010
+eq2 = 01001010
+
+System #                                    1003 Found!
+eq1 = 10001010
+eq2 = 01010010
+
+System #                                    1004 Found!
+eq1 = 10001010
+eq2 = 01100010
+
+System #                                    1005 Found!
+eq1 = 10001010
+eq2 = 10000110
+
+System #                                    1006 Found!
+eq1 = 10001010
+eq2 = 10010010
+
+System #                                    1007 Found!
+eq1 = 10001010
+eq2 = 10100010
+
+System #                                    1008 Found!
+eq1 = 10001010
+eq2 = 11000010
+
+System #                                    1009 Found!
+eq1 = 10010010
+eq2 = 00001110
+
+System #                                    1010 Found!
+eq1 = 10010010
+eq2 = 00010110
+
+System #                                    1011 Found!
+eq1 = 10010010
+eq2 = 00011010
+
+System #                                    1012 Found!
+eq1 = 10010010
+eq2 = 00100110
+
+System #                                    1013 Found!
+eq1 = 10010010
+eq2 = 00101010
+
+System #                                    1014 Found!
+eq1 = 10010010
+eq2 = 00110010
+
+System #                                    1015 Found!
+eq1 = 10010010
+eq2 = 01000110
+
+System #                                    1016 Found!
+eq1 = 10010010
+eq2 = 01001010
+
+System #                                    1017 Found!
+eq1 = 10010010
+eq2 = 01010010
+
+System #                                    1018 Found!
+eq1 = 10010010
+eq2 = 01100010
+
+System #                                    1019 Found!
+eq1 = 10010010
+eq2 = 10000110
+
+System #                                    1020 Found!
+eq1 = 10010010
+eq2 = 10001010
+
+System #                                    1021 Found!
+eq1 = 10010010
+eq2 = 10100010
+
+System #                                    1022 Found!
+eq1 = 10010010
+eq2 = 11000010
+
+System #                                    1023 Found!
+eq1 = 10100010
+eq2 = 00001110
+
+System #                                    1024 Found!
+eq1 = 10100010
+eq2 = 00010110
+
+System #                                    1025 Found!
+eq1 = 10100010
+eq2 = 00011010
+
+System #                                    1026 Found!
+eq1 = 10100010
+eq2 = 00100110
+
+System #                                    1027 Found!
+eq1 = 10100010
+eq2 = 00101010
+
+System #                                    1028 Found!
+eq1 = 10100010
+eq2 = 00110010
+
+System #                                    1029 Found!
+eq1 = 10100010
+eq2 = 01000110
+
+System #                                    1030 Found!
+eq1 = 10100010
+eq2 = 01001010
+
+System #                                    1031 Found!
+eq1 = 10100010
+eq2 = 01010010
+
+System #                                    1032 Found!
+eq1 = 10100010
+eq2 = 01100010
+
+System #                                    1033 Found!
+eq1 = 10100010
+eq2 = 10000110
+
+System #                                    1034 Found!
+eq1 = 10100010
+eq2 = 10001010
+
+System #                                    1035 Found!
+eq1 = 10100010
+eq2 = 10010010
+
+System #                                    1036 Found!
+eq1 = 10100010
+eq2 = 11000010
+
+System #                                    1037 Found!
+eq1 = 11000010
+eq2 = 00001110
+
+System #                                    1038 Found!
+eq1 = 11000010
+eq2 = 00010110
+
+System #                                    1039 Found!
+eq1 = 11000010
+eq2 = 00011010
+
+System #                                    1040 Found!
+eq1 = 11000010
+eq2 = 00100110
+
+System #                                    1041 Found!
+eq1 = 11000010
+eq2 = 00101010
+
+System #                                    1042 Found!
+eq1 = 11000010
+eq2 = 00110010
+
+System #                                    1043 Found!
+eq1 = 11000010
+eq2 = 01000110
+
+System #                                    1044 Found!
+eq1 = 11000010
+eq2 = 01001010
+
+System #                                    1045 Found!
+eq1 = 11000010
+eq2 = 01010010
+
+System #                                    1046 Found!
+eq1 = 11000010
+eq2 = 01100010
+
+System #                                    1047 Found!
+eq1 = 11000010
+eq2 = 10000110
+
+System #                                    1048 Found!
+eq1 = 11000010
+eq2 = 10001010
+
+System #                                    1049 Found!
+eq1 = 11000010
+eq2 = 10010010
+
+System #                                    1050 Found!
+eq1 = 11000010
+eq2 = 10100010
+
+System #                                    1051 Found!
+eq1 = 00001111
+eq2 = 00010110
+
+System #                                    1052 Found!
+eq1 = 00001111
+eq2 = 00011010
+
+System #                                    1053 Found!
+eq1 = 00001111
+eq2 = 00100110
+
+System #                                    1054 Found!
+eq1 = 00001111
+eq2 = 00101010
+
+System #                                    1055 Found!
+eq1 = 00001111
+eq2 = 00110010
+
+System #                                    1056 Found!
+eq1 = 00001111
+eq2 = 01000110
+
+System #                                    1057 Found!
+eq1 = 00001111
+eq2 = 01001010
+
+System #                                    1058 Found!
+eq1 = 00001111
+eq2 = 01010010
+
+System #                                    1059 Found!
+eq1 = 00001111
+eq2 = 01100010
+
+System #                                    1060 Found!
+eq1 = 00001111
+eq2 = 10000110
+
+System #                                    1061 Found!
+eq1 = 00001111
+eq2 = 10001010
+
+System #                                    1062 Found!
+eq1 = 00001111
+eq2 = 10010010
+
+System #                                    1063 Found!
+eq1 = 00001111
+eq2 = 10100010
+
+System #                                    1064 Found!
+eq1 = 00001111
+eq2 = 11000010
+
+System #                                    1065 Found!
+eq1 = 00010111
+eq2 = 00001110
+
+System #                                    1066 Found!
+eq1 = 00010111
+eq2 = 00011010
+
+System #                                    1067 Found!
+eq1 = 00010111
+eq2 = 00100110
+
+System #                                    1068 Found!
+eq1 = 00010111
+eq2 = 00101010
+
+System #                                    1069 Found!
+eq1 = 00010111
+eq2 = 00110010
+
+System #                                    1070 Found!
+eq1 = 00010111
+eq2 = 01000110
+
+System #                                    1071 Found!
+eq1 = 00010111
+eq2 = 01001010
+
+System #                                    1072 Found!
+eq1 = 00010111
+eq2 = 01010010
+
+System #                                    1073 Found!
+eq1 = 00010111
+eq2 = 01100010
+
+System #                                    1074 Found!
+eq1 = 00010111
+eq2 = 10000110
+
+System #                                    1075 Found!
+eq1 = 00010111
+eq2 = 10001010
+
+System #                                    1076 Found!
+eq1 = 00010111
+eq2 = 10010010
+
+System #                                    1077 Found!
+eq1 = 00010111
+eq2 = 10100010
+
+System #                                    1078 Found!
+eq1 = 00010111
+eq2 = 11000010
+
+System #                                    1079 Found!
+eq1 = 00011011
+eq2 = 00001110
+
+System #                                    1080 Found!
+eq1 = 00011011
+eq2 = 00010110
+
+System #                                    1081 Found!
+eq1 = 00011011
+eq2 = 00100110
+
+System #                                    1082 Found!
+eq1 = 00011011
+eq2 = 00101010
+
+System #                                    1083 Found!
+eq1 = 00011011
+eq2 = 00110010
+
+System #                                    1084 Found!
+eq1 = 00011011
+eq2 = 01000110
+
+System #                                    1085 Found!
+eq1 = 00011011
+eq2 = 01001010
+
+System #                                    1086 Found!
+eq1 = 00011011
+eq2 = 01010010
+
+System #                                    1087 Found!
+eq1 = 00011011
+eq2 = 01100010
+
+System #                                    1088 Found!
+eq1 = 00011011
+eq2 = 10000110
+
+System #                                    1089 Found!
+eq1 = 00011011
+eq2 = 10001010
+
+System #                                    1090 Found!
+eq1 = 00011011
+eq2 = 10010010
+
+System #                                    1091 Found!
+eq1 = 00011011
+eq2 = 10100010
+
+System #                                    1092 Found!
+eq1 = 00011011
+eq2 = 11000010
+
+System #                                    1093 Found!
+eq1 = 00100111
+eq2 = 00001110
+
+System #                                    1094 Found!
+eq1 = 00100111
+eq2 = 00010110
+
+System #                                    1095 Found!
+eq1 = 00100111
+eq2 = 00011010
+
+System #                                    1096 Found!
+eq1 = 00100111
+eq2 = 00101010
+
+System #                                    1097 Found!
+eq1 = 00100111
+eq2 = 00110010
+
+System #                                    1098 Found!
+eq1 = 00100111
+eq2 = 01000110
+
+System #                                    1099 Found!
+eq1 = 00100111
+eq2 = 01001010
+
+System #                                    1100 Found!
+eq1 = 00100111
+eq2 = 01010010
+
+System #                                    1101 Found!
+eq1 = 00100111
+eq2 = 01100010
+
+System #                                    1102 Found!
+eq1 = 00100111
+eq2 = 10000110
+
+System #                                    1103 Found!
+eq1 = 00100111
+eq2 = 10001010
+
+System #                                    1104 Found!
+eq1 = 00100111
+eq2 = 10010010
+
+System #                                    1105 Found!
+eq1 = 00100111
+eq2 = 10100010
+
+System #                                    1106 Found!
+eq1 = 00100111
+eq2 = 11000010
+
+System #                                    1107 Found!
+eq1 = 00101011
+eq2 = 00001110
+
+System #                                    1108 Found!
+eq1 = 00101011
+eq2 = 00010110
+
+System #                                    1109 Found!
+eq1 = 00101011
+eq2 = 00011010
+
+System #                                    1110 Found!
+eq1 = 00101011
+eq2 = 00100110
+
+System #                                    1111 Found!
+eq1 = 00101011
+eq2 = 00110010
+
+System #                                    1112 Found!
+eq1 = 00101011
+eq2 = 01000110
+
+System #                                    1113 Found!
+eq1 = 00101011
+eq2 = 01001010
+
+System #                                    1114 Found!
+eq1 = 00101011
+eq2 = 01010010
+
+System #                                    1115 Found!
+eq1 = 00101011
+eq2 = 01100010
+
+System #                                    1116 Found!
+eq1 = 00101011
+eq2 = 10000110
+
+System #                                    1117 Found!
+eq1 = 00101011
+eq2 = 10001010
+
+System #                                    1118 Found!
+eq1 = 00101011
+eq2 = 10010010
+
+System #                                    1119 Found!
+eq1 = 00101011
+eq2 = 10100010
+
+System #                                    1120 Found!
+eq1 = 00101011
+eq2 = 11000010
+
+System #                                    1121 Found!
+eq1 = 00110011
+eq2 = 00001110
+
+System #                                    1122 Found!
+eq1 = 00110011
+eq2 = 00010110
+
+System #                                    1123 Found!
+eq1 = 00110011
+eq2 = 00011010
+
+System #                                    1124 Found!
+eq1 = 00110011
+eq2 = 00100110
+
+System #                                    1125 Found!
+eq1 = 00110011
+eq2 = 00101010
+
+System #                                    1126 Found!
+eq1 = 00110011
+eq2 = 01000110
+
+System #                                    1127 Found!
+eq1 = 00110011
+eq2 = 01001010
+
+System #                                    1128 Found!
+eq1 = 00110011
+eq2 = 01010010
+
+System #                                    1129 Found!
+eq1 = 00110011
+eq2 = 01100010
+
+System #                                    1130 Found!
+eq1 = 00110011
+eq2 = 10000110
+
+System #                                    1131 Found!
+eq1 = 00110011
+eq2 = 10001010
+
+System #                                    1132 Found!
+eq1 = 00110011
+eq2 = 10010010
+
+System #                                    1133 Found!
+eq1 = 00110011
+eq2 = 10100010
+
+System #                                    1134 Found!
+eq1 = 00110011
+eq2 = 11000010
+
+System #                                    1135 Found!
+eq1 = 01000111
+eq2 = 00001110
+
+System #                                    1136 Found!
+eq1 = 01000111
+eq2 = 00010110
+
+System #                                    1137 Found!
+eq1 = 01000111
+eq2 = 00011010
+
+System #                                    1138 Found!
+eq1 = 01000111
+eq2 = 00100110
+
+System #                                    1139 Found!
+eq1 = 01000111
+eq2 = 00101010
+
+System #                                    1140 Found!
+eq1 = 01000111
+eq2 = 00110010
+
+System #                                    1141 Found!
+eq1 = 01000111
+eq2 = 01001010
+
+System #                                    1142 Found!
+eq1 = 01000111
+eq2 = 01010010
+
+System #                                    1143 Found!
+eq1 = 01000111
+eq2 = 01100010
+
+System #                                    1144 Found!
+eq1 = 01000111
+eq2 = 10000110
+
+System #                                    1145 Found!
+eq1 = 01000111
+eq2 = 10001010
+
+System #                                    1146 Found!
+eq1 = 01000111
+eq2 = 10010010
+
+System #                                    1147 Found!
+eq1 = 01000111
+eq2 = 10100010
+
+System #                                    1148 Found!
+eq1 = 01000111
+eq2 = 11000010
+
+System #                                    1149 Found!
+eq1 = 01001011
+eq2 = 00001110
+
+System #                                    1150 Found!
+eq1 = 01001011
+eq2 = 00010110
+
+System #                                    1151 Found!
+eq1 = 01001011
+eq2 = 00011010
+
+System #                                    1152 Found!
+eq1 = 01001011
+eq2 = 00100110
+
+System #                                    1153 Found!
+eq1 = 01001011
+eq2 = 00101010
+
+System #                                    1154 Found!
+eq1 = 01001011
+eq2 = 00110010
+
+System #                                    1155 Found!
+eq1 = 01001011
+eq2 = 01000110
+
+System #                                    1156 Found!
+eq1 = 01001011
+eq2 = 01010010
+
+System #                                    1157 Found!
+eq1 = 01001011
+eq2 = 01100010
+
+System #                                    1158 Found!
+eq1 = 01001011
+eq2 = 10000110
+
+System #                                    1159 Found!
+eq1 = 01001011
+eq2 = 10001010
+
+System #                                    1160 Found!
+eq1 = 01001011
+eq2 = 10010010
+
+System #                                    1161 Found!
+eq1 = 01001011
+eq2 = 10100010
+
+System #                                    1162 Found!
+eq1 = 01001011
+eq2 = 11000010
+
+System #                                    1163 Found!
+eq1 = 01010011
+eq2 = 00001110
+
+System #                                    1164 Found!
+eq1 = 01010011
+eq2 = 00010110
+
+System #                                    1165 Found!
+eq1 = 01010011
+eq2 = 00011010
+
+System #                                    1166 Found!
+eq1 = 01010011
+eq2 = 00100110
+
+System #                                    1167 Found!
+eq1 = 01010011
+eq2 = 00101010
+
+System #                                    1168 Found!
+eq1 = 01010011
+eq2 = 00110010
+
+System #                                    1169 Found!
+eq1 = 01010011
+eq2 = 01000110
+
+System #                                    1170 Found!
+eq1 = 01010011
+eq2 = 01001010
+
+System #                                    1171 Found!
+eq1 = 01010011
+eq2 = 01100010
+
+System #                                    1172 Found!
+eq1 = 01010011
+eq2 = 10000110
+
+System #                                    1173 Found!
+eq1 = 01010011
+eq2 = 10001010
+
+System #                                    1174 Found!
+eq1 = 01010011
+eq2 = 10010010
+
+System #                                    1175 Found!
+eq1 = 01010011
+eq2 = 10100010
+
+System #                                    1176 Found!
+eq1 = 01010011
+eq2 = 11000010
+
+System #                                    1177 Found!
+eq1 = 01100011
+eq2 = 00001110
+
+System #                                    1178 Found!
+eq1 = 01100011
+eq2 = 00010110
+
+System #                                    1179 Found!
+eq1 = 01100011
+eq2 = 00011010
+
+System #                                    1180 Found!
+eq1 = 01100011
+eq2 = 00100110
+
+System #                                    1181 Found!
+eq1 = 01100011
+eq2 = 00101010
+
+System #                                    1182 Found!
+eq1 = 01100011
+eq2 = 00110010
+
+System #                                    1183 Found!
+eq1 = 01100011
+eq2 = 01000110
+
+System #                                    1184 Found!
+eq1 = 01100011
+eq2 = 01001010
+
+System #                                    1185 Found!
+eq1 = 01100011
+eq2 = 01010010
+
+System #                                    1186 Found!
+eq1 = 01100011
+eq2 = 10000110
+
+System #                                    1187 Found!
+eq1 = 01100011
+eq2 = 10001010
+
+System #                                    1188 Found!
+eq1 = 01100011
+eq2 = 10010010
+
+System #                                    1189 Found!
+eq1 = 01100011
+eq2 = 10100010
+
+System #                                    1190 Found!
+eq1 = 01100011
+eq2 = 11000010
+
+System #                                    1191 Found!
+eq1 = 10000111
+eq2 = 00001110
+
+System #                                    1192 Found!
+eq1 = 10000111
+eq2 = 00010110
+
+System #                                    1193 Found!
+eq1 = 10000111
+eq2 = 00011010
+
+System #                                    1194 Found!
+eq1 = 10000111
+eq2 = 00100110
+
+System #                                    1195 Found!
+eq1 = 10000111
+eq2 = 00101010
+
+System #                                    1196 Found!
+eq1 = 10000111
+eq2 = 00110010
+
+System #                                    1197 Found!
+eq1 = 10000111
+eq2 = 01000110
+
+System #                                    1198 Found!
+eq1 = 10000111
+eq2 = 01001010
+
+System #                                    1199 Found!
+eq1 = 10000111
+eq2 = 01010010
+
+System #                                    1200 Found!
+eq1 = 10000111
+eq2 = 01100010
+
+System #                                    1201 Found!
+eq1 = 10000111
+eq2 = 10001010
+
+System #                                    1202 Found!
+eq1 = 10000111
+eq2 = 10010010
+
+System #                                    1203 Found!
+eq1 = 10000111
+eq2 = 10100010
+
+System #                                    1204 Found!
+eq1 = 10000111
+eq2 = 11000010
+
+System #                                    1205 Found!
+eq1 = 10001011
+eq2 = 00001110
+
+System #                                    1206 Found!
+eq1 = 10001011
+eq2 = 00010110
+
+System #                                    1207 Found!
+eq1 = 10001011
+eq2 = 00011010
+
+System #                                    1208 Found!
+eq1 = 10001011
+eq2 = 00100110
+
+System #                                    1209 Found!
+eq1 = 10001011
+eq2 = 00101010
+
+System #                                    1210 Found!
+eq1 = 10001011
+eq2 = 00110010
+
+System #                                    1211 Found!
+eq1 = 10001011
+eq2 = 01000110
+
+System #                                    1212 Found!
+eq1 = 10001011
+eq2 = 01001010
+
+System #                                    1213 Found!
+eq1 = 10001011
+eq2 = 01010010
+
+System #                                    1214 Found!
+eq1 = 10001011
+eq2 = 01100010
+
+System #                                    1215 Found!
+eq1 = 10001011
+eq2 = 10000110
+
+System #                                    1216 Found!
+eq1 = 10001011
+eq2 = 10010010
+
+System #                                    1217 Found!
+eq1 = 10001011
+eq2 = 10100010
+
+System #                                    1218 Found!
+eq1 = 10001011
+eq2 = 11000010
+
+System #                                    1219 Found!
+eq1 = 10010011
+eq2 = 00001110
+
+System #                                    1220 Found!
+eq1 = 10010011
+eq2 = 00010110
+
+System #                                    1221 Found!
+eq1 = 10010011
+eq2 = 00011010
+
+System #                                    1222 Found!
+eq1 = 10010011
+eq2 = 00100110
+
+System #                                    1223 Found!
+eq1 = 10010011
+eq2 = 00101010
+
+System #                                    1224 Found!
+eq1 = 10010011
+eq2 = 00110010
+
+System #                                    1225 Found!
+eq1 = 10010011
+eq2 = 01000110
+
+System #                                    1226 Found!
+eq1 = 10010011
+eq2 = 01001010
+
+System #                                    1227 Found!
+eq1 = 10010011
+eq2 = 01010010
+
+System #                                    1228 Found!
+eq1 = 10010011
+eq2 = 01100010
+
+System #                                    1229 Found!
+eq1 = 10010011
+eq2 = 10000110
+
+System #                                    1230 Found!
+eq1 = 10010011
+eq2 = 10001010
+
+System #                                    1231 Found!
+eq1 = 10010011
+eq2 = 10100010
+
+System #                                    1232 Found!
+eq1 = 10010011
+eq2 = 11000010
+
+System #                                    1233 Found!
+eq1 = 10100011
+eq2 = 00001110
+
+System #                                    1234 Found!
+eq1 = 10100011
+eq2 = 00010110
+
+System #                                    1235 Found!
+eq1 = 10100011
+eq2 = 00011010
+
+System #                                    1236 Found!
+eq1 = 10100011
+eq2 = 00100110
+
+System #                                    1237 Found!
+eq1 = 10100011
+eq2 = 00101010
+
+System #                                    1238 Found!
+eq1 = 10100011
+eq2 = 00110010
+
+System #                                    1239 Found!
+eq1 = 10100011
+eq2 = 01000110
+
+System #                                    1240 Found!
+eq1 = 10100011
+eq2 = 01001010
+
+System #                                    1241 Found!
+eq1 = 10100011
+eq2 = 01010010
+
+System #                                    1242 Found!
+eq1 = 10100011
+eq2 = 01100010
+
+System #                                    1243 Found!
+eq1 = 10100011
+eq2 = 10000110
+
+System #                                    1244 Found!
+eq1 = 10100011
+eq2 = 10001010
+
+System #                                    1245 Found!
+eq1 = 10100011
+eq2 = 10010010
+
+System #                                    1246 Found!
+eq1 = 10100011
+eq2 = 11000010
+
+System #                                    1247 Found!
+eq1 = 11000011
+eq2 = 00001110
+
+System #                                    1248 Found!
+eq1 = 11000011
+eq2 = 00010110
+
+System #                                    1249 Found!
+eq1 = 11000011
+eq2 = 00011010
+
+System #                                    1250 Found!
+eq1 = 11000011
+eq2 = 00100110
+
+System #                                    1251 Found!
+eq1 = 11000011
+eq2 = 00101010
+
+System #                                    1252 Found!
+eq1 = 11000011
+eq2 = 00110010
+
+System #                                    1253 Found!
+eq1 = 11000011
+eq2 = 01000110
+
+System #                                    1254 Found!
+eq1 = 11000011
+eq2 = 01001010
+
+System #                                    1255 Found!
+eq1 = 11000011
+eq2 = 01010010
+
+System #                                    1256 Found!
+eq1 = 11000011
+eq2 = 01100010
+
+System #                                    1257 Found!
+eq1 = 11000011
+eq2 = 10000110
+
+System #                                    1258 Found!
+eq1 = 11000011
+eq2 = 10001010
+
+System #                                    1259 Found!
+eq1 = 11000011
+eq2 = 10010010
+
+System #                                    1260 Found!
+eq1 = 11000011
+eq2 = 10100010
+
+System #                                    1261 Found!
+eq1 = 00001110
+eq2 = 00010111
+
+System #                                    1262 Found!
+eq1 = 00001110
+eq2 = 00011011
+
+System #                                    1263 Found!
+eq1 = 00001110
+eq2 = 00100111
+
+System #                                    1264 Found!
+eq1 = 00001110
+eq2 = 00101011
+
+System #                                    1265 Found!
+eq1 = 00001110
+eq2 = 00110011
+
+System #                                    1266 Found!
+eq1 = 00001110
+eq2 = 01000111
+
+System #                                    1267 Found!
+eq1 = 00001110
+eq2 = 01001011
+
+System #                                    1268 Found!
+eq1 = 00001110
+eq2 = 01010011
+
+System #                                    1269 Found!
+eq1 = 00001110
+eq2 = 01100011
+
+System #                                    1270 Found!
+eq1 = 00001110
+eq2 = 10000111
+
+System #                                    1271 Found!
+eq1 = 00001110
+eq2 = 10001011
+
+System #                                    1272 Found!
+eq1 = 00001110
+eq2 = 10010011
+
+System #                                    1273 Found!
+eq1 = 00001110
+eq2 = 10100011
+
+System #                                    1274 Found!
+eq1 = 00001110
+eq2 = 11000011
+
+System #                                    1275 Found!
+eq1 = 00010110
+eq2 = 00001111
+
+System #                                    1276 Found!
+eq1 = 00010110
+eq2 = 00011011
+
+System #                                    1277 Found!
+eq1 = 00010110
+eq2 = 00100111
+
+System #                                    1278 Found!
+eq1 = 00010110
+eq2 = 00101011
+
+System #                                    1279 Found!
+eq1 = 00010110
+eq2 = 00110011
+
+System #                                    1280 Found!
+eq1 = 00010110
+eq2 = 01000111
+
+System #                                    1281 Found!
+eq1 = 00010110
+eq2 = 01001011
+
+System #                                    1282 Found!
+eq1 = 00010110
+eq2 = 01010011
+
+System #                                    1283 Found!
+eq1 = 00010110
+eq2 = 01100011
+
+System #                                    1284 Found!
+eq1 = 00010110
+eq2 = 10000111
+
+System #                                    1285 Found!
+eq1 = 00010110
+eq2 = 10001011
+
+System #                                    1286 Found!
+eq1 = 00010110
+eq2 = 10010011
+
+System #                                    1287 Found!
+eq1 = 00010110
+eq2 = 10100011
+
+System #                                    1288 Found!
+eq1 = 00010110
+eq2 = 11000011
+
+System #                                    1289 Found!
+eq1 = 00011010
+eq2 = 00001111
+
+System #                                    1290 Found!
+eq1 = 00011010
+eq2 = 00010111
+
+System #                                    1291 Found!
+eq1 = 00011010
+eq2 = 00100111
+
+System #                                    1292 Found!
+eq1 = 00011010
+eq2 = 00101011
+
+System #                                    1293 Found!
+eq1 = 00011010
+eq2 = 00110011
+
+System #                                    1294 Found!
+eq1 = 00011010
+eq2 = 01000111
+
+System #                                    1295 Found!
+eq1 = 00011010
+eq2 = 01001011
+
+System #                                    1296 Found!
+eq1 = 00011010
+eq2 = 01010011
+
+System #                                    1297 Found!
+eq1 = 00011010
+eq2 = 01100011
+
+System #                                    1298 Found!
+eq1 = 00011010
+eq2 = 10000111
+
+System #                                    1299 Found!
+eq1 = 00011010
+eq2 = 10001011
+
+System #                                    1300 Found!
+eq1 = 00011010
+eq2 = 10010011
+
+System #                                    1301 Found!
+eq1 = 00011010
+eq2 = 10100011
+
+System #                                    1302 Found!
+eq1 = 00011010
+eq2 = 11000011
+
+System #                                    1303 Found!
+eq1 = 00100110
+eq2 = 00001111
+
+System #                                    1304 Found!
+eq1 = 00100110
+eq2 = 00010111
+
+System #                                    1305 Found!
+eq1 = 00100110
+eq2 = 00011011
+
+System #                                    1306 Found!
+eq1 = 00100110
+eq2 = 00101011
+
+System #                                    1307 Found!
+eq1 = 00100110
+eq2 = 00110011
+
+System #                                    1308 Found!
+eq1 = 00100110
+eq2 = 01000111
+
+System #                                    1309 Found!
+eq1 = 00100110
+eq2 = 01001011
+
+System #                                    1310 Found!
+eq1 = 00100110
+eq2 = 01010011
+
+System #                                    1311 Found!
+eq1 = 00100110
+eq2 = 01100011
+
+System #                                    1312 Found!
+eq1 = 00100110
+eq2 = 10000111
+
+System #                                    1313 Found!
+eq1 = 00100110
+eq2 = 10001011
+
+System #                                    1314 Found!
+eq1 = 00100110
+eq2 = 10010011
+
+System #                                    1315 Found!
+eq1 = 00100110
+eq2 = 10100011
+
+System #                                    1316 Found!
+eq1 = 00100110
+eq2 = 11000011
+
+System #                                    1317 Found!
+eq1 = 00101010
+eq2 = 00001111
+
+System #                                    1318 Found!
+eq1 = 00101010
+eq2 = 00010111
+
+System #                                    1319 Found!
+eq1 = 00101010
+eq2 = 00011011
+
+System #                                    1320 Found!
+eq1 = 00101010
+eq2 = 00100111
+
+System #                                    1321 Found!
+eq1 = 00101010
+eq2 = 00110011
+
+System #                                    1322 Found!
+eq1 = 00101010
+eq2 = 01000111
+
+System #                                    1323 Found!
+eq1 = 00101010
+eq2 = 01001011
+
+System #                                    1324 Found!
+eq1 = 00101010
+eq2 = 01010011
+
+System #                                    1325 Found!
+eq1 = 00101010
+eq2 = 01100011
+
+System #                                    1326 Found!
+eq1 = 00101010
+eq2 = 10000111
+
+System #                                    1327 Found!
+eq1 = 00101010
+eq2 = 10001011
+
+System #                                    1328 Found!
+eq1 = 00101010
+eq2 = 10010011
+
+System #                                    1329 Found!
+eq1 = 00101010
+eq2 = 10100011
+
+System #                                    1330 Found!
+eq1 = 00101010
+eq2 = 11000011
+
+System #                                    1331 Found!
+eq1 = 00110010
+eq2 = 00001111
+
+System #                                    1332 Found!
+eq1 = 00110010
+eq2 = 00010111
+
+System #                                    1333 Found!
+eq1 = 00110010
+eq2 = 00011011
+
+System #                                    1334 Found!
+eq1 = 00110010
+eq2 = 00100111
+
+System #                                    1335 Found!
+eq1 = 00110010
+eq2 = 00101011
+
+System #                                    1336 Found!
+eq1 = 00110010
+eq2 = 01000111
+
+System #                                    1337 Found!
+eq1 = 00110010
+eq2 = 01001011
+
+System #                                    1338 Found!
+eq1 = 00110010
+eq2 = 01010011
+
+System #                                    1339 Found!
+eq1 = 00110010
+eq2 = 01100011
+
+System #                                    1340 Found!
+eq1 = 00110010
+eq2 = 10000111
+
+System #                                    1341 Found!
+eq1 = 00110010
+eq2 = 10001011
+
+System #                                    1342 Found!
+eq1 = 00110010
+eq2 = 10010011
+
+System #                                    1343 Found!
+eq1 = 00110010
+eq2 = 10100011
+
+System #                                    1344 Found!
+eq1 = 00110010
+eq2 = 11000011
+
+System #                                    1345 Found!
+eq1 = 01000110
+eq2 = 00001111
+
+System #                                    1346 Found!
+eq1 = 01000110
+eq2 = 00010111
+
+System #                                    1347 Found!
+eq1 = 01000110
+eq2 = 00011011
+
+System #                                    1348 Found!
+eq1 = 01000110
+eq2 = 00100111
+
+System #                                    1349 Found!
+eq1 = 01000110
+eq2 = 00101011
+
+System #                                    1350 Found!
+eq1 = 01000110
+eq2 = 00110011
+
+System #                                    1351 Found!
+eq1 = 01000110
+eq2 = 01001011
+
+System #                                    1352 Found!
+eq1 = 01000110
+eq2 = 01010011
+
+System #                                    1353 Found!
+eq1 = 01000110
+eq2 = 01100011
+
+System #                                    1354 Found!
+eq1 = 01000110
+eq2 = 10000111
+
+System #                                    1355 Found!
+eq1 = 01000110
+eq2 = 10001011
+
+System #                                    1356 Found!
+eq1 = 01000110
+eq2 = 10010011
+
+System #                                    1357 Found!
+eq1 = 01000110
+eq2 = 10100011
+
+System #                                    1358 Found!
+eq1 = 01000110
+eq2 = 11000011
+
+System #                                    1359 Found!
+eq1 = 01001010
+eq2 = 00001111
+
+System #                                    1360 Found!
+eq1 = 01001010
+eq2 = 00010111
+
+System #                                    1361 Found!
+eq1 = 01001010
+eq2 = 00011011
+
+System #                                    1362 Found!
+eq1 = 01001010
+eq2 = 00100111
+
+System #                                    1363 Found!
+eq1 = 01001010
+eq2 = 00101011
+
+System #                                    1364 Found!
+eq1 = 01001010
+eq2 = 00110011
+
+System #                                    1365 Found!
+eq1 = 01001010
+eq2 = 01000111
+
+System #                                    1366 Found!
+eq1 = 01001010
+eq2 = 01010011
+
+System #                                    1367 Found!
+eq1 = 01001010
+eq2 = 01100011
+
+System #                                    1368 Found!
+eq1 = 01001010
+eq2 = 10000111
+
+System #                                    1369 Found!
+eq1 = 01001010
+eq2 = 10001011
+
+System #                                    1370 Found!
+eq1 = 01001010
+eq2 = 10010011
+
+System #                                    1371 Found!
+eq1 = 01001010
+eq2 = 10100011
+
+System #                                    1372 Found!
+eq1 = 01001010
+eq2 = 11000011
+
+System #                                    1373 Found!
+eq1 = 01010010
+eq2 = 00001111
+
+System #                                    1374 Found!
+eq1 = 01010010
+eq2 = 00010111
+
+System #                                    1375 Found!
+eq1 = 01010010
+eq2 = 00011011
+
+System #                                    1376 Found!
+eq1 = 01010010
+eq2 = 00100111
+
+System #                                    1377 Found!
+eq1 = 01010010
+eq2 = 00101011
+
+System #                                    1378 Found!
+eq1 = 01010010
+eq2 = 00110011
+
+System #                                    1379 Found!
+eq1 = 01010010
+eq2 = 01000111
+
+System #                                    1380 Found!
+eq1 = 01010010
+eq2 = 01001011
+
+System #                                    1381 Found!
+eq1 = 01010010
+eq2 = 01100011
+
+System #                                    1382 Found!
+eq1 = 01010010
+eq2 = 10000111
+
+System #                                    1383 Found!
+eq1 = 01010010
+eq2 = 10001011
+
+System #                                    1384 Found!
+eq1 = 01010010
+eq2 = 10010011
+
+System #                                    1385 Found!
+eq1 = 01010010
+eq2 = 10100011
+
+System #                                    1386 Found!
+eq1 = 01010010
+eq2 = 11000011
+
+System #                                    1387 Found!
+eq1 = 01100010
+eq2 = 00001111
+
+System #                                    1388 Found!
+eq1 = 01100010
+eq2 = 00010111
+
+System #                                    1389 Found!
+eq1 = 01100010
+eq2 = 00011011
+
+System #                                    1390 Found!
+eq1 = 01100010
+eq2 = 00100111
+
+System #                                    1391 Found!
+eq1 = 01100010
+eq2 = 00101011
+
+System #                                    1392 Found!
+eq1 = 01100010
+eq2 = 00110011
+
+System #                                    1393 Found!
+eq1 = 01100010
+eq2 = 01000111
+
+System #                                    1394 Found!
+eq1 = 01100010
+eq2 = 01001011
+
+System #                                    1395 Found!
+eq1 = 01100010
+eq2 = 01010011
+
+System #                                    1396 Found!
+eq1 = 01100010
+eq2 = 10000111
+
+System #                                    1397 Found!
+eq1 = 01100010
+eq2 = 10001011
+
+System #                                    1398 Found!
+eq1 = 01100010
+eq2 = 10010011
+
+System #                                    1399 Found!
+eq1 = 01100010
+eq2 = 10100011
+
+System #                                    1400 Found!
+eq1 = 01100010
+eq2 = 11000011
+
+System #                                    1401 Found!
+eq1 = 10000110
+eq2 = 00001111
+
+System #                                    1402 Found!
+eq1 = 10000110
+eq2 = 00010111
+
+System #                                    1403 Found!
+eq1 = 10000110
+eq2 = 00011011
+
+System #                                    1404 Found!
+eq1 = 10000110
+eq2 = 00100111
+
+System #                                    1405 Found!
+eq1 = 10000110
+eq2 = 00101011
+
+System #                                    1406 Found!
+eq1 = 10000110
+eq2 = 00110011
+
+System #                                    1407 Found!
+eq1 = 10000110
+eq2 = 01000111
+
+System #                                    1408 Found!
+eq1 = 10000110
+eq2 = 01001011
+
+System #                                    1409 Found!
+eq1 = 10000110
+eq2 = 01010011
+
+System #                                    1410 Found!
+eq1 = 10000110
+eq2 = 01100011
+
+System #                                    1411 Found!
+eq1 = 10000110
+eq2 = 10001011
+
+System #                                    1412 Found!
+eq1 = 10000110
+eq2 = 10010011
+
+System #                                    1413 Found!
+eq1 = 10000110
+eq2 = 10100011
+
+System #                                    1414 Found!
+eq1 = 10000110
+eq2 = 11000011
+
+System #                                    1415 Found!
+eq1 = 10001010
+eq2 = 00001111
+
+System #                                    1416 Found!
+eq1 = 10001010
+eq2 = 00010111
+
+System #                                    1417 Found!
+eq1 = 10001010
+eq2 = 00011011
+
+System #                                    1418 Found!
+eq1 = 10001010
+eq2 = 00100111
+
+System #                                    1419 Found!
+eq1 = 10001010
+eq2 = 00101011
+
+System #                                    1420 Found!
+eq1 = 10001010
+eq2 = 00110011
+
+System #                                    1421 Found!
+eq1 = 10001010
+eq2 = 01000111
+
+System #                                    1422 Found!
+eq1 = 10001010
+eq2 = 01001011
+
+System #                                    1423 Found!
+eq1 = 10001010
+eq2 = 01010011
+
+System #                                    1424 Found!
+eq1 = 10001010
+eq2 = 01100011
+
+System #                                    1425 Found!
+eq1 = 10001010
+eq2 = 10000111
+
+System #                                    1426 Found!
+eq1 = 10001010
+eq2 = 10010011
+
+System #                                    1427 Found!
+eq1 = 10001010
+eq2 = 10100011
+
+System #                                    1428 Found!
+eq1 = 10001010
+eq2 = 11000011
+
+System #                                    1429 Found!
+eq1 = 10010010
+eq2 = 00001111
+
+System #                                    1430 Found!
+eq1 = 10010010
+eq2 = 00010111
+
+System #                                    1431 Found!
+eq1 = 10010010
+eq2 = 00011011
+
+System #                                    1432 Found!
+eq1 = 10010010
+eq2 = 00100111
+
+System #                                    1433 Found!
+eq1 = 10010010
+eq2 = 00101011
+
+System #                                    1434 Found!
+eq1 = 10010010
+eq2 = 00110011
+
+System #                                    1435 Found!
+eq1 = 10010010
+eq2 = 01000111
+
+System #                                    1436 Found!
+eq1 = 10010010
+eq2 = 01001011
+
+System #                                    1437 Found!
+eq1 = 10010010
+eq2 = 01010011
+
+System #                                    1438 Found!
+eq1 = 10010010
+eq2 = 01100011
+
+System #                                    1439 Found!
+eq1 = 10010010
+eq2 = 10000111
+
+System #                                    1440 Found!
+eq1 = 10010010
+eq2 = 10001011
+
+System #                                    1441 Found!
+eq1 = 10010010
+eq2 = 10100011
+
+System #                                    1442 Found!
+eq1 = 10010010
+eq2 = 11000011
+
+System #                                    1443 Found!
+eq1 = 10100010
+eq2 = 00001111
+
+System #                                    1444 Found!
+eq1 = 10100010
+eq2 = 00010111
+
+System #                                    1445 Found!
+eq1 = 10100010
+eq2 = 00011011
+
+System #                                    1446 Found!
+eq1 = 10100010
+eq2 = 00100111
+
+System #                                    1447 Found!
+eq1 = 10100010
+eq2 = 00101011
+
+System #                                    1448 Found!
+eq1 = 10100010
+eq2 = 00110011
+
+System #                                    1449 Found!
+eq1 = 10100010
+eq2 = 01000111
+
+System #                                    1450 Found!
+eq1 = 10100010
+eq2 = 01001011
+
+System #                                    1451 Found!
+eq1 = 10100010
+eq2 = 01010011
+
+System #                                    1452 Found!
+eq1 = 10100010
+eq2 = 01100011
+
+System #                                    1453 Found!
+eq1 = 10100010
+eq2 = 10000111
+
+System #                                    1454 Found!
+eq1 = 10100010
+eq2 = 10001011
+
+System #                                    1455 Found!
+eq1 = 10100010
+eq2 = 10010011
+
+System #                                    1456 Found!
+eq1 = 10100010
+eq2 = 11000011
+
+System #                                    1457 Found!
+eq1 = 11000010
+eq2 = 00001111
+
+System #                                    1458 Found!
+eq1 = 11000010
+eq2 = 00010111
+
+System #                                    1459 Found!
+eq1 = 11000010
+eq2 = 00011011
+
+System #                                    1460 Found!
+eq1 = 11000010
+eq2 = 00100111
+
+System #                                    1461 Found!
+eq1 = 11000010
+eq2 = 00101011
+
+System #                                    1462 Found!
+eq1 = 11000010
+eq2 = 00110011
+
+System #                                    1463 Found!
+eq1 = 11000010
+eq2 = 01000111
+
+System #                                    1464 Found!
+eq1 = 11000010
+eq2 = 01001011
+
+System #                                    1465 Found!
+eq1 = 11000010
+eq2 = 01010011
+
+System #                                    1466 Found!
+eq1 = 11000010
+eq2 = 01100011
+
+System #                                    1467 Found!
+eq1 = 11000010
+eq2 = 10000111
+
+System #                                    1468 Found!
+eq1 = 11000010
+eq2 = 10001011
+
+System #                                    1469 Found!
+eq1 = 11000010
+eq2 = 10010011
+
+System #                                    1470 Found!
+eq1 = 11000010
+eq2 = 10100011
+
+System #                                    1471 Found!
+eq1 = 00001111
+eq2 = 00010111
+
+System #                                    1472 Found!
+eq1 = 00001111
+eq2 = 00011011
+
+System #                                    1473 Found!
+eq1 = 00001111
+eq2 = 00100111
+
+System #                                    1474 Found!
+eq1 = 00001111
+eq2 = 00101011
+
+System #                                    1475 Found!
+eq1 = 00001111
+eq2 = 00110011
+
+System #                                    1476 Found!
+eq1 = 00001111
+eq2 = 01000111
+
+System #                                    1477 Found!
+eq1 = 00001111
+eq2 = 01001011
+
+System #                                    1478 Found!
+eq1 = 00001111
+eq2 = 01010011
+
+System #                                    1479 Found!
+eq1 = 00001111
+eq2 = 01100011
+
+System #                                    1480 Found!
+eq1 = 00001111
+eq2 = 10000111
+
+System #                                    1481 Found!
+eq1 = 00001111
+eq2 = 10001011
+
+System #                                    1482 Found!
+eq1 = 00001111
+eq2 = 10010011
+
+System #                                    1483 Found!
+eq1 = 00001111
+eq2 = 10100011
+
+System #                                    1484 Found!
+eq1 = 00001111
+eq2 = 11000011
+
+System #                                    1485 Found!
+eq1 = 00010111
+eq2 = 00001111
+
+System #                                    1486 Found!
+eq1 = 00010111
+eq2 = 00011011
+
+System #                                    1487 Found!
+eq1 = 00010111
+eq2 = 00100111
+
+System #                                    1488 Found!
+eq1 = 00010111
+eq2 = 00101011
+
+System #                                    1489 Found!
+eq1 = 00010111
+eq2 = 00110011
+
+System #                                    1490 Found!
+eq1 = 00010111
+eq2 = 01000111
+
+System #                                    1491 Found!
+eq1 = 00010111
+eq2 = 01001011
+
+System #                                    1492 Found!
+eq1 = 00010111
+eq2 = 01010011
+
+System #                                    1493 Found!
+eq1 = 00010111
+eq2 = 01100011
+
+System #                                    1494 Found!
+eq1 = 00010111
+eq2 = 10000111
+
+System #                                    1495 Found!
+eq1 = 00010111
+eq2 = 10001011
+
+System #                                    1496 Found!
+eq1 = 00010111
+eq2 = 10010011
+
+System #                                    1497 Found!
+eq1 = 00010111
+eq2 = 10100011
+
+System #                                    1498 Found!
+eq1 = 00010111
+eq2 = 11000011
+
+System #                                    1499 Found!
+eq1 = 00011011
+eq2 = 00001111
+
+System #                                    1500 Found!
+eq1 = 00011011
+eq2 = 00010111
+
+System #                                    1501 Found!
+eq1 = 00011011
+eq2 = 00100111
+
+System #                                    1502 Found!
+eq1 = 00011011
+eq2 = 00101011
+
+System #                                    1503 Found!
+eq1 = 00011011
+eq2 = 00110011
+
+System #                                    1504 Found!
+eq1 = 00011011
+eq2 = 01000111
+
+System #                                    1505 Found!
+eq1 = 00011011
+eq2 = 01001011
+
+System #                                    1506 Found!
+eq1 = 00011011
+eq2 = 01010011
+
+System #                                    1507 Found!
+eq1 = 00011011
+eq2 = 01100011
+
+System #                                    1508 Found!
+eq1 = 00011011
+eq2 = 10000111
+
+System #                                    1509 Found!
+eq1 = 00011011
+eq2 = 10001011
+
+System #                                    1510 Found!
+eq1 = 00011011
+eq2 = 10010011
+
+System #                                    1511 Found!
+eq1 = 00011011
+eq2 = 10100011
+
+System #                                    1512 Found!
+eq1 = 00011011
+eq2 = 11000011
+
+System #                                    1513 Found!
+eq1 = 00100111
+eq2 = 00001111
+
+System #                                    1514 Found!
+eq1 = 00100111
+eq2 = 00010111
+
+System #                                    1515 Found!
+eq1 = 00100111
+eq2 = 00011011
+
+System #                                    1516 Found!
+eq1 = 00100111
+eq2 = 00101011
+
+System #                                    1517 Found!
+eq1 = 00100111
+eq2 = 00110011
+
+System #                                    1518 Found!
+eq1 = 00100111
+eq2 = 01000111
+
+System #                                    1519 Found!
+eq1 = 00100111
+eq2 = 01001011
+
+System #                                    1520 Found!
+eq1 = 00100111
+eq2 = 01010011
+
+System #                                    1521 Found!
+eq1 = 00100111
+eq2 = 01100011
+
+System #                                    1522 Found!
+eq1 = 00100111
+eq2 = 10000111
+
+System #                                    1523 Found!
+eq1 = 00100111
+eq2 = 10001011
+
+System #                                    1524 Found!
+eq1 = 00100111
+eq2 = 10010011
+
+System #                                    1525 Found!
+eq1 = 00100111
+eq2 = 10100011
+
+System #                                    1526 Found!
+eq1 = 00100111
+eq2 = 11000011
+
+System #                                    1527 Found!
+eq1 = 00101011
+eq2 = 00001111
+
+System #                                    1528 Found!
+eq1 = 00101011
+eq2 = 00010111
+
+System #                                    1529 Found!
+eq1 = 00101011
+eq2 = 00011011
+
+System #                                    1530 Found!
+eq1 = 00101011
+eq2 = 00100111
+
+System #                                    1531 Found!
+eq1 = 00101011
+eq2 = 00110011
+
+System #                                    1532 Found!
+eq1 = 00101011
+eq2 = 01000111
+
+System #                                    1533 Found!
+eq1 = 00101011
+eq2 = 01001011
+
+System #                                    1534 Found!
+eq1 = 00101011
+eq2 = 01010011
+
+System #                                    1535 Found!
+eq1 = 00101011
+eq2 = 01100011
+
+System #                                    1536 Found!
+eq1 = 00101011
+eq2 = 10000111
+
+System #                                    1537 Found!
+eq1 = 00101011
+eq2 = 10001011
+
+System #                                    1538 Found!
+eq1 = 00101011
+eq2 = 10010011
+
+System #                                    1539 Found!
+eq1 = 00101011
+eq2 = 10100011
+
+System #                                    1540 Found!
+eq1 = 00101011
+eq2 = 11000011
+
+System #                                    1541 Found!
+eq1 = 00110011
+eq2 = 00001111
+
+System #                                    1542 Found!
+eq1 = 00110011
+eq2 = 00010111
+
+System #                                    1543 Found!
+eq1 = 00110011
+eq2 = 00011011
+
+System #                                    1544 Found!
+eq1 = 00110011
+eq2 = 00100111
+
+System #                                    1545 Found!
+eq1 = 00110011
+eq2 = 00101011
+
+System #                                    1546 Found!
+eq1 = 00110011
+eq2 = 01000111
+
+System #                                    1547 Found!
+eq1 = 00110011
+eq2 = 01001011
+
+System #                                    1548 Found!
+eq1 = 00110011
+eq2 = 01010011
+
+System #                                    1549 Found!
+eq1 = 00110011
+eq2 = 01100011
+
+System #                                    1550 Found!
+eq1 = 00110011
+eq2 = 10000111
+
+System #                                    1551 Found!
+eq1 = 00110011
+eq2 = 10001011
+
+System #                                    1552 Found!
+eq1 = 00110011
+eq2 = 10010011
+
+System #                                    1553 Found!
+eq1 = 00110011
+eq2 = 10100011
+
+System #                                    1554 Found!
+eq1 = 00110011
+eq2 = 11000011
+
+System #                                    1555 Found!
+eq1 = 01000111
+eq2 = 00001111
+
+System #                                    1556 Found!
+eq1 = 01000111
+eq2 = 00010111
+
+System #                                    1557 Found!
+eq1 = 01000111
+eq2 = 00011011
+
+System #                                    1558 Found!
+eq1 = 01000111
+eq2 = 00100111
+
+System #                                    1559 Found!
+eq1 = 01000111
+eq2 = 00101011
+
+System #                                    1560 Found!
+eq1 = 01000111
+eq2 = 00110011
+
+System #                                    1561 Found!
+eq1 = 01000111
+eq2 = 01001011
+
+System #                                    1562 Found!
+eq1 = 01000111
+eq2 = 01010011
+
+System #                                    1563 Found!
+eq1 = 01000111
+eq2 = 01100011
+
+System #                                    1564 Found!
+eq1 = 01000111
+eq2 = 10000111
+
+System #                                    1565 Found!
+eq1 = 01000111
+eq2 = 10001011
+
+System #                                    1566 Found!
+eq1 = 01000111
+eq2 = 10010011
+
+System #                                    1567 Found!
+eq1 = 01000111
+eq2 = 10100011
+
+System #                                    1568 Found!
+eq1 = 01000111
+eq2 = 11000011
+
+System #                                    1569 Found!
+eq1 = 01001011
+eq2 = 00001111
+
+System #                                    1570 Found!
+eq1 = 01001011
+eq2 = 00010111
+
+System #                                    1571 Found!
+eq1 = 01001011
+eq2 = 00011011
+
+System #                                    1572 Found!
+eq1 = 01001011
+eq2 = 00100111
+
+System #                                    1573 Found!
+eq1 = 01001011
+eq2 = 00101011
+
+System #                                    1574 Found!
+eq1 = 01001011
+eq2 = 00110011
+
+System #                                    1575 Found!
+eq1 = 01001011
+eq2 = 01000111
+
+System #                                    1576 Found!
+eq1 = 01001011
+eq2 = 01010011
+
+System #                                    1577 Found!
+eq1 = 01001011
+eq2 = 01100011
+
+System #                                    1578 Found!
+eq1 = 01001011
+eq2 = 10000111
+
+System #                                    1579 Found!
+eq1 = 01001011
+eq2 = 10001011
+
+System #                                    1580 Found!
+eq1 = 01001011
+eq2 = 10010011
+
+System #                                    1581 Found!
+eq1 = 01001011
+eq2 = 10100011
+
+System #                                    1582 Found!
+eq1 = 01001011
+eq2 = 11000011
+
+System #                                    1583 Found!
+eq1 = 01010011
+eq2 = 00001111
+
+System #                                    1584 Found!
+eq1 = 01010011
+eq2 = 00010111
+
+System #                                    1585 Found!
+eq1 = 01010011
+eq2 = 00011011
+
+System #                                    1586 Found!
+eq1 = 01010011
+eq2 = 00100111
+
+System #                                    1587 Found!
+eq1 = 01010011
+eq2 = 00101011
+
+System #                                    1588 Found!
+eq1 = 01010011
+eq2 = 00110011
+
+System #                                    1589 Found!
+eq1 = 01010011
+eq2 = 01000111
+
+System #                                    1590 Found!
+eq1 = 01010011
+eq2 = 01001011
+
+System #                                    1591 Found!
+eq1 = 01010011
+eq2 = 01100011
+
+System #                                    1592 Found!
+eq1 = 01010011
+eq2 = 10000111
+
+System #                                    1593 Found!
+eq1 = 01010011
+eq2 = 10001011
+
+System #                                    1594 Found!
+eq1 = 01010011
+eq2 = 10010011
+
+System #                                    1595 Found!
+eq1 = 01010011
+eq2 = 10100011
+
+System #                                    1596 Found!
+eq1 = 01010011
+eq2 = 11000011
+
+System #                                    1597 Found!
+eq1 = 01100011
+eq2 = 00001111
+
+System #                                    1598 Found!
+eq1 = 01100011
+eq2 = 00010111
+
+System #                                    1599 Found!
+eq1 = 01100011
+eq2 = 00011011
+
+System #                                    1600 Found!
+eq1 = 01100011
+eq2 = 00100111
+
+System #                                    1601 Found!
+eq1 = 01100011
+eq2 = 00101011
+
+System #                                    1602 Found!
+eq1 = 01100011
+eq2 = 00110011
+
+System #                                    1603 Found!
+eq1 = 01100011
+eq2 = 01000111
+
+System #                                    1604 Found!
+eq1 = 01100011
+eq2 = 01001011
+
+System #                                    1605 Found!
+eq1 = 01100011
+eq2 = 01010011
+
+System #                                    1606 Found!
+eq1 = 01100011
+eq2 = 10000111
+
+System #                                    1607 Found!
+eq1 = 01100011
+eq2 = 10001011
+
+System #                                    1608 Found!
+eq1 = 01100011
+eq2 = 10010011
+
+System #                                    1609 Found!
+eq1 = 01100011
+eq2 = 10100011
+
+System #                                    1610 Found!
+eq1 = 01100011
+eq2 = 11000011
+
+System #                                    1611 Found!
+eq1 = 10000111
+eq2 = 00001111
+
+System #                                    1612 Found!
+eq1 = 10000111
+eq2 = 00010111
+
+System #                                    1613 Found!
+eq1 = 10000111
+eq2 = 00011011
+
+System #                                    1614 Found!
+eq1 = 10000111
+eq2 = 00100111
+
+System #                                    1615 Found!
+eq1 = 10000111
+eq2 = 00101011
+
+System #                                    1616 Found!
+eq1 = 10000111
+eq2 = 00110011
+
+System #                                    1617 Found!
+eq1 = 10000111
+eq2 = 01000111
+
+System #                                    1618 Found!
+eq1 = 10000111
+eq2 = 01001011
+
+System #                                    1619 Found!
+eq1 = 10000111
+eq2 = 01010011
+
+System #                                    1620 Found!
+eq1 = 10000111
+eq2 = 01100011
+
+System #                                    1621 Found!
+eq1 = 10000111
+eq2 = 10001011
+
+System #                                    1622 Found!
+eq1 = 10000111
+eq2 = 10010011
+
+System #                                    1623 Found!
+eq1 = 10000111
+eq2 = 10100011
+
+System #                                    1624 Found!
+eq1 = 10000111
+eq2 = 11000011
+
+System #                                    1625 Found!
+eq1 = 10001011
+eq2 = 00001111
+
+System #                                    1626 Found!
+eq1 = 10001011
+eq2 = 00010111
+
+System #                                    1627 Found!
+eq1 = 10001011
+eq2 = 00011011
+
+System #                                    1628 Found!
+eq1 = 10001011
+eq2 = 00100111
+
+System #                                    1629 Found!
+eq1 = 10001011
+eq2 = 00101011
+
+System #                                    1630 Found!
+eq1 = 10001011
+eq2 = 00110011
+
+System #                                    1631 Found!
+eq1 = 10001011
+eq2 = 01000111
+
+System #                                    1632 Found!
+eq1 = 10001011
+eq2 = 01001011
+
+System #                                    1633 Found!
+eq1 = 10001011
+eq2 = 01010011
+
+System #                                    1634 Found!
+eq1 = 10001011
+eq2 = 01100011
+
+System #                                    1635 Found!
+eq1 = 10001011
+eq2 = 10000111
+
+System #                                    1636 Found!
+eq1 = 10001011
+eq2 = 10010011
+
+System #                                    1637 Found!
+eq1 = 10001011
+eq2 = 10100011
+
+System #                                    1638 Found!
+eq1 = 10001011
+eq2 = 11000011
+
+System #                                    1639 Found!
+eq1 = 10010011
+eq2 = 00001111
+
+System #                                    1640 Found!
+eq1 = 10010011
+eq2 = 00010111
+
+System #                                    1641 Found!
+eq1 = 10010011
+eq2 = 00011011
+
+System #                                    1642 Found!
+eq1 = 10010011
+eq2 = 00100111
+
+System #                                    1643 Found!
+eq1 = 10010011
+eq2 = 00101011
+
+System #                                    1644 Found!
+eq1 = 10010011
+eq2 = 00110011
+
+System #                                    1645 Found!
+eq1 = 10010011
+eq2 = 01000111
+
+System #                                    1646 Found!
+eq1 = 10010011
+eq2 = 01001011
+
+System #                                    1647 Found!
+eq1 = 10010011
+eq2 = 01010011
+
+System #                                    1648 Found!
+eq1 = 10010011
+eq2 = 01100011
+
+System #                                    1649 Found!
+eq1 = 10010011
+eq2 = 10000111
+
+System #                                    1650 Found!
+eq1 = 10010011
+eq2 = 10001011
+
+System #                                    1651 Found!
+eq1 = 10010011
+eq2 = 10100011
+
+System #                                    1652 Found!
+eq1 = 10010011
+eq2 = 11000011
+
+System #                                    1653 Found!
+eq1 = 10100011
+eq2 = 00001111
+
+System #                                    1654 Found!
+eq1 = 10100011
+eq2 = 00010111
+
+System #                                    1655 Found!
+eq1 = 10100011
+eq2 = 00011011
+
+System #                                    1656 Found!
+eq1 = 10100011
+eq2 = 00100111
+
+System #                                    1657 Found!
+eq1 = 10100011
+eq2 = 00101011
+
+System #                                    1658 Found!
+eq1 = 10100011
+eq2 = 00110011
+
+System #                                    1659 Found!
+eq1 = 10100011
+eq2 = 01000111
+
+System #                                    1660 Found!
+eq1 = 10100011
+eq2 = 01001011
+
+System #                                    1661 Found!
+eq1 = 10100011
+eq2 = 01010011
+
+System #                                    1662 Found!
+eq1 = 10100011
+eq2 = 01100011
+
+System #                                    1663 Found!
+eq1 = 10100011
+eq2 = 10000111
+
+System #                                    1664 Found!
+eq1 = 10100011
+eq2 = 10001011
+
+System #                                    1665 Found!
+eq1 = 10100011
+eq2 = 10010011
+
+System #                                    1666 Found!
+eq1 = 10100011
+eq2 = 11000011
+
+System #                                    1667 Found!
+eq1 = 11000011
+eq2 = 00001111
+
+System #                                    1668 Found!
+eq1 = 11000011
+eq2 = 00010111
+
+System #                                    1669 Found!
+eq1 = 11000011
+eq2 = 00011011
+
+System #                                    1670 Found!
+eq1 = 11000011
+eq2 = 00100111
+
+System #                                    1671 Found!
+eq1 = 11000011
+eq2 = 00101011
+
+System #                                    1672 Found!
+eq1 = 11000011
+eq2 = 00110011
+
+System #                                    1673 Found!
+eq1 = 11000011
+eq2 = 01000111
+
+System #                                    1674 Found!
+eq1 = 11000011
+eq2 = 01001011
+
+System #                                    1675 Found!
+eq1 = 11000011
+eq2 = 01010011
+
+System #                                    1676 Found!
+eq1 = 11000011
+eq2 = 01100011
+
+System #                                    1677 Found!
+eq1 = 11000011
+eq2 = 10000111
+
+System #                                    1678 Found!
+eq1 = 11000011
+eq2 = 10001011
+
+System #                                    1679 Found!
+eq1 = 11000011
+eq2 = 10010011
+
+System #                                    1680 Found!
+eq1 = 11000011
+eq2 = 10100011
+
+$stop called at time : 199500 ns : File "C:/Users/Matthew/Documents/GitHub/FPGA-SAT-Solver-MQP/MQP.srcs/sources_1/imports/lab3_test.srcs/sim_1/new/hamming_sim.v" Line 101

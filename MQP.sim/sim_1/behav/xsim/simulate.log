@@ -34413,4 +34413,29 @@ eq2 = 100010011
 Solution Found! X1 = 0, X2 = 0, X3 = 0, X4 = 0
 Solution Found! X1 = 1, X2 = 1, X3 = 0, X4 = 0
 Solution Found! X1 = 0, X2 = 0, X3 = 1, X4 = 0
-Solu
+Solution Found! X1 = 1, X2 = 1, X3 = 1, X4 = 0
+Solution Found! X1 = 0, X2 = 0, X3 = 0, X4 = 1
+Solution Found! X1 = 1, X2 = 1, X3 = 0, X4 = 1
+Number of solutions:   6
+
+System #                                    3359 Found!
+eq1 = 110000011
+eq2 = 100100011
+
+Solution Found! X1 = 0, X2 = 0, X3 = 0, X4 = 0
+Solution Found! X1 = 0, X2 = 0, X3 = 1, X4 = 0
+Solution Found! X1 = 1, X2 = 1, X3 = 0, X4 = 1
+Solution Found! X1 = 0, X2 = 0, X3 = 1, X4 = 1
+Number of solutions:   4
+
+System #                                    3360 Found!
+eq1 = 110000011
+eq2 = 101000011
+
+Solution Found! X1 = 0, X2 = 0, X3 = 0, X4 = 0
+Solution Found! X1 = 1, X2 = 1, X3 = 1, X4 = 0
+Solution Found! X1 = 0, X2 = 0, X3 = 0, X4 = 1
+Solution Found! X1 = 0, X2 = 0, X3 = 1, X4 = 1
+Number of solutions:   4
+
+$stop called at time : 1338540 ns : File "C:/Users/mtlun/Documents/MQP/MQP/MQP.srcs/sim_1/new/Full_Exhaustive_Sim.v" Line 121

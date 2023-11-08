@@ -86,6 +86,7 @@ assign eq2 = {eq2_coeff, Rest, RHS_eq2};
                         $display("");
                         terms = 5'b0_0000;
                         solutions_num = 8'd0;
+                        
                         while(terms[4] == 1'b0) begin
                             if(solved) begin
                                 $display("Solution Found! X1 = %b, X2 = %b, X3 = %b, X4 = %b", terms[0], terms[1], terms[2], terms[3]);
@@ -97,6 +98,7 @@ assign eq2 = {eq2_coeff, Rest, RHS_eq2};
                         $display("");
                         terms = 5'b0_0000;
                         solutions_num = 8'd0;
+                        
                         end
                     end
                     #10 eq2_coeff = eq2_coeff + 1'b1;

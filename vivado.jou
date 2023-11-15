@@ -2,15 +2,31 @@
 # Vivado v2022.1 (64-bit)
 # SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
 # IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
-# Start of session at: Tue Nov 14 20:56:19 2023
-# Process ID: 24260
-# Current directory: C:/Users/mtlun/AppData/Roaming/Xilinx/Vivado
-# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent1444
-# Log file: C:/Users/mtlun/AppData/Roaming/Xilinx/Vivado/vivado.log
-# Journal file: C:/Users/mtlun/AppData/Roaming/Xilinx/Vivado\vivado.jou
-# Running On: LAPTOP-BKM4OVDQ, OS: Windows, CPU Frequency: 2994 MHz, CPU Physical cores: 16, Host memory: 16556 MB
+# Start of session at: Tue Nov 14 21:02:20 2023
+# Process ID: 3108
+# Current directory: C:/Users/Matthew/Documents/GitHub/FPGA-SAT-Solver-MQP
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent20604 C:\Users\Matthew\Documents\GitHub\FPGA-SAT-Solver-MQP\MQP.xpr
+# Log file: C:/Users/Matthew/Documents/GitHub/FPGA-SAT-Solver-MQP/vivado.log
+# Journal file: C:/Users/Matthew/Documents/GitHub/FPGA-SAT-Solver-MQP\vivado.jou
+# Running On: DESKTOP-BRI9QCC, OS: Windows, CPU Frequency: 5090 MHz, CPU Physical cores: 24, Host memory: 33412 MB
 #-----------------------------------------------------------
 start_gui
-open_project C:/Users/mtlun/Documents/MQP/MQP/MQP.xpr
+open_project C:/Users/Matthew/Documents/GitHub/FPGA-SAT-Solver-MQP/MQP.xpr
 update_compile_order -fileset sources_1
-archive_project C:/Users/mtlun/Documents/MQP/MQP.xpr.zip -temp_dir C:/Users/mtlun/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-24260-LAPTOP-BKM4OVDQ -force -include_local_ip_cache -include_config_settings
+
+# Disabling source management mode.  This is to allow the top design properties to be set without GUI intervention.
+set_property source_mgmt_mode None [current_project]
+set_property top Full_Exhaustive_Sim [get_filesets sim_1]
+set_property top_lib xil_defaultlib [get_filesets sim_1]
+# Re-enabling previously disabled source management mode.
+set_property source_mgmt_mode All [current_project]
+update_compile_order -fileset sim_1
+launch_simulation
+source Full_Exhaustive_Sim.tcl
+restart
+run all
+close_sim
+launch_simulation
+source Full_Exhaustive_Sim.tcl
+restart
+run all

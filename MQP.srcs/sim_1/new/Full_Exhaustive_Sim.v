@@ -107,11 +107,11 @@ reg [0:0] eq_combos [EQ_Y - 1:0] [EQ_X - 1:0];
                         
                         end
                     end
-                    #10 eq2_coeff = eq2_coeff + 1'b1;
+                    #10 eq2_coeff <= eq2_coeff + 1'b1;
                 end
     
-                eq2_coeff = 0;
-                #10 eq1_coeff = eq1_coeff + 1'b1;
+                #10 eq1_coeff <= eq1_coeff + 1'b1;
+                eq2_coeff <= eq1_coeff;
             end
     
             eq1_coeff = 0;

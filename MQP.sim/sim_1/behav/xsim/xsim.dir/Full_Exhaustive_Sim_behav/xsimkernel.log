@@ -2,3 +2,6 @@ Running: xsim.dir/Full_Exhaustive_Sim_behav/xsimk.exe -simmode gui -wdb Full_Exh
 Design successfully loaded
 Design Loading Memory Usage: 7040 KB (Peak: 7040 KB)
 Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 9000 KB (Peak: 9000 KB)
+Simulation CPU Usage: 62 ms

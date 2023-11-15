@@ -5193,4 +5193,139 @@ System #                                     506 Found!
 eq1 = 011000010
 eq2 = 100010011
 
-Solution Found! X1 = 0, X2 = 1, X3 =
+Solution Found! X1 = 0, X2 = 1, X3 = 0, X4 = 0
+Solution Found! X1 = 1, X2 = 1, X3 = 0, X4 = 0
+Solution Found! X1 = 0, X2 = 0, X3 = 1, X4 = 0
+Solution Found! X1 = 0, X2 = 1, X3 = 0, X4 = 1
+Solution Found! X1 = 1, X2 = 1, X3 = 0, X4 = 1
+Solution Found! X1 = 1, X2 = 0, X3 = 1, X4 = 1
+Number of solutions:   6
+
+System #                                     507 Found!
+eq1 = 011000010
+eq2 = 100100011
+
+Solution Found! X1 = 0, X2 = 1, X3 = 0, X4 = 0
+Solution Found! X1 = 0, X2 = 0, X3 = 1, X4 = 0
+Solution Found! X1 = 1, X2 = 1, X3 = 0, X4 = 1
+Solution Found! X1 = 0, X2 = 0, X3 = 1, X4 = 1
+Number of solutions:   4
+
+System #                                     508 Found!
+eq1 = 011000010
+eq2 = 101000011
+
+Solution Found! X1 = 0, X2 = 1, X3 = 0, X4 = 0
+Solution Found! X1 = 1, X2 = 0, X3 = 1, X4 = 0
+Solution Found! X1 = 0, X2 = 1, X3 = 0, X4 = 1
+Solution Found! X1 = 0, X2 = 0, X3 = 1, X4 = 1
+Number of solutions:   4
+
+System #                                     509 Found!
+eq1 = 011000010
+eq2 = 110000011
+
+Solution Found! X1 = 1, X2 = 1, X3 = 0, X4 = 0
+Solution Found! X1 = 0, X2 = 0, X3 = 1, X4 = 0
+Solution Found! X1 = 1, X2 = 1, X3 = 0, X4 = 1
+Solution Found! X1 = 1, X2 = 0, X3 = 1, X4 = 1
+Number of solutions:   4
+
+System #                                     510 Found!
+eq1 = 100001010
+eq2 = 100000111
+
+Number of solutions:   0
+
+System #                                     511 Found!
+eq1 = 100001010
+eq2 = 100010011
+
+Solution Found! X1 = 1, X2 = 1, X3 = 0, X4 = 0
+Solution Found! X1 = 0, X2 = 1, X3 = 1, X4 = 0
+Solution Found! X1 = 1, X2 = 1, X3 = 0, X4 = 1
+Solution Found! X1 = 1, X2 = 0, X3 = 1, X4 = 1
+Number of solutions:   4
+
+System #                                     512 Found!
+eq1 = 100001010
+eq2 = 100100011
+
+Solution Found! X1 = 0, X2 = 1, X3 = 1, X4 = 0
+Solution Found! X1 = 1, X2 = 0, X3 = 0, X4 = 1
+Solution Found! X1 = 1, X2 = 1, X3 = 0, X4 = 1
+Solution Found! X1 = 0, X2 = 1, X3 = 1, X4 = 1
+Number of solutions:   4
+
+System #                                     513 Found!
+eq1 = 100001010
+eq2 = 101000011
+
+Solution Found! X1 = 1, X2 = 0, X3 = 1, X4 = 0
+Solution Found! X1 = 0, X2 = 1, X3 = 1, X4 = 1
+Number of solutions:   2
+
+System #                                     514 Found!
+eq1 = 100001010
+eq2 = 110000011
+
+Solution Found! X1 = 1, X2 = 1, X3 = 0, X4 = 0
+Solution Found! X1 = 1, X2 = 1, X3 = 0, X4 = 1
+Solution Found! X1 = 1, X2 = 0, X3 = 1, X4 = 1
+Solution Found! X1 = 0, X2 = 1, X3 = 1, X4 = 1
+Number of solutions:   4
+
+System #                                     515 Found!
+eq1 = 100010010
+eq2 = 100100011
+
+Solution Found! X1 = 1, X2 = 0, X3 = 0, X4 = 1
+Number of solutions:   1
+
+System #                                     516 Found!
+eq1 = 100010010
+eq2 = 101000011
+
+Solution Found! X1 = 1, X2 = 0, X3 = 1, X4 = 0
+Number of solutions:   1
+
+System #                                     517 Found!
+eq1 = 100010010
+eq2 = 110000011
+
+Solution Found! X1 = 1, X2 = 0, X3 = 1, X4 = 1
+Number of solutions:   1
+
+System #                                     518 Found!
+eq1 = 100100010
+eq2 = 101000011
+
+Solution Found! X1 = 1, X2 = 0, X3 = 1, X4 = 0
+Solution Found! X1 = 1, X2 = 1, X3 = 1, X4 = 0
+Solution Found! X1 = 0, X2 = 0, X3 = 0, X4 = 1
+Solution Found! X1 = 0, X2 = 1, X3 = 0, X4 = 1
+Solution Found! X1 = 0, X2 = 0, X3 = 1, X4 = 1
+Solution Found! X1 = 0, X2 = 1, X3 = 1, X4 = 1
+Number of solutions:   6
+
+System #                                     519 Found!
+eq1 = 100100010
+eq2 = 110000011
+
+Solution Found! X1 = 1, X2 = 1, X3 = 0, X4 = 0
+Solution Found! X1 = 1, X2 = 1, X3 = 1, X4 = 0
+Solution Found! X1 = 0, X2 = 0, X3 = 0, X4 = 1
+Solution Found! X1 = 0, X2 = 1, X3 = 1, X4 = 1
+Number of solutions:   4
+
+System #                                     520 Found!
+eq1 = 101000010
+eq2 = 110000011
+
+Solution Found! X1 = 1, X2 = 1, X3 = 0, X4 = 0
+Solution Found! X1 = 0, X2 = 0, X3 = 1, X4 = 0
+Solution Found! X1 = 1, X2 = 1, X3 = 0, X4 = 1
+Solution Found! X1 = 0, X2 = 1, X3 = 1, X4 = 1
+Number of solutions:   4
+
+$stop called at time : 190380 ns : File "C:/Users/Matthew/Documents/GitHub/FPGA-SAT-Solver-MQP/MQP.srcs/sim_1/new/Full_Exhaustive_Sim.v" Line 129

@@ -3,10 +3,10 @@
 <!--                                                         -->
 <!-- Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.   -->
 
-<Project Version="7" Minor="60" Path="C:/Users/Matthew/Documents/GitHub/FPGA-SAT-Solver-MQP/MQP.xpr">
+<Project Version="7" Minor="60" Path="C:/Users/mtlun/AppData/Roaming/Xilinx/Vivado/.Xil/Vivado-24260-LAPTOP-BKM4OVDQ/PrjAr/_X_/MQP.xpr">
   <DefaultLaunch Dir="$PRUNDIR"/>
   <Configuration>
-    <Option Name="Id" Val="322d331ae52944f6a84c52f99ff0d80c"/>
+    <Option Name="Id" Val="1f253780b417420794f5ee56f62e9231"/>
     <Option Name="Part" Val="xc7a200tsbg484-1"/>
     <Option Name="CompiledLibDir" Val="$PCACHEDIR/compile_simlib"/>
     <Option Name="CompiledLibDirXSim" Val=""/>
@@ -46,7 +46,6 @@
     <Option Name="ActiveSimSet" Val="sim_1"/>
     <Option Name="DefaultLib" Val="xil_defaultlib"/>
     <Option Name="ProjectType" Val="Default"/>
-    <Option Name="IPOutputRepo" Val="$PCACHEDIR/ip"/>
     <Option Name="IPDefaultOutputPath" Val="$PGENDIR/sources_1"/>
     <Option Name="IPCachePermission" Val="read"/>
     <Option Name="IPCachePermission" Val="write"/>
@@ -56,11 +55,7 @@
     <Option Name="IPUserFilesDir" Val="$PIPUSERFILESDIR"/>
     <Option Name="IPStaticSourceDir" Val="$PIPUSERFILESDIR/ipstatic"/>
     <Option Name="EnableBDX" Val="FALSE"/>
-<<<<<<< Updated upstream
     <Option Name="WTXSimLaunchSim" Val="60"/>
-=======
-    <Option Name="WTXSimLaunchSim" Val="35"/>
->>>>>>> Stashed changes
     <Option Name="WTModelSimLaunchSim" Val="0"/>
     <Option Name="WTQuestaLaunchSim" Val="0"/>
     <Option Name="WTIesLaunchSim" Val="0"/>
@@ -93,6 +88,8 @@
       <Filter Type="Srcs"/>
       <File Path="$PSRCDIR/sources_1/new/FSM_Exhaustive.v">
         <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Documents/MQP/MQP/MQP.srcs/sources_1/new/FSM_Exhaustive.v"/>
+          <Attr Name="ImportTime" Val="1700010758"/>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="implementation"/>
           <Attr Name="UsedIn" Val="simulation"/>
@@ -100,7 +97,7 @@
       </File>
       <File Path="$PSRCDIR/sources_1/imports/new/debounce.v">
         <FileInfo>
-          <Attr Name="ImportPath" Val="$PPRDIR/../../FPGA-top-level/mqp_board.srcs/sources_1/new/debounce.v"/>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Documents/FPGA-top-level/mqp_board.srcs/sources_1/new/debounce.v"/>
           <Attr Name="ImportTime" Val="1699454333"/>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="implementation"/>
@@ -109,6 +106,8 @@
       </File>
       <File Path="$PSRCDIR/sources_1/new/lfsr16.v">
         <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Documents/MQP/MQP/MQP.srcs/sources_1/new/lfsr16.v"/>
+          <Attr Name="ImportTime" Val="1700009308"/>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="implementation"/>
           <Attr Name="UsedIn" Val="simulation"/>
@@ -116,6 +115,8 @@
       </File>
       <File Path="$PSRCDIR/sources_1/new/Exhaustive_Top.v">
         <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Documents/MQP/MQP/MQP.srcs/sources_1/new/Exhaustive_Top.v"/>
+          <Attr Name="ImportTime" Val="1700007735"/>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="implementation"/>
           <Attr Name="UsedIn" Val="simulation"/>
@@ -124,6 +125,8 @@
       <File Path="$PSRCDIR/sources_1/new/solve_5_linear.v">
         <FileInfo>
           <Attr Name="AutoDisabled" Val="1"/>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Documents/MQP/MQP/MQP.srcs/sources_1/new/solve_5_linear.v"/>
+          <Attr Name="ImportTime" Val="1699994813"/>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="implementation"/>
           <Attr Name="UsedIn" Val="simulation"/>
@@ -132,7 +135,7 @@
       <File Path="$PSRCDIR/sources_1/imports/lab3_test.srcs/sources_1/new/hamming.v">
         <FileInfo>
           <Attr Name="AutoDisabled" Val="1"/>
-          <Attr Name="ImportPath" Val="$PPRDIR/../../ECE3829/lab3_test/lab3_test.srcs/sources_1/new/hamming.v"/>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Documents/ECE3829/lab3_test/lab3_test.srcs/sources_1/new/hamming.v"/>
           <Attr Name="ImportTime" Val="1698345694"/>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="implementation"/>
@@ -142,7 +145,7 @@
       <File Path="$PSRCDIR/sources_1/imports/lab3_test.srcs/sim_1/new/hamming_sim.v">
         <FileInfo>
           <Attr Name="AutoDisabled" Val="1"/>
-          <Attr Name="ImportPath" Val="$PPRDIR/../../ECE3829/lab3_test/lab3_test.srcs/sim_1/new/hamming_sim.v"/>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Documents/ECE3829/lab3_test/lab3_test.srcs/sim_1/new/hamming_sim.v"/>
           <Attr Name="ImportTime" Val="1698347314"/>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="implementation"/>
@@ -152,6 +155,8 @@
       <File Path="$PSRCDIR/sources_1/new/Solver_Example.v">
         <FileInfo>
           <Attr Name="AutoDisabled" Val="1"/>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Documents/MQP/MQP/MQP.srcs/sources_1/new/Solver_Example.v"/>
+          <Attr Name="ImportTime" Val="1699454312"/>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="implementation"/>
           <Attr Name="UsedIn" Val="simulation"/>
@@ -160,11 +165,14 @@
       <File Path="$PSRCDIR/sources_1/new/SysMake.v">
         <FileInfo>
           <Attr Name="AutoDisabled" Val="1"/>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Documents/MQP/MQP/MQP.srcs/sources_1/new/SysMake.v"/>
+          <Attr Name="ImportTime" Val="1698763494"/>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="implementation"/>
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
       </File>
+      <File Path="$PPRDIR/archive_project_summary.txt"/>
       <Config>
         <Option Name="DesignMode" Val="RTL"/>
         <Option Name="TopModule" Val="Exhaustive_Top"/>
@@ -174,6 +182,8 @@
       <Filter Type="Constrs"/>
       <File Path="$PSRCDIR/constrs_1/new/Nexys_Board.xdc">
         <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Documents/MQP/MQP/MQP.srcs/constrs_1/new/Nexys_Board.xdc"/>
+          <Attr Name="ImportTime" Val="1700006388"/>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="implementation"/>
         </FileInfo>
@@ -186,6 +196,8 @@
       <Filter Type="Srcs"/>
       <File Path="$PSRCDIR/sim_1/new/exhaust_sim.v">
         <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Documents/MQP/MQP/MQP.srcs/sim_1/new/exhaust_sim.v"/>
+          <Attr Name="ImportTime" Val="1700008349"/>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="implementation"/>
           <Attr Name="UsedIn" Val="simulation"/>
@@ -194,6 +206,8 @@
       <File Path="$PSRCDIR/sim_1/new/lfsr_sim.v">
         <FileInfo>
           <Attr Name="AutoDisabled" Val="1"/>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Documents/MQP/MQP/MQP.srcs/sim_1/new/lfsr_sim.v"/>
+          <Attr Name="ImportTime" Val="1700010179"/>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="implementation"/>
           <Attr Name="UsedIn" Val="simulation"/>
@@ -202,6 +216,8 @@
       <File Path="$PSRCDIR/sim_1/new/Full_Exhaustive_Sim.v">
         <FileInfo>
           <Attr Name="AutoDisabled" Val="1"/>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Documents/MQP/MQP/MQP.srcs/sim_1/new/Full_Exhaustive_Sim.v"/>
+          <Attr Name="ImportTime" Val="1699896388"/>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="implementation"/>
           <Attr Name="UsedIn" Val="simulation"/>
@@ -210,6 +226,8 @@
       <File Path="$PSRCDIR/sim_1/new/full_test.v">
         <FileInfo>
           <Attr Name="AutoDisabled" Val="1"/>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Documents/MQP/MQP/MQP.srcs/sim_1/new/full_test.v"/>
+          <Attr Name="ImportTime" Val="1699894475"/>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="implementation"/>
           <Attr Name="UsedIn" Val="simulation"/>
@@ -218,6 +236,8 @@
       <File Path="$PSRCDIR/sim_1/new/solve_sim.v">
         <FileInfo>
           <Attr Name="AutoDisabled" Val="1"/>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Documents/MQP/MQP/MQP.srcs/sim_1/new/solve_sim.v"/>
+          <Attr Name="ImportTime" Val="1699404285"/>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="implementation"/>
           <Attr Name="UsedIn" Val="simulation"/>
@@ -241,6 +261,8 @@
       <Filter Type="Utils"/>
       <File Path="$PSRCDIR/utils_1/imports/synth_1/FSM_Exhaustive.dcp">
         <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Documents/MQP/MQP/MQP.srcs/utils_1/imports/synth_1/FSM_Exhaustive.dcp"/>
+          <Attr Name="ImportTime" Val="1700007443"/>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="implementation"/>
           <Attr Name="UsedInSteps" Val="synth_1"/>
@@ -254,6 +276,8 @@
     <FileSet Name="clk_wiz_0" Type="BlockSrcs" RelSrcDir="$PSRCDIR/clk_wiz_0" RelGenDir="$PGENDIR/clk_wiz_0">
       <File Path="$PSRCDIR/sources_1/ip/clk_wiz_0/clk_wiz_0.xci">
         <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Documents/MQP/MQP/MQP.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.xci"/>
+          <Attr Name="ImportTime" Val="1700004850"/>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="implementation"/>
           <Attr Name="UsedIn" Val="simulation"/>
@@ -284,7 +308,7 @@
     </Simulator>
   </Simulators>
   <Runs Version="1" Minor="19">
-    <Run Id="synth_1" Type="Ft3:Synth" SrcSet="sources_1" Part="xc7a200tsbg484-1" ConstrsSet="constrs_1" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="true" IncrementalCheckpoint="$PSRCDIR/utils_1/imports/synth_1/FSM_Exhaustive.dcp" WriteIncrSynthDcp="false" State="current" Dir="$PRUNDIR/synth_1" IncludeInArchive="true" IsChild="false" AutoIncrementalDir="$PSRCDIR/utils_1/imports/synth_1" AutoRQSDir="$PSRCDIR/utils_1/imports/synth_1">
+    <Run Id="synth_1" Type="Ft3:Synth" SrcSet="sources_1" Part="xc7a200tsbg484-1" ConstrsSet="constrs_1" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="true" IncrementalCheckpoint="$PSRCDIR/utils_1/imports/synth_1/FSM_Exhaustive.dcp" WriteIncrSynthDcp="false" State="current" Dir="$PRUNDIR/synth_1" IncludeInArchive="true" IsChild="false" AutoIncrementalDir="$PSRCDIR/utils_1/imports/synth_1" AutoRQSDir="$PPRDIR/../../../../../../../../Documents/MQP/MQP/MQP.srcs/utils_1/imports/synth_1">
       <Strategy Version="1" Minor="2">
         <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2022"/>
         <Step Id="synth_design">
@@ -296,7 +320,7 @@
       <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
       <RQSFiles/>
     </Run>
-    <Run Id="clk_wiz_0_synth_1" Type="Ft3:Synth" SrcSet="clk_wiz_0" Part="xc7a200tsbg484-1" ConstrsSet="clk_wiz_0" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/clk_wiz_0_synth_1" IncludeInArchive="true" IsChild="false" AutoIncrementalDir="$PSRCDIR/utils_1/imports/clk_wiz_0_synth_1" AutoRQSDir="$PSRCDIR/utils_1/imports/clk_wiz_0_synth_1">
+    <Run Id="clk_wiz_0_synth_1" Type="Ft3:Synth" SrcSet="clk_wiz_0" Part="xc7a200tsbg484-1" ConstrsSet="clk_wiz_0" Description="Vivado Synthesis Defaults" AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" Dir="$PRUNDIR/clk_wiz_0_synth_1" IncludeInArchive="true" IsChild="false" AutoIncrementalDir="$PPRDIR/../../../../../../../../Documents/MQP/MQP/MQP.srcs/utils_1/imports/clk_wiz_0_synth_1" AutoRQSDir="$PPRDIR/../../../../../../../../Documents/MQP/MQP/MQP.srcs/utils_1/imports/clk_wiz_0_synth_1">
       <Strategy Version="1" Minor="2">
         <StratHandle Name="Vivado Synthesis Defaults" Flow="Vivado Synthesis 2022"/>
         <Step Id="synth_design"/>
@@ -306,7 +330,7 @@
       <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
       <RQSFiles/>
     </Run>
-    <Run Id="impl_1" Type="Ft2:EntireDesign" Part="xc7a200tsbg484-1" ConstrsSet="constrs_1" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" State="current" SynthRun="synth_1" IncludeInArchive="true" IsChild="false" GenFullBitstream="true" AutoIncrementalDir="$PSRCDIR/utils_1/imports/impl_1" AutoRQSDir="$PSRCDIR/utils_1/imports/impl_1">
+    <Run Id="impl_1" Type="Ft2:EntireDesign" Part="xc7a200tsbg484-1" ConstrsSet="constrs_1" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" State="current" SynthRun="synth_1" IncludeInArchive="true" IsChild="false" GenFullBitstream="true" AutoIncrementalDir="$PPRDIR/../../../../../../../../Documents/MQP/MQP/MQP.srcs/utils_1/imports/impl_1" AutoRQSDir="$PPRDIR/../../../../../../../../Documents/MQP/MQP/MQP.srcs/utils_1/imports/impl_1">
       <Strategy Version="1" Minor="2">
         <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2022"/>
         <Step Id="init_design"/>
@@ -323,7 +347,7 @@
       <Report Name="ROUTE_DESIGN.REPORT_METHODOLOGY" Enabled="1"/>
       <RQSFiles/>
     </Run>
-    <Run Id="clk_wiz_0_impl_1" Type="Ft2:EntireDesign" Part="xc7a200tsbg484-1" ConstrsSet="clk_wiz_0" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="clk_wiz_0_synth_1" IncludeInArchive="false" IsChild="false" GenFullBitstream="true" AutoIncrementalDir="$PSRCDIR/utils_1/imports/clk_wiz_0_impl_1" AutoRQSDir="$PSRCDIR/utils_1/imports/clk_wiz_0_impl_1">
+    <Run Id="clk_wiz_0_impl_1" Type="Ft2:EntireDesign" Part="xc7a200tsbg484-1" ConstrsSet="clk_wiz_0" Description="Default settings for Implementation." AutoIncrementalCheckpoint="false" WriteIncrSynthDcp="false" SynthRun="clk_wiz_0_synth_1" IncludeInArchive="false" IsChild="false" GenFullBitstream="true" AutoIncrementalDir="$PPRDIR/../../../../../../../../Documents/MQP/MQP/MQP.srcs/utils_1/imports/clk_wiz_0_impl_1" AutoRQSDir="$PPRDIR/../../../../../../../../Documents/MQP/MQP/MQP.srcs/utils_1/imports/clk_wiz_0_impl_1">
       <Strategy Version="1" Minor="2">
         <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2022"/>
         <Step Id="init_design"/>

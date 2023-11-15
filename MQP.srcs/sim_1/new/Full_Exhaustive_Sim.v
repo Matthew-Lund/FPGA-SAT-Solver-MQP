@@ -64,6 +64,11 @@ reg first_run;
 assign eq1 = {eq1_coeff, Rest, RHS_eq1};
 assign eq2 = {eq2_coeff, Rest, RHS_eq2};
 
+//only 20 possible values for this system
+parameter EQ_X = 20;    //For eq1
+parameter EQ_Y = 20;    //For eq2
+reg [0:0] eq_combos [EQ_Y - 1:0] [EQ_X - 1:0];
+
     initial begin
     sys_num = 0;
     RHS = 2'b00;
@@ -79,6 +84,7 @@ assign eq2 = {eq2_coeff, Rest, RHS_eq2};
                     if(weightcheck_eq1 && weightcheck_eq2)
                     begin
                         if(eq1[length+1:2] != eq2[length+1:2]) begin    //Only looking for finite # of solutions
+                        
                         sys_num = sys_num + 1;
                         $display("System # %d Found!", sys_num);
                         $display("eq1 = %b", eq1);

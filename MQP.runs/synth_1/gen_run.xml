@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<GenRun Id="synth_1" LaunchPart="xc7a200tsbg484-1" LaunchTime="1700007740" LaunchIncrCheckpoint="$PSRCDIR/utils_1/imports/synth_1/FSM_Exhaustive.dcp">
+<GenRun Id="synth_1" LaunchPart="xc7a200tsbg484-1" LaunchTime="1700025215" LaunchIncrCheckpoint="$PSRCDIR/utils_1/imports/synth_1/FSM_Exhaustive.dcp">
   <File Type="PA-TCL" Name="Exhaustive_Top.tcl"/>
   <File Type="REPORTS-TCL" Name="Exhaustive_Top_reports.tcl"/>
   <File Type="RDS-RDS" Name="Exhaustive_Top.vds"/>
@@ -8,15 +8,6 @@
   <File Type="RDS-DCP" Name="Exhaustive_Top.dcp"/>
   <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
     <Filter Type="Srcs"/>
-    <File Path="$PSRCDIR/sources_1/new/FSM_Exhaustive.v">
-      <FileInfo>
-        <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Documents/MQP/MQP/MQP.srcs/sources_1/new/FSM_Exhaustive.v"/>
-        <Attr Name="ImportTime" Val="1700010758"/>
-        <Attr Name="UsedIn" Val="synthesis"/>
-        <Attr Name="UsedIn" Val="implementation"/>
-        <Attr Name="UsedIn" Val="simulation"/>
-      </FileInfo>
-    </File>
     <File Path="$PSRCDIR/sources_1/imports/new/debounce.v">
       <FileInfo>
         <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Documents/FPGA-top-level/mqp_board.srcs/sources_1/new/debounce.v"/>
@@ -26,10 +17,15 @@
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
-    <File Path="$PSRCDIR/sources_1/new/lfsr16.v">
+    <File Path="$PSRCDIR/sources_1/new/FSM_Exhaustive.sv">
       <FileInfo>
-        <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Documents/MQP/MQP/MQP.srcs/sources_1/new/lfsr16.v"/>
-        <Attr Name="ImportTime" Val="1700009308"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/lfsr16.sv">
+      <FileInfo>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
         <Attr Name="UsedIn" Val="simulation"/>
@@ -44,11 +40,21 @@
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
-    <File Path="$PSRCDIR/sources_1/new/solve_5_linear.v">
+    <File Path="$PSRCDIR/sources_1/new/FSM_Exhaustive.v">
       <FileInfo>
         <Attr Name="AutoDisabled" Val="1"/>
-        <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Documents/MQP/MQP/MQP.srcs/sources_1/new/solve_5_linear.v"/>
-        <Attr Name="ImportTime" Val="1699994813"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Documents/MQP/MQP/MQP.srcs/sources_1/new/FSM_Exhaustive.v"/>
+        <Attr Name="ImportTime" Val="1700010758"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/lfsr16.v">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Documents/MQP/MQP/MQP.srcs/sources_1/new/lfsr16.v"/>
+        <Attr Name="ImportTime" Val="1700009308"/>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
         <Attr Name="UsedIn" Val="simulation"/>
@@ -64,16 +70,6 @@
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
-    <File Path="$PSRCDIR/sources_1/imports/lab3_test.srcs/sim_1/new/hamming_sim.v">
-      <FileInfo>
-        <Attr Name="AutoDisabled" Val="1"/>
-        <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Documents/ECE3829/lab3_test/lab3_test.srcs/sim_1/new/hamming_sim.v"/>
-        <Attr Name="ImportTime" Val="1698347314"/>
-        <Attr Name="UsedIn" Val="synthesis"/>
-        <Attr Name="UsedIn" Val="implementation"/>
-        <Attr Name="UsedIn" Val="simulation"/>
-      </FileInfo>
-    </File>
     <File Path="$PSRCDIR/sources_1/new/Solver_Example.v">
       <FileInfo>
         <Attr Name="AutoDisabled" Val="1"/>
@@ -84,16 +80,7 @@
         <Attr Name="UsedIn" Val="simulation"/>
       </FileInfo>
     </File>
-    <File Path="$PSRCDIR/sources_1/new/SysMake.v">
-      <FileInfo>
-        <Attr Name="AutoDisabled" Val="1"/>
-        <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Documents/MQP/MQP/MQP.srcs/sources_1/new/SysMake.v"/>
-        <Attr Name="ImportTime" Val="1698763494"/>
-        <Attr Name="UsedIn" Val="synthesis"/>
-        <Attr Name="UsedIn" Val="implementation"/>
-        <Attr Name="UsedIn" Val="simulation"/>
-      </FileInfo>
-    </File>
+    <File Path="$PPRDIR/archive_project_summary.txt"/>
     <Config>
       <Option Name="DesignMode" Val="RTL"/>
       <Option Name="TopModule" Val="Exhaustive_Top"/>

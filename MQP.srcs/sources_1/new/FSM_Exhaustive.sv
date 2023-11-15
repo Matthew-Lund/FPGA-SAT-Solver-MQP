@@ -25,21 +25,47 @@ module FSM_Exhaustive #(parameter START = 16'b1011_0110_1001_0010)//Hard-coded s
     input btnC,
     input clk,
     input reset_n,
-    output [5:0] LED   //top level
+    output [5:0] LED,  //top level
+    output reg [2:0] STATE
     );
         // Define packed struct for equation coefficients
     typedef struct packed {
         logic [15:0] coefficient;
     } EquationCoeff;
     
+    
+    
+    //clock divider to allow lfsr time to update
+    reg [4:0] slow_clk;
+    parameter tick_max = 10;
+    reg sclk;
+    always @(posedge clk) begin
+        if(reset_n == 1'b0) begin
+            slow_clk <= 5'b00000;
+            sclk <= 1'b0;
+        end
+        else begin
+            if(slow_clk == tick_max/2) begin
+                sclk <= 1'b1;
+            end
+            else if(slow_clk == tick_max) begin
+                sclk <= 1'b0;
+                slow_clk <= 5'b00000;
+            end
+            slow_clk <= slow_clk + 5'b00001;
+        end
+    end
+    
     //Counting Registers and # of Equations
     reg [3:0] eq_counter_gen, eq_counter_solve;
     parameter equations = 10;
     
     //for lfsr 
-    wire [15:0] lfsr_eq;   //output of lfsr16
+   // wire [15:0] lfsr_eq;   //output of lfsr16
+     logic [15:0] lfsr_out[3:0];
+    
     //FSM States
-    reg [2:0] STATE, STATE_N, STATE_P;  //next state
+    reg [2:0] STATE_N, STATE_P;  //next state
     parameter INIT = 3'b000;
     parameter EQ_NUM = 3'b001;
     parameter GEN = 3'b010;
@@ -82,7 +108,7 @@ module FSM_Exhaustive #(parameter START = 16'b1011_0110_1001_0010)//Hard-coded s
         .clk(clk),
         .reset_n(reset_n),
         .STATE(STATE),
-        .lfsr_out(lfsr_eq)
+        .lfsr_out(lfsr_out)
     );
     
     //for temp matrix and solving
@@ -103,7 +129,7 @@ module FSM_Exhaustive #(parameter START = 16'b1011_0110_1001_0010)//Hard-coded s
         end
     end
     
- always @(posedge clk) begin
+ always @(posedge sclk) begin
     if(reset_n == 1'b0) begin
         STATE <= INIT;
 
@@ -135,33 +161,41 @@ module FSM_Exhaustive #(parameter START = 16'b1011_0110_1001_0010)//Hard-coded s
             solutions_num <= 0;
             $display("Solving for a Quadratic System of 10 Equations!");
             //STATE_N <= (btnC) ? GEN : INIT;
-            STATE <= GEN;
+            STATE_N <= GEN;
         end
         
         GEN: begin  //Generate System of Equations
-            if(eq_counter_gen < equations) begin
-                    EQ_Matrix[eq_counter_gen] <= lfsr_eq[15:0];  //Create random coefficients
+            $display("Generating System of Equations");
+            if(eq_counter_gen < equations) begin //Create random coefficients
+                    EQ_Matrix[0][15:0] <= lfsr_out[0];
+                    EQ_Matrix[1][15:0] <= lfsr_out[1];    
+                    EQ_Matrix[2][15:0] <= lfsr_out[2];    
+                    EQ_Matrix[3][15:0] <= lfsr_out[3];    
+                    EQ_Matrix[4][15:0] <= lfsr_out[4];    
+                    EQ_Matrix[5][15:0] <= lfsr_out[5];    
+                    EQ_Matrix[6][15:0] <= lfsr_out[6];    
+                    EQ_Matrix[7][15:0] <= lfsr_out[7];    
+                    EQ_Matrix[8][15:0] <= lfsr_out[8];    
+                    EQ_Matrix[9][15:0] <= lfsr_out[9];    
                     eq_counter_gen <= eq_counter_gen + 1'b1;
             end
-            STATE <= (eq_counter_gen == equations) ? READY : GEN;
+            STATE_N <= READY;
         end
         
         READY: begin
             $display("System of Equations Generated! Press BtnC to Solve");
-           /* $display("EQ 1: %b", EQ_Matrix[0][15:0]);
-            $display("EQ 2: %b", EQ_Matrix[1][15:0]);
-            $display("EQ 3: %b", EQ_Matrix[2][15:0]);
-            $display("EQ 4: %b", EQ_Matrix[3][15:0]);
-            $display("EQ 5: %b", EQ_Matrix[4][15:0]);
-            $display("EQ 6: %b", EQ_Matrix[5]);
-            $display("EQ 7: %b", EQ_Matrix[6]);
-            $display("EQ 8: %b", EQ_Matrix[7]);
-            $display("EQ 9: %b", EQ_Matrix[8]);
-            $display("EQ 10: %b", EQ_Matrix[9]);*/
-            if(btnC) begin
-                STATE <= SOLVE;
+            $display("EQ 1: %b", EQ_Matrix[0].coefficient);
+            $display("EQ 2: %b", EQ_Matrix[1].coefficient);
+            $display("EQ 3: %b", EQ_Matrix[2].coefficient);
+            $display("EQ 4: %b", EQ_Matrix[3].coefficient);
+            $display("EQ 5: %b", EQ_Matrix[4].coefficient);
+            $display("EQ 6: %b", EQ_Matrix[5].coefficient);
+            $display("EQ 7: %b", EQ_Matrix[6].coefficient);
+            $display("EQ 8: %b", EQ_Matrix[7].coefficient);
+            $display("EQ 9: %b", EQ_Matrix[8].coefficient);
+            $display("EQ 10: %b", EQ_Matrix[9].coefficient);
+            STATE <= WAIT;
             end
-        end
         
         SOLVE: begin
             if(Terms < 6'b1_00000) begin

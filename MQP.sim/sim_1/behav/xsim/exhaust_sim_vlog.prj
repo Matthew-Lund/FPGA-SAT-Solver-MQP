@@ -1,7 +1,9 @@
 # compile verilog/system verilog design source files
+sv xil_defaultlib  --include "../../../../MQP.gen/sources_1/ip/clk_wiz_0" \
+"../../../../MQP.srcs/sources_1/new/FSM_Exhaustive.sv" \
+"../../../../MQP.srcs/sources_1/new/lfsr16.sv" \
+
 verilog xil_defaultlib  --include "../../../../MQP.gen/sources_1/ip/clk_wiz_0" \
-"../../../../MQP.srcs/sources_1/new/FSM_Exhaustive.v" \
-"../../../../MQP.srcs/sources_1/new/lfsr16.v" \
 "../../../../MQP.srcs/sim_1/new/exhaust_sim.v" \
 
 # compile glbl module

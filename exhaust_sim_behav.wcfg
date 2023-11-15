@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="exhaust_sim_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="exhaust_sim" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="2,320.543 ns"></ZoomEndTime>
+      <Cursor1Time time="1,535.552 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="258"></NameColumnWidth>
+      <ValueColumnWidth column_width="99"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="16" />
+   <wvobject fp_name="/exhaust_sim/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/exhaust_sim/reset_n" type="logic">
+      <obj_property name="ElementShortName">reset_n</obj_property>
+      <obj_property name="ObjectShortName">reset_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/exhaust_sim/btnC" type="logic">
+      <obj_property name="ElementShortName">btnC</obj_property>
+      <obj_property name="ObjectShortName">btnC</obj_property>
+   </wvobject>
+   <wvobject fp_name="/exhaust_sim/LED" type="array">
+      <obj_property name="ElementShortName">LED[5:0]</obj_property>
+      <obj_property name="ObjectShortName">LED[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/exhaust_sim/STATE" type="array">
+      <obj_property name="ElementShortName">STATE[2:0]</obj_property>
+      <obj_property name="ObjectShortName">STATE[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/exhaust_sim/START" type="array">
+      <obj_property name="ElementShortName">START[15:0]</obj_property>
+      <obj_property name="ObjectShortName">START[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/exhaust_sim/INIT" type="array">
+      <obj_property name="ElementShortName">INIT[2:0]</obj_property>
+      <obj_property name="ObjectShortName">INIT[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/exhaust_sim/EQ_NUM" type="array">
+      <obj_property name="ElementShortName">EQ_NUM[2:0]</obj_property>
+      <obj_property name="ObjectShortName">EQ_NUM[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/exhaust_sim/GEN" type="array">
+      <obj_property name="ElementShortName">GEN[2:0]</obj_property>
+      <obj_property name="ObjectShortName">GEN[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/exhaust_sim/READY" type="array">
+      <obj_property name="ElementShortName">READY[2:0]</obj_property>
+      <obj_property name="ObjectShortName">READY[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/exhaust_sim/SOLVE" type="array">
+      <obj_property name="ElementShortName">SOLVE[2:0]</obj_property>
+      <obj_property name="ObjectShortName">SOLVE[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/exhaust_sim/DONE" type="array">
+      <obj_property name="ElementShortName">DONE[2:0]</obj_property>
+      <obj_property name="ObjectShortName">DONE[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/exhaust_sim/WAIT" type="array">
+      <obj_property name="ElementShortName">WAIT[2:0]</obj_property>
+      <obj_property name="ObjectShortName">WAIT[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/exhaust_sim/fsm/lfsr_eq" type="array">
+      <obj_property name="ElementShortName">lfsr_eq[15:0]</obj_property>
+      <obj_property name="ObjectShortName">lfsr_eq[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/exhaust_sim/fsm/sclk" type="logic">
+      <obj_property name="ElementShortName">sclk</obj_property>
+      <obj_property name="ObjectShortName">sclk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/exhaust_sim/fsm/avail" type="logic">
+      <obj_property name="ElementShortName">avail</obj_property>
+      <obj_property name="ObjectShortName">avail</obj_property>
+   </wvobject>
+</wave_config>

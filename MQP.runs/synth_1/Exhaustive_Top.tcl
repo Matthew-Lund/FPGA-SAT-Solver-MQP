@@ -4,7 +4,7 @@
 
 set TIME_start [clock seconds] 
 namespace eval ::optrace {
-  variable script "C:/Users/Matthew/Documents/GitHub/FPGA-SAT-Solver-MQP/MQP.runs/synth_1/Exhaustive_Top.tcl"
+  variable script "C:/Users/mtlun/Documents/MQP/MQP/MQP.runs/synth_1/Exhaustive_Top.tcl"
   variable category "vivado_synth"
 }
 
@@ -70,7 +70,7 @@ proc create_report { reportName command } {
   }
 }
 OPTRACE "synth_1" START { ROLLUP_AUTO }
-set_param chipscope.maxJobs 6
+set_param chipscope.maxJobs 1
 set_msg_config  -id {Synth 8-439}  -string {{ERROR: [Synth 8-439] module 'clk_wiz_1' not found}}  -suppress 
 set_msg_config  -id {Common 17-69}  -string {{ERROR: [Common 17-69] Command failed: Synthesis failed - please see the console or run log file for details}}  -suppress 
 set_msg_config  -id {IP_Flow 19-4739}  -string {{CRITICAL WARNING: [IP_Flow 19-4739] Writing uncustomized BOM file 'c:/Users/Matthew/Documents/GitHub/FPGA-top-level/mqp_board.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.xml'}}  -suppress 
@@ -82,27 +82,27 @@ set_param project.singleFileAddWarning.threshold 0
 set_param project.compositeFile.enableAutoGeneration 0
 set_param synth.vivado.isSynthRun true
 set_msg_config -source 4 -id {IP_Flow 19-2162} -severity warning -new_severity info
-set_property webtalk.parent_dir C:/Users/Matthew/Documents/GitHub/FPGA-SAT-Solver-MQP/MQP.cache/wt [current_project]
-set_property parent.project_path C:/Users/Matthew/Documents/GitHub/FPGA-SAT-Solver-MQP/MQP.xpr [current_project]
+set_property webtalk.parent_dir C:/Users/mtlun/Documents/MQP/MQP/MQP.cache/wt [current_project]
+set_property parent.project_path C:/Users/mtlun/Documents/MQP/MQP/MQP.xpr [current_project]
 set_property XPM_LIBRARIES XPM_CDC [current_project]
 set_property default_lib xil_defaultlib [current_project]
 set_property target_language Verilog [current_project]
-set_property ip_output_repo c:/Users/Matthew/Documents/GitHub/FPGA-SAT-Solver-MQP/MQP.cache/ip [current_project]
+set_property ip_output_repo c:/Users/mtlun/Documents/MQP/MQP/MQP.cache/ip [current_project]
 set_property ip_cache_permissions {read write} [current_project]
 OPTRACE "Creating in-memory project" END { }
 OPTRACE "Adding files" START { }
 read_verilog -library xil_defaultlib -sv {
-  C:/Users/Matthew/Documents/GitHub/FPGA-SAT-Solver-MQP/MQP.srcs/sources_1/new/FSM_Exhaustive.sv
-  C:/Users/Matthew/Documents/GitHub/FPGA-SAT-Solver-MQP/MQP.srcs/sources_1/new/lfsr16.sv
+  C:/Users/mtlun/Documents/MQP/MQP/MQP.srcs/sources_1/new/FSM_Exhaustive.sv
+  C:/Users/mtlun/Documents/MQP/MQP/MQP.srcs/sources_1/new/lfsr16.sv
 }
 read_verilog -library xil_defaultlib {
-  C:/Users/Matthew/Documents/GitHub/FPGA-SAT-Solver-MQP/MQP.srcs/sources_1/imports/new/debounce.v
-  C:/Users/Matthew/Documents/GitHub/FPGA-SAT-Solver-MQP/MQP.srcs/sources_1/new/Exhaustive_Top.v
+  C:/Users/mtlun/Documents/MQP/MQP/MQP.srcs/sources_1/imports/new/debounce.v
+  C:/Users/mtlun/Documents/MQP/MQP/MQP.srcs/sources_1/new/Exhaustive_Top.v
 }
-read_ip -quiet C:/Users/Matthew/Documents/GitHub/FPGA-SAT-Solver-MQP/MQP.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.xci
-set_property used_in_implementation false [get_files -all c:/Users/Matthew/Documents/GitHub/FPGA-SAT-Solver-MQP/MQP.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_board.xdc]
-set_property used_in_implementation false [get_files -all c:/Users/Matthew/Documents/GitHub/FPGA-SAT-Solver-MQP/MQP.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.xdc]
-set_property used_in_implementation false [get_files -all c:/Users/Matthew/Documents/GitHub/FPGA-SAT-Solver-MQP/MQP.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_ooc.xdc]
+read_ip -quiet C:/Users/mtlun/Documents/MQP/MQP/MQP.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.xci
+set_property used_in_implementation false [get_files -all c:/Users/mtlun/Documents/MQP/MQP/MQP.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_board.xdc]
+set_property used_in_implementation false [get_files -all c:/Users/mtlun/Documents/MQP/MQP/MQP.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.xdc]
+set_property used_in_implementation false [get_files -all c:/Users/mtlun/Documents/MQP/MQP/MQP.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_ooc.xdc]
 
 OPTRACE "Adding files" END { }
 # Mark all dcp files as not used in implementation to prevent them from being
@@ -113,12 +113,12 @@ OPTRACE "Adding files" END { }
 foreach dcp [get_files -quiet -all -filter file_type=="Design\ Checkpoint"] {
   set_property used_in_implementation false $dcp
 }
-read_xdc C:/Users/Matthew/Documents/GitHub/FPGA-SAT-Solver-MQP/MQP.srcs/constrs_1/new/Nexys_Board.xdc
-set_property used_in_implementation false [get_files C:/Users/Matthew/Documents/GitHub/FPGA-SAT-Solver-MQP/MQP.srcs/constrs_1/new/Nexys_Board.xdc]
+read_xdc C:/Users/mtlun/Documents/MQP/MQP/MQP.srcs/constrs_1/new/Nexys_Board.xdc
+set_property used_in_implementation false [get_files C:/Users/mtlun/Documents/MQP/MQP/MQP.srcs/constrs_1/new/Nexys_Board.xdc]
 
 set_param ips.enableIPCacheLiteLoad 1
 
-read_checkpoint -auto_incremental -incremental C:/Users/Matthew/Documents/GitHub/FPGA-SAT-Solver-MQP/MQP.srcs/utils_1/imports/synth_1/FSM_Exhaustive.dcp
+read_checkpoint -auto_incremental -incremental C:/Users/mtlun/Documents/MQP/MQP/MQP.srcs/utils_1/imports/synth_1/FSM_Exhaustive.dcp
 close [open __synthesis_is_running__ w]
 
 OPTRACE "synth_design" START { }

@@ -20,7 +20,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module FSM_Exhaustive #(parameter START = 16'b1011_0110_1001_0010)//Hard-coded seed for lfsr
+module FSM_Exhaustive #(parameter START = 16'b1011_0110_1001_0010)//Can manipulate # of equations in top-level
     (
     input btnC,
     input clk,
@@ -33,12 +33,11 @@ module FSM_Exhaustive #(parameter START = 16'b1011_0110_1001_0010)//Hard-coded s
         logic [15:0] coefficient;
     } EquationCoeff;
     
-    
-    parameter equations = 10; //Hard-Coded
+    parameter eq_num = 16;
     
     //clock divider to allow lfsr time to update
-    reg [4:0] slow_clk;
-    parameter tick_max = equations * 2;
+    reg [5:0] slow_clk;
+    parameter tick_max = eq_num * 2;
     reg sclk;
     always @(posedge clk) begin
         if(reset_n == 1'b0) begin
@@ -46,26 +45,30 @@ module FSM_Exhaustive #(parameter START = 16'b1011_0110_1001_0010)//Hard-coded s
             sclk <= 1'b0;
         end
         else begin
-            if(slow_clk == tick_max/2) begin
+            if(slow_clk == eq_num) begin
                 sclk <= 1'b1;
             end
-            else if(slow_clk == tick_max) begin
+            else if(slow_clk == eq_num * 2) begin
                 sclk <= 1'b0;
-                slow_clk <= 5'b00000;
+                slow_clk <= 0;
             end
-            slow_clk <= slow_clk + 5'b00001;
+            slow_clk <= slow_clk + 1;
         end
     end
     
     //Counting Registers and # of Equations
-    reg [3:0] eq_counter_gen, eq_counter_solve;
+    reg[5:0] eq_counter_gen, eq_counter_solve, eq_counter_ready;
     
     //for lfsr 
-   // wire [15:0] lfsr_eq;   //output of lfsr16
-     //logic [15:0] lfsr_out[9:0];
-    
+   wire [15:0] lfsr_eq;   //output of lfsr16
+   logic [15:0] lfsr_out[eq_num-1:0];
+   lfsr16 #(.START(START)) lfsr(
+        .clk(clk),
+        .reset_n(reset_n),
+        .lfsr_out(lfsr_out)
+   );
     //FSM States
-    reg [2:0] STATE_N, STATE_P;  //next state
+    reg [2:0] STATE_N ;  //next state
     parameter INIT = 3'b000;
     parameter GEN = 3'b001;
     parameter READY = 3'b010;
@@ -97,106 +100,101 @@ module FSM_Exhaustive #(parameter START = 16'b1011_0110_1001_0010)//Hard-coded s
     assign X4X5 = X4 & X5;
     
     wire [14:0] term_string = {X1, X2, X3, X4 ,X5, X1X2, X1X3, X1X4, X1X5, X2X3, X2X4, X2X5, X3X4, X3X5, X4X5}; //easier for computation
-    reg temp_matrix[equations-1:0][1:0];
+    reg temp_matrix[eq_num-1:0][1:0];
     
     reg [10:0] solutions_num;
     
-    EquationCoeff EQ_Matrix [0:(equations-1)];   //X1 + X2 + X3 + X4 + X5 + X1X2 + X1X3 + X1X4 + X1X5 + X2X3 + X2X4 + X2X5 + X3X4 + X3X5 + X4X5 = RHS
+    EquationCoeff EQ_Matrix [0:(eq_num-1)];   //X1 + X2 + X3 + X4 + X5 + X1X2 + X1X3 + X1X4 + X1X5 + X2X3 + X2X4 + X2X5 + X3X4 + X3X5 + X4X5 = RHS
    
     
     //for temp matrix and solving
     always @(*) begin
         if(STATE == SOLVE) begin
-            if(eq_counter_solve < equations) begin
+            if(eq_counter_solve < eq_num) begin
                 temp_matrix[eq_counter_solve][0] = EQ_Matrix[eq_counter_solve].coefficient[15:1] ^ term_string[14:0];
                          
                 temp_matrix[eq_counter_solve][1] = EQ_Matrix[eq_counter_solve].coefficient[0];// Set all [1] values to RHS 
+                solved = (solved && (temp_matrix[eq_counter_solve][0] == temp_matrix[eq_counter_solve][1])) ? 1'b1 : 1'b0;
                 eq_counter_solve = eq_counter_solve + 1; 
             end
 
-        solved = ( (temp_matrix[0][0] == temp_matrix[0][1]) && (temp_matrix[1][0] == temp_matrix[1][1]) 
+        /* && (temp_matrix[1][0] == temp_matrix[1][1]) 
         && (temp_matrix[2][0] == temp_matrix[2][1]) && (temp_matrix[3][0] == temp_matrix[3][1])
          && (temp_matrix[4][0] == temp_matrix[4][1]) && (temp_matrix[5][0] == temp_matrix[5][1]) 
          && (temp_matrix[6][0] == temp_matrix[6][1]) && (temp_matrix[7][0] == temp_matrix[7][1]) 
-         && (temp_matrix[8][0] == temp_matrix[8][1]) && (temp_matrix[9][0] == temp_matrix[9][1]) ) ? 1'b1 : 1'b0;
+         && (temp_matrix[8][0] == temp_matrix[8][1]) && (temp_matrix[9][0] == temp_matrix[9][1])*/ 
 
         end
     end
     
  
- always @ (posedge clk) begin   //Combinational
+ always @ (posedge sclk) begin   //Combinational
  
      if(reset_n == 1'b0) begin
         STATE <= INIT;
     end
     else begin
-        STATE <= STATE_N;    
+        STATE <= STATE_N;
+     
         case(STATE)
         
             WAIT: begin
-                if(STATE_P == DONE) begin
                     STATE_N <= (btnC) ? INIT : WAIT;
-                end
-                STATE_N <= (btnC) ? STATE_P + 3'b001 : WAIT;
             end
             
             INIT: begin 
                 Terms <= 0;
                 eq_counter_solve <= 0;
                 eq_counter_gen <= 0;
+                eq_counter_ready <= 0;
                 solutions_num <= 0;
-                $display("Solving for a Quadratic System of 10 Equations!");
                 //STATE_N <= (btnC) ? GEN : INIT;
                 STATE_N <= GEN;
             end
             
             GEN: begin  //Generate System of Equations
                 $display("Generating System of Equations");
-                if(eq_counter_gen < equations) begin //Create random coefficients
-                        EQ_Matrix[0][15:0] <= $random;
-                        EQ_Matrix[1][15:0] <= $random;    
-                        EQ_Matrix[2][15:0] <= $random;    
-                        EQ_Matrix[3][15:0] <= $random;    
-                        EQ_Matrix[4][15:0] <= $random;    
-                        EQ_Matrix[5][15:0] <= $random;    
-                        EQ_Matrix[6][15:0] <= $random;    
-                        EQ_Matrix[7][15:0] <= $random;    
-                        EQ_Matrix[8][15:0] <= $random;    
-                        EQ_Matrix[9][15:0] <= $random;    
+                EQ_Matrix <= lfsr_out;
+                /*while(eq_counter_gen < eq_num) begin //Create random coefficients
+                        EQ_Matrix[eq_counter_gen][15:0] <= lfsr_out[eq_counter_gen];
                         eq_counter_gen <= eq_counter_gen + 1'b1;
-                end
+                end*/
+                $display("System of Equations Generated!");
                 STATE_N <= READY;
             end
             
-            READY: begin
-                $display("System of Equations Generated!");
-                $display("EQ 1: %b", EQ_Matrix[0].coefficient);
-                $display("EQ 2: %b", EQ_Matrix[1].coefficient);
-                $display("EQ 3: %b", EQ_Matrix[2].coefficient);
-                $display("EQ 4: %b", EQ_Matrix[3].coefficient);
-                $display("EQ 5: %b", EQ_Matrix[4].coefficient);
-                $display("EQ 6: %b", EQ_Matrix[5].coefficient);
-                $display("EQ 7: %b", EQ_Matrix[6].coefficient);
-                $display("EQ 8: %b", EQ_Matrix[7].coefficient);
-                $display("EQ 9: %b", EQ_Matrix[8].coefficient);
-                $display("EQ 10: %b", EQ_Matrix[9].coefficient);
-                STATE_N <= SOLVE;
+           READY: begin
+                $display("EQ 1 : %b", EQ_Matrix[0].coefficient);                
+                $display("EQ 2 : %b", EQ_Matrix[1].coefficient);
+                $display("EQ 3 : %b", EQ_Matrix[2].coefficient);
+                $display("EQ 4 : %b", EQ_Matrix[3].coefficient);
+                $display("EQ 5 : %b", EQ_Matrix[4].coefficient);
+                $display("EQ 6 : %b", EQ_Matrix[5].coefficient);
+                $display("EQ 7 : %b", EQ_Matrix[6].coefficient);
+                $display("EQ 8 : %b", EQ_Matrix[7].coefficient);
+                $display("EQ 9 : %b", EQ_Matrix[8].coefficient);
+                $display("EQ 10 : %b", EQ_Matrix[9].coefficient);
+                $display("EQ 11 : %b", EQ_Matrix[10].coefficient);
+                $display("EQ 12 : %b", EQ_Matrix[11].coefficient);
+                $display("EQ 13 : %b", EQ_Matrix[12].coefficient);
+                $display("EQ 14 : %b", EQ_Matrix[13].coefficient);
+                $display("EQ 15 : %b", EQ_Matrix[14].coefficient);
+                $display("EQ 16 : %b", EQ_Matrix[15].coefficient);
+                STATE_N <=  SOLVE;
                 end
             
             SOLVE: begin
-                while(Terms < 6'b1_00000) begin
-                        $display("Terms: X1 = %b, X2 = %b, X3 = %b, X4 = %b, X5 = %b", Terms[0], Terms[1], Terms[2], Terms[3], Terms[4]);
-                        if(solved == 1'b1) begin
-                        $display("Solution Found!");
-                        solutions_num <= solutions_num + 1;
-                        end
-                        else begin
-                        $display("No Solution at This Value");
-                        end
-                        Terms <= Terms + 1'b1;
-                        $display("");
+                $display("Terms: X1 = %b, X2 = %b, X3 = %b, X4 = %b, X5 = %b", Terms[0], Terms[1], Terms[2], Terms[3], Terms[4]);
+                if(solved == 1'b1) begin
+                    $display("Solution Found!");
+                    solutions_num <= solutions_num + 1;
                 end
-                STATE_N <= DONE;
+                else if(solved == 1'b0)begin
+                    $display("No Solution at This Value");
+                end
+                Terms <= Terms + 1'b1;
+                $display("");
+                STATE_N <= (Terms == 6'b0_11111) ? DONE : SOLVE;
             end
             
             DONE: begin

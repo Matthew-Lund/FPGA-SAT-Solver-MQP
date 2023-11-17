@@ -1,8 +1,8 @@
 Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
 -------------------------------------------------------------------------------------------
 | Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
-| Date         : Wed Nov 15 00:15:08 2023
-| Host         : DESKTOP-BRI9QCC running 64-bit major release  (build 9200)
+| Date         : Wed Nov 15 10:19:30 2023
+| Host         : LAPTOP-BKM4OVDQ running 64-bit major release  (build 9200)
 | Command      : report_control_sets -verbose -file Exhaustive_Top_control_sets_placed.rpt
 | Design       : Exhaustive_Top
 | Device       : xc7a200t
@@ -23,11 +23,11 @@ Table of Contents
 +----------------------------------------------------------+-------+
 |                          Status                          | Count |
 +----------------------------------------------------------+-------+
-| Total control sets                                       |     5 |
-|    Minimum number of control sets                        |     5 |
+| Total control sets                                       |     4 |
+|    Minimum number of control sets                        |     4 |
 |    Addition due to synthesis replication                 |     0 |
 |    Addition due to physical synthesis replication        |     0 |
-| Unused register locations in slices containing registers |    17 |
+| Unused register locations in slices containing registers |    15 |
 +----------------------------------------------------------+-------+
 * Control sets can be merged at opt_design using control_set_merge or merge_equivalent_drivers
 ** Run report_qor_suggestions for automated merging and remapping suggestions
@@ -39,10 +39,10 @@ Table of Contents
 +--------------------+-------+
 |       Fanout       | Count |
 +--------------------+-------+
-| Total control sets |     5 |
+| Total control sets |     4 |
 | >= 0 to < 4        |     1 |
 | >= 4 to < 6        |     0 |
-| >= 6 to < 8        |     3 |
+| >= 6 to < 8        |     2 |
 | >= 8 to < 10       |     0 |
 | >= 10 to < 12      |     0 |
 | >= 12 to < 14      |     0 |
@@ -60,7 +60,7 @@ Table of Contents
 +--------------+-----------------------+------------------------+-----------------+--------------+
 | No           | No                    | No                     |               6 |            3 |
 | No           | No                    | Yes                    |               0 |            0 |
-| No           | Yes                   | No                     |              34 |            8 |
+| No           | Yes                   | No                     |              28 |            7 |
 | Yes          | No                    | No                     |               7 |            3 |
 | Yes          | No                    | Yes                    |               0 |            0 |
 | Yes          | Yes                   | No                     |               0 |            0 |
@@ -74,9 +74,8 @@ Table of Contents
 |     Clock Signal     |       Enable Signal       |      Set/Reset Signal     | Slice Load Count | Bel Load Count | Bels / Slice |
 +----------------------+---------------------------+---------------------------+------------------+----------------+--------------+
 |  clock/inst/clk_out1 | btnC_debounce/out_i_1_n_0 |                           |                1 |              1 |         1.00 |
-|  clock/inst/clk_out1 |                           | fsm/clear                 |                1 |              6 |         6.00 |
-|  fsm/sclk            |                           |                           |                3 |              6 |         2.00 |
-|  fsm/sclk            | fsm/Terms                 |                           |                2 |              6 |         3.00 |
+|  clock/inst/clk_out1 |                           |                           |                3 |              6 |         2.00 |
+|  clock/inst/clk_out1 | fsm/Terms                 |                           |                2 |              6 |         3.00 |
 |  clock/inst/clk_out1 |                           | btnC_debounce/out_i_1_n_0 |                7 |             28 |         4.00 |
 +----------------------+---------------------------+---------------------------+------------------+----------------+--------------+
 

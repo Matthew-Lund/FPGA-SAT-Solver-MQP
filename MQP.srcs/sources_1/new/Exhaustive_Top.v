@@ -54,7 +54,8 @@ module Exhaustive_Top(  //System of 5 Linear Terms, 10 equations
     .btnC(btnc_debounce),
     .clk(clk_out),
     .reset_n(reset_n),
-    .LED(led[5:0])
+    .LED(led[5:0]),
+    .STATE(STATE)
     );
     
     

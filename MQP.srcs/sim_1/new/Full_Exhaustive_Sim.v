@@ -23,15 +23,15 @@
 module Full_Exhaustive_Sim();
     parameter length = 7;   //7 Coefficients
     wire [(length-1):0] weight2_max = {2'b11,  {(length-2){1'b0}} };
-
-reg [(length-1):0] eq1_coeff, eq2_coeff;
+    wire [length-1:0] weight2_min = {{(length-2){1'b0}}, 2'b11 };
+    reg [(length-1):0] eq1_coeff, eq2_coeff;
 reg [128:0] sys_num;
 
 wire weightcheck_eq1, weightcheck_eq2;
 
 reg Rest;
 
-reg [2:0] RHS;
+reg [1:0] RHS;
 wire RHS_eq1, RHS_eq2;
 assign RHS_eq1 = RHS[0];
 assign RHS_eq2 = RHS[1];
@@ -74,16 +74,17 @@ reg [0:0] eq_combos [EQ_Y - 1:0] [EQ_X - 1:0];
     RHS = 2'b00;
     first_run = 1'b1;
     Rest = 1'b0;
+    eq1_coeff = weight2_min;
+    eq2_coeff = weight2_min;
     repeat(2) begin	//changes rest variable 
     
-        while(RHS < 3'b100) begin //changes RHS
-    
+       repeat(4) begin //changes RHS
             while(eq1_coeff < weight2_max + 1) begin //changes eq1 coefficients
     
                 while(eq2_coeff <= weight2_max + 1) begin	//changes eq2 coefficients
                     if(weightcheck_eq1 && weightcheck_eq2)
                     begin
-                        if(eq1[length+1:2] != eq2[length+1:2]) begin    //Only looking for finite # of solutions
+                        if(eq1_coeff != eq2_coeff) begin    //Only looking for finite # of solutions
                         
                         sys_num = sys_num + 1;
                         $display("System # %d Found!", sys_num);
@@ -113,18 +114,12 @@ reg [0:0] eq_combos [EQ_Y - 1:0] [EQ_X - 1:0];
                 #10 eq1_coeff <= eq1_coeff + 1'b1;
                 eq2_coeff <= eq1_coeff;
             end
-    
-            eq1_coeff = 0;
-            if(first_run)begin
-                RHS = 3'b000;
-                first_run = 1'b0;
-            end
-            else begin
-            #10 RHS = RHS + 3'b001;
-            end
+    `
+                eq1_coeff = weight2_min;
+                eq2_coeff = weight2_min;
+            $display("RHS 1 = %b, RHS 2 = %b", RHS [0], RHS[1]);
+                RHS = RHS + 1;
         end
-    
-        RHS = 2'b00;
         if(Rest) begin
            $stop;
         end

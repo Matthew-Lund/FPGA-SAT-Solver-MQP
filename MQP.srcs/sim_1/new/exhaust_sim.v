@@ -27,11 +27,10 @@ module exhaust_sim();
     
     parameter START = 16'b1011_0110_1001_0010;
     parameter INIT = 3'b000;
-    parameter EQ_NUM = 3'b001;
-    parameter GEN = 3'b010;
-    parameter READY = 3'b011;
-    parameter SOLVE = 3'b100;
-    parameter DONE = 3'b101;
+    parameter GEN = 3'b001;
+    parameter READY = 3'b010;
+    parameter SOLVE = 3'b011;
+    parameter DONE = 3'b100;
     parameter WAIT = 3'b111;
     
     FSM_Exhaustive #(.START(START)) fsm( // # of equations hard-coded to 10 and linear terms to X1-X5
@@ -51,21 +50,8 @@ module exhaust_sim();
         clk = 0;
         reset_n = 0;
         #100 reset_n = 1;
-        wait(STATE == WAIT);
+        wait(STATE == READY);
+        wait(STATE == SOLVE);
         $stop;
-        #20 btnC = 1'b1;
-        #5 btnC = 1'b0;
-        wait(STATE == DONE);
-        #30;
-        $stop;
-        #10 btnC = 1'b1;
-        #50 btnC = 1'b0;
-        #200;
-        #25 btnC = 1;
-        #20 btnC = 0;
-        if(LED[5]) begin
-            #200;
-            $stop;
-        end
     end
 endmodule

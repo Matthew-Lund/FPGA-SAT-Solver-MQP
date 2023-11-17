@@ -1,1 +1,1 @@
---incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" -L "xpm" --snapshot "Full_Exhaustive_Sim_behav" "xil_defaultlib.Full_Exhaustive_Sim" "xil_defaultlib.glbl" -log "elaborate.log" 
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "uvm" -L "unisims_ver" -L "unimacro_ver" -L "secureip" -L "xpm" --snapshot "Full_Exhaustive_Sim_behav" "xil_defaultlib.Full_Exhaustive_Sim" "xil_defaultlib.glbl" -log "elaborate.log" 

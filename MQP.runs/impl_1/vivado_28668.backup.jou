@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Wed Nov 15 10:18:57 2023
+# Process ID: 28668
+# Current directory: C:/Users/mtlun/Documents/MQP/MQP/MQP.runs/impl_1
+# Command line: vivado.exe -log Exhaustive_Top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Exhaustive_Top.tcl -notrace
+# Log file: C:/Users/mtlun/Documents/MQP/MQP/MQP.runs/impl_1/Exhaustive_Top.vdi
+# Journal file: C:/Users/mtlun/Documents/MQP/MQP/MQP.runs/impl_1\vivado.jou
+# Running On: LAPTOP-BKM4OVDQ, OS: Windows, CPU Frequency: 2994 MHz, CPU Physical cores: 16, Host memory: 16556 MB
+#-----------------------------------------------------------
+source Exhaustive_Top.tcl -notrace

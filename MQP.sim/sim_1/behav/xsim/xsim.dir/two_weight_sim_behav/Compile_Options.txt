@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "uvm" -L "unisims_ver" -L "unimacro_ver" -L "secureip" -L "xpm" --snapshot "two_weight_sim_behav" "xil_defaultlib.two_weight_sim" "xil_defaultlib.glbl" -log "elaborate.log" 

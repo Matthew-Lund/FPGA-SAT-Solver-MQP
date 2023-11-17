@@ -1,0 +1,7 @@
+Running: xsim.dir/weight2_table_behav/xsimk.exe -simmode gui -wdb weight2_table_behav.wdb -simrunnum 0 -socket 61713
+Design successfully loaded
+Design Loading Memory Usage: 7248 KB (Peak: 7248 KB)
+Design Loading CPU Usage: 46 ms
+Simulation completed
+Simulation Memory Usage: 10952484 KB (Peak: 10952484 KB)
+Simulation CPU Usage: 10030 ms

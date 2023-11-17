@@ -34,9 +34,10 @@ module solver(
     wire X2X3 = X2 & X3;
     wire X3X4 = X4 & X3;
     
-    wire result_1 = (X1 & Co_1[8]) ^ (X2 & Co_1[7]) ^ (X3 & Co_1[6]) ^(X4 * Co_1[5]) ^(X1X2 & Co_1[4]) ^(X2X3 & Co_1[3]) ^(X3X4 & Co_1[2]) ^ Co_1[1];
-    wire result_2 = (X1 & Co_2[8]) ^ (X2 & Co_2[7]) ^ (X3 & Co_2[6]) ^(X4 * Co_2[5]) ^(X1X2 & Co_2[4]) ^(X2X3 & Co_2[3]) ^(X3X4 & Co_2[2]) ^ Co_2[1];
+    wire [8:0] temp_eq = Co_1 ^ Co_2;   //XOR arrays 
     
-    assign solved = ( (result_1 == Co_1[0]) && (result_2 == Co_2[0]) ) ? 1'b1 : 1'b0;
+    wire result = (X1 & temp_eq[8]) ^ (X2 & temp_eq[7]) ^ (X3 & temp_eq[6]) ^(X4 * temp_eq[5]) ^(X1X2 & temp_eq[4]) ^(X2X3 & temp_eq[3]) ^(X3X4 & temp_eq[2]) ^ temp_eq[1];
+    
+    assign solved = (result == temp_eq[0]) ? 1'b1 : 1'b0;
     
 endmodule

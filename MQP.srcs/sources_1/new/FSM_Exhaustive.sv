@@ -111,7 +111,7 @@ module FSM_Exhaustive #(parameter START = 16'b1011_0110_1001_0010)//Can manipula
     always @(*) begin
         if(STATE == SOLVE) begin
             if(eq_counter_solve < eq_num) begin
-                temp_matrix[eq_counter_solve][0] = EQ_Matrix[eq_counter_solve].coefficient[15:1] ^ term_string[14:0];
+                temp_matrix[eq_counter_solve][0] = EQ_Matrix[eq_counter_solve].coefficient[15:1] & term_string[14:0];
                          
                 temp_matrix[eq_counter_solve][1] = EQ_Matrix[eq_counter_solve].coefficient[0];// Set all [1] values to RHS 
                 solved = (solved && (temp_matrix[eq_counter_solve][0] == temp_matrix[eq_counter_solve][1])) ? 1'b1 : 1'b0;

@@ -1,13 +1,4 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mtlun/Documents/MQP/MQP/MQP.srcs/sources_1/new/Exhaustive_Top.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module Exhaustive_Top
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mtlun/Documents/MQP/MQP/MQP.srcs/sources_1/imports/lab3_test.srcs/sources_1/new/hamming.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module hamming
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mtlun/Documents/MQP/MQP/MQP.srcs/sources_1/new/Solver_Example.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module solver
-INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/mtlun/Documents/MQP/MQP/MQP.srcs/sources_1/new/weight2_lut.sv" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module weight2_lut
-INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mtlun/Documents/MQP/MQP/MQP.srcs/sim_1/new/Full_Exhaustive_Sim.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module Full_Exhaustive_Sim
-ERROR: [VRFC 10-1020] missing compiler directive [C:/Users/mtlun/Documents/MQP/MQP/MQP.srcs/sim_1/new/Full_Exhaustive_Sim.v:117]
-ERROR: [VRFC 10-4982] syntax error near 'endmodule' [C:/Users/mtlun/Documents/MQP/MQP/MQP.srcs/sim_1/new/Full_Exhaustive_Sim.v:129]
-ERROR: [VRFC 10-8549] Verilog 2000 keyword 'endmodule' used in incorrect context [C:/Users/mtlun/Documents/MQP/MQP/MQP.srcs/sim_1/new/Full_Exhaustive_Sim.v:129]
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/mtlun/Documents/MQP/MQP/MQP.srcs/sources_1/new/exhaustive_search.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module exhaustive_search
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/mtlun/Documents/MQP/MQP/MQP.srcs/sim_1/new/exhaust_sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module exhaust_sim

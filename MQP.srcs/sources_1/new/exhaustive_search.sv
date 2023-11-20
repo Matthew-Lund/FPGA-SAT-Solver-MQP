@@ -93,8 +93,8 @@ module exhaustive_search(
     
     assign led = (solution) ? {1'b0,Terms[4:0]} : 6'b1_00000;    //display the solution on the LEDs
     
-    
-    initial begin 
+    //Used for Simulation Purposes (working on a way to do this on FPGA
+   initial begin 
         $display("Solving System of Equations");
         $display("Equation 1: %b", EQ_Matrix[0].coefficient);
         $display("Equation 2: %b", EQ_Matrix[1].coefficient);

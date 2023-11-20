@@ -1,4 +1,3 @@
-`timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
 // Engineer: 
@@ -19,6 +18,7 @@
 // 
 //////////////////////////////////////////////////////////////////////////////////
 
+`timescale 1ns / 1ps
 
 module weight2_table(
 
@@ -56,53 +56,47 @@ module weight2_table(
     );
     
     initial begin
-        eq1_count <= 0;
-        eq2_count <= 1;
-        RHS <= 3'b000;
-        Rest <= 2'b00;
-        sys_num <= 0;
-        solutions_num <= 0;
-        #200;            
-        while(eq1_count <= 5'd19) begin //loop over only 0-19
-            if(eq1_count == 5'd0 && eq2_count >= 5'd19) begin
-               eq1_count <= eq1_count + 1'b1; 
-               eq2_count <= eq1_count;  //to prevent overlap of equations
-            end
-            while(eq2_count <= 5'd19)begin //loop over only 0-19 
-               
-               if(eq1_co != eq2_co) begin//only unique combinations 
-                    
-                    sys_num <= sys_num + 1;
-                    $display("System # %d", sys_num + 1);
-                    $display("eq1 : %b", eq1);
-                    $display("eq2 : %b", eq2);
-                    terms <= 5'b0_0000;   
-                        while(terms[4] == 1'b0) begin   //iterate through terms 
+        eq1_count = 0;
+        eq2_count = 1; //avoid "squared" positions
+        RHS = 3'b000;
+        Rest = 2'b00;
+        sys_num = 0;
+        solutions_num = 0;
+        terms = 0;
+        #20;
+        while(Rest[1] != 1'b1) begin
+            while(RHS[2] != 1'b1) begin
+                while(eq1_count <= 18) begin
+                    while(eq2_count <= 19) begin
+                        sys_num = sys_num + 1;
+                        $display("System # %d", sys_num);
+                        $display("EQ1 : %b", eq1);
+                        $display("EQ2 : %b", eq2);
+                        while(terms[4] != 1) begin
                             if(solved) begin
-                                $display("Solution Found! X1 = %b, X2 = %b, X3 = %b, X4 = %b", terms[0], terms[1], terms[2], terms[3]);
-                                solutions_num <= solutions_num + 1;
+                                solutions_num = solutions_num + 1;
+                                $display("Solution : X1 = %b X2 = %b X3 = %b X4 = %b", terms[0], terms[1], terms[2], terms[3]);
                             end
-                            
-                            #10 terms <= terms + 1'b1;
+                            #5 terms = terms + 1;
                         end
-                        
-                    $display("# of solutions : %d", solutions_num);
-                    $display("");
-                    terms <= 5'b0_0000;
-                    solutions_num <= 0;
-                        
-               end
-               
-               #10 eq2_count <= eq2_count + 5'b1;
-               
+                        terms = 0;
+                        solutions_num = 0;
+                        eq2_count = eq2_count + 1'b1;
+                    end
+                    eq1_count = eq1_count + 1'b1;
+                    eq2_count = eq1_count + 1'b1;
+                end
+                RHS = RHS + 1'b1;
+                eq1_count = 0;
+                eq2_count = 1;
             end
-            
+            Rest = Rest + 1'b1;
+            RHS = 3'b000;
+            eq1_count = 0;
+            eq2_count = 1;
         end
-        eq1_count <= 1;
-        eq2_count <= 1;
-        RHS <= 2'b01;
         $stop;
-    end
+    end 
     
     
 endmodule

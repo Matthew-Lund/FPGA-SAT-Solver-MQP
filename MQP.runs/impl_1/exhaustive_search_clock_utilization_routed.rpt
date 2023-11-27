@@ -1,7 +1,7 @@
 Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
 -----------------------------------------------------------------------------------------------
 | Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
-| Date         : Mon Nov 20 12:00:56 2023
+| Date         : Mon Nov 27 11:17:32 2023
 | Host         : LAPTOP-BKM4OVDQ running 64-bit major release  (build 9200)
 | Command      : report_clock_utilization -file exhaustive_search_clock_utilization_routed.rpt
 | Design       : exhaustive_search

@@ -23,6 +23,7 @@
 module exhaustive_search(
     //input clk, reset_n,
     input [4:0] sw,
+    input btnu,
     output [5:0] led
     );
     
@@ -91,10 +92,10 @@ module exhaustive_search(
     //Check to see if sum = RHS of XOR'd equations
     wire solution = (EQ_SUM == EQ_XOR[0]) ? 1'b1 : 1'b0;
     
-    assign led = (solution) ? {1'b0,Terms[4:0]} : 6'b1_00000;    //display the solution on the LEDs
+    assign led = (btnu) ? (solution) ? {1'b0,Terms[4:0]} : 6'b1_00000 :  6'b0_00000;    //display the solution on the LEDs if btnu is enabled
     
     //Used for Simulation Purposes (working on a way to do this on FPGA
-   initial begin 
+   /*initial begin 
         $display("Solving System of Equations");
         $display("Equation 1: %b", EQ_Matrix[0].coefficient);
         $display("Equation 2: %b", EQ_Matrix[1].coefficient);
@@ -121,6 +122,6 @@ module exhaustive_search(
         else begin
             $display("Solution not found at this state");
         end
-    end
+    end */
     
 endmodule

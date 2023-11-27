@@ -70,8 +70,6 @@ proc create_report { reportName command } {
   }
 }
 OPTRACE "synth_1" START { ROLLUP_AUTO }
-set_param chipscope.maxJobs 1
-set_param xicom.use_bs_reader 1
 set_msg_config  -id {Synth 8-439}  -string {{ERROR: [Synth 8-439] module 'clk_wiz_1' not found}}  -suppress 
 set_msg_config  -id {Common 17-69}  -string {{ERROR: [Common 17-69] Command failed: Synthesis failed - please see the console or run log file for details}}  -suppress 
 set_msg_config  -id {IP_Flow 19-4739}  -string {{CRITICAL WARNING: [IP_Flow 19-4739] Writing uncustomized BOM file 'c:/Users/Matthew/Documents/GitHub/FPGA-top-level/mqp_board.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.xml'}}  -suppress 

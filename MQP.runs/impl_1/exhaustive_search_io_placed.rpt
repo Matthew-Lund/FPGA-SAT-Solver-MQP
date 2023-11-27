@@ -1,7 +1,7 @@
 Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
 -------------------------------------------------------------------------------------------------
 | Tool Version              : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
-| Date                      : Mon Nov 20 11:59:45 2023
+| Date                      : Mon Nov 27 11:16:06 2023
 | Host                      : LAPTOP-BKM4OVDQ running 64-bit major release  (build 9200)
 | Command                   : report_io -file exhaustive_search_io_placed.rpt
 | Design                    : exhaustive_search
@@ -25,7 +25,7 @@ Table of Contents
 +---------------+
 | Total User IO |
 +---------------+
-|            11 |
+|            12 |
 +---------------+
 
 
@@ -203,7 +203,7 @@ Table of Contents
 | F12        |             | Dedicated  | VCCO_0                       | VCCO          |             |       0 |            |      |                     |                      |    3.30 |            |           |          |      |                  |              |                   |              |
 | F13        |             | High Range | IO_L1P_T0_16                 | User IO       |             |      16 |            |      |                     |                      |         |            |           |          |      |                  |              |                   |              |
 | F14        |             | High Range | IO_L1N_T0_16                 | User IO       |             |      16 |            |      |                     |                      |         |            |           |          |      |                  |              |                   |              |
-| F15        |             | High Range | IO_0_16                      | User IO       |             |      16 |            |      |                     |                      |         |            |           |          |      |                  |              |                   |              |
+| F15        | btnu        | High Range | IO_0_16                      | INPUT         | LVCMOS12    |      16 |            |      |                     |                 NONE |         | FIXED      |           |          |      | NONE             |              |                   |              |
 | F16        |             | High Range | IO_L2P_T0_16                 | User IO       |             |      16 |            |      |                     |                      |         |            |           |          |      |                  |              |                   |              |
 | F17        |             |            | GND                          | GND           |             |         |            |      |                     |                      |     0.0 |            |           |          |      |                  |              |                   |              |
 | F18        |             | High Range | IO_L15P_T2_DQS_16            | User IO       |             |      16 |            |      |                     |                      |         |            |           |          |      |                  |              |                   |              |

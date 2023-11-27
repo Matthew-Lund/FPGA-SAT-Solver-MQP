@@ -1,7 +1,7 @@
 Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 | Tool Version     : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
-| Date             : Mon Nov 20 12:00:55 2023
+| Date             : Mon Nov 27 11:17:31 2023
 | Host             : LAPTOP-BKM4OVDQ running 64-bit major release  (build 9200)
 | Command          : report_power -file exhaustive_search_power_routed.rpt -pb exhaustive_search_power_summary_routed.pb -rpx exhaustive_search_power_routed.rpx
 | Design           : exhaustive_search
@@ -30,14 +30,14 @@ Table of Contents
 ----------
 
 +--------------------------+--------------+
-| Total On-Chip Power (W)  | 3.447        |
+| Total On-Chip Power (W)  | 2.350        |
 | Design Power Budget (W)  | Unspecified* |
 | Power Budget Margin (W)  | NA           |
-| Dynamic (W)              | 3.292        |
-| Device Static (W)        | 0.155        |
+| Dynamic (W)              | 2.203        |
+| Device Static (W)        | 0.147        |
 | Effective TJA (C/W)      | 3.3          |
-| Max Ambient (C)          | 73.6         |
-| Junction Temperature (C) | 36.4         |
+| Max Ambient (C)          | 77.2         |
+| Junction Temperature (C) | 32.8         |
 | Confidence Level         | Low          |
 | Setting File             | ---          |
 | Simulation Activity File | ---          |
@@ -52,12 +52,12 @@ Table of Contents
 +----------------+-----------+----------+-----------+-----------------+
 | On-Chip        | Power (W) | Used     | Available | Utilization (%) |
 +----------------+-----------+----------+-----------+-----------------+
-| Slice Logic    |     0.021 |        6 |       --- |             --- |
-|   LUT as Logic |     0.021 |        3 |    133800 |           <0.01 |
-| Signals        |     0.129 |       11 |       --- |             --- |
-| I/O            |     3.143 |       11 |       285 |            3.86 |
-| Static Power   |     0.155 |          |           |                 |
-| Total          |     3.447 |          |           |                 |
+| Slice Logic    |     0.020 |        6 |       --- |             --- |
+|   LUT as Logic |     0.020 |        6 |    133800 |           <0.01 |
+| Signals        |     0.148 |       12 |       --- |             --- |
+| I/O            |     2.035 |       12 |       285 |            4.21 |
+| Static Power   |     0.147 |          |           |                 |
+| Total          |     2.350 |          |           |                 |
 +----------------+-----------+----------+-----------+-----------------+
 
 
@@ -67,10 +67,10 @@ Table of Contents
 +-----------+-------------+-----------+-------------+------------+-------------+-------------+------------+
 | Source    | Voltage (V) | Total (A) | Dynamic (A) | Static (A) | Powerup (A) | Budget (A)  | Margin (A) |
 +-----------+-------------+-----------+-------------+------------+-------------+-------------+------------+
-| Vccint    |       1.000 |     0.197 |       0.150 |      0.047 |       NA    | Unspecified | NA         |
-| Vccaux    |       1.800 |     0.163 |       0.130 |      0.032 |       NA    | Unspecified | NA         |
+| Vccint    |       1.000 |     0.209 |       0.168 |      0.041 |       NA    | Unspecified | NA         |
+| Vccaux    |       1.800 |     0.116 |       0.084 |      0.032 |       NA    | Unspecified | NA         |
 | Vcco33    |       3.300 |     0.000 |       0.000 |      0.000 |       NA    | Unspecified | NA         |
-| Vcco25    |       2.500 |     1.168 |       1.163 |      0.005 |       NA    | Unspecified | NA         |
+| Vcco25    |       2.500 |     0.758 |       0.753 |      0.005 |       NA    | Unspecified | NA         |
 | Vcco18    |       1.800 |     0.000 |       0.000 |      0.000 |       NA    | Unspecified | NA         |
 | Vcco15    |       1.500 |     0.000 |       0.000 |      0.000 |       NA    | Unspecified | NA         |
 | Vcco135   |       1.350 |     0.000 |       0.000 |      0.000 |       NA    | Unspecified | NA         |
@@ -134,7 +134,7 @@ Table of Contents
 +-------------------+-----------+
 | Name              | Power (W) |
 +-------------------+-----------+
-| exhaustive_search |     3.292 |
+| exhaustive_search |     2.203 |
 +-------------------+-----------+
 
 

@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<GenRun Id="synth_1" LaunchPart="xc7a200tsbg484-1" LaunchTime="1700499484" LaunchIncrCheckpoint="$PSRCDIR/utils_1/imports/synth_1/FSM_Exhaustive.dcp">
+<GenRun Id="synth_1" LaunchPart="xc7a200tsbg484-1" LaunchTime="1701101643" LaunchIncrCheckpoint="$PSRCDIR/utils_1/imports/synth_1/FSM_Exhaustive.dcp">
   <File Type="PA-TCL" Name="exhaustive_search.tcl"/>
+  <File Type="RDS-PROPCONSTRS" Name="exhaustive_search_drc_synth.rpt"/>
   <File Type="REPORTS-TCL" Name="exhaustive_search_reports.tcl"/>
   <File Type="RDS-RDS" Name="exhaustive_search.vds"/>
   <File Type="RDS-UTIL" Name="exhaustive_search_utilization_synth.rpt"/>
   <File Type="RDS-UTIL-PB" Name="exhaustive_search_utilization_synth.pb"/>
   <File Type="RDS-DCP" Name="exhaustive_search.dcp"/>
+  <File Type="VDS-TIMINGSUMMARY" Name="exhaustive_search_timing_summary_synth.rpt"/>
+  <File Type="VDS-TIMING-PB" Name="exhaustive_search_timing_summary_synth.pb"/>
   <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
     <Filter Type="Srcs"/>
     <File Path="$PSRCDIR/sources_1/new/exhaustive_search.sv">
@@ -63,7 +66,7 @@
     </File>
     <File Path="$PSRCDIR/sources_1/new/Solver_Example.v">
       <FileInfo>
-        <Attr Name="UserDisabled" Val="1"/>
+        <Attr Name="AutoDisabled" Val="1"/>
         <Attr Name="ImportPath" Val="$PPRDIR/../../../../../../../../Documents/MQP/MQP/MQP.srcs/sources_1/new/Solver_Example.v"/>
         <Attr Name="ImportTime" Val="1699454312"/>
         <Attr Name="UsedIn" Val="synthesis"/>
@@ -74,7 +77,7 @@
     <File Path="$PPRDIR/archive_project_summary.txt"/>
     <File Path="$PSRCDIR/sources_1/new/weight2_lut.sv">
       <FileInfo>
-        <Attr Name="UserDisabled" Val="1"/>
+        <Attr Name="AutoDisabled" Val="1"/>
         <Attr Name="UsedIn" Val="synthesis"/>
         <Attr Name="UsedIn" Val="implementation"/>
         <Attr Name="UsedIn" Val="simulation"/>

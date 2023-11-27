@@ -1,7 +1,7 @@
 Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
 -----------------------------------------------------------------------------------------------------------------------------
 | Tool Version : Vivado v.2022.1 (win64) Build 3526262 Mon Apr 18 15:48:16 MDT 2022
-| Date         : Mon Nov 20 11:58:49 2023
+| Date         : Mon Nov 27 11:15:07 2023
 | Host         : LAPTOP-BKM4OVDQ running 64-bit major release  (build 9200)
 | Command      : report_utilization -file exhaustive_search_utilization_synth.rpt -pb exhaustive_search_utilization_synth.pb
 | Design       : exhaustive_search
@@ -31,8 +31,8 @@ Table of Contents
 +-------------------------+------+-------+------------+-----------+-------+
 |        Site Type        | Used | Fixed | Prohibited | Available | Util% |
 +-------------------------+------+-------+------------+-----------+-------+
-| Slice LUTs*             |    3 |     0 |          0 |    134600 | <0.01 |
-|   LUT as Logic          |    3 |     0 |          0 |    134600 | <0.01 |
+| Slice LUTs*             |    6 |     0 |          0 |    134600 | <0.01 |
+|   LUT as Logic          |    6 |     0 |          0 |    134600 | <0.01 |
 |   LUT as Memory         |    0 |     0 |          0 |     46200 |  0.00 |
 | Slice Registers         |    0 |     0 |          0 |    269200 |  0.00 |
 |   Register as Flip Flop |    0 |     0 |          0 |    269200 |  0.00 |
@@ -91,7 +91,7 @@ Table of Contents
 +-----------------------------+------+-------+------------+-----------+-------+
 |          Site Type          | Used | Fixed | Prohibited | Available | Util% |
 +-----------------------------+------+-------+------------+-----------+-------+
-| Bonded IOB                  |   11 |     0 |          0 |       285 |  3.86 |
+| Bonded IOB                  |   12 |     0 |          0 |       285 |  4.21 |
 | Bonded IPADs                |    0 |     0 |          0 |        14 |  0.00 |
 | Bonded OPADs                |    0 |     0 |          0 |         8 |  0.00 |
 | PHY_CONTROL                 |    0 |     0 |          0 |        10 |  0.00 |
@@ -151,8 +151,8 @@ Table of Contents
 | Ref Name | Used | Functional Category |
 +----------+------+---------------------+
 | OBUF     |    6 |                  IO |
-| LUT5     |    6 |                 LUT |
-| IBUF     |    5 |                  IO |
+| LUT6     |    6 |                 LUT |
+| IBUF     |    6 |                  IO |
 +----------+------+---------------------+
 
 

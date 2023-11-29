@@ -75,7 +75,7 @@ module weight2_table(
                         while(terms[4] != 1) begin
                             if(solved) begin
                                 solutions_num = solutions_num + 1;
-                                $display("Solution : X1 = %b X2 = %b X3 = %b X4 = %b", terms[0], terms[1], terms[2], terms[3]);
+                                $display("Solution : X1 = %b , X2 = %b , X3 = %b  ,X4 = %b ", terms[0], terms[1], terms[2], terms[3]);
                             end
                             #5 terms = terms + 1;
                         end
@@ -95,6 +95,7 @@ module weight2_table(
             eq1_count = 0;
             eq2_count = 1;
         end
+        
         $stop;
     end 
     

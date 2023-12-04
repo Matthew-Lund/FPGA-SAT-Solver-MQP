@@ -17,6 +17,7 @@
   <File Type="BITSTR-MMI" Name="exhaustive_search.mmi"/>
   <File Type="ROUTE-METHODOLOGY-DRC" Name="exhaustive_search_methodology_drc_routed.rpt"/>
   <File Type="BITSTR-SYSDEF" Name="exhaustive_search.sysdef"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="exhaustive_search_methodology_drc_routed.pb"/>
   <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
   <File Type="BITSTR-LTX" Name="exhaustive_search.ltx"/>
   <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
@@ -25,8 +26,11 @@
   <File Type="PLACE-IO" Name="exhaustive_search_io_placed.rpt"/>
   <File Type="PLACE-UTIL" Name="exhaustive_search_utilization_placed.rpt"/>
   <File Type="PLACE-UTIL-PB" Name="exhaustive_search_utilization_placed.pb"/>
+  <File Type="ROUTE-RQS" Name="exhaustive_search_routed.rqs"/>
   <File Type="PLACE-CTRL" Name="exhaustive_search_control_sets_placed.rpt"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
   <File Type="PLACE-PRE-SIMILARITY" Name="exhaustive_search_incremental_reuse_pre_placed.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
   <File Type="ROUTE-DRC" Name="exhaustive_search_drc_routed.rpt"/>
   <File Type="ROUTE-DRC-PB" Name="exhaustive_search_drc_routed.pb"/>
   <File Type="ROUTE-PWR-RPX" Name="exhaustive_search_power_routed.rpx"/>
@@ -48,7 +52,6 @@
   <File Type="PHYSOPT-DCP" Name="exhaustive_search_physopt.dcp"/>
   <File Type="POSTROUTE-PHYSOPT-DCP" Name="exhaustive_search_postroute_physopt.dcp"/>
   <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="exhaustive_search_postroute_physopt_bb.dcp"/>
-  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="exhaustive_search_methodology_drc_routed.pb"/>
   <File Type="ROUTE-DRC-RPX" Name="exhaustive_search_drc_routed.rpx"/>
   <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="exhaustive_search_methodology_drc_routed.rpx"/>
   <File Type="PDI-FILE" Name="exhaustive_search.pdi"/>
@@ -57,10 +60,7 @@
   <File Type="RNPI_FILE" Name="exhaustive_search.rnpi"/>
   <File Type="NPI_FILE" Name="exhaustive_search.npi"/>
   <File Type="RBD_FILE" Name="exhaustive_search.rbd"/>
-  <File Type="ROUTE-RQS" Name="exhaustive_search_routed.rqs"/>
   <File Type="POSTROUTE-PHYSOPT-RQS" Name="exhaustive_search_postroute_physopted.rqs"/>
-  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
-  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
   <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
     <Filter Type="Srcs"/>
     <File Path="$PSRCDIR/sources_1/new/exhaustive_search.sv">

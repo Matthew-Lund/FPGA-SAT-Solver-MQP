@@ -37,6 +37,6 @@ module hamming #(parameter length = 7)( //Defines how many bits long testing
         end
     end
     
-    assign flag2 = (weight > 1 && weight < 3) ? 1'b1 : 1'b0;
+    assign flag2 = (weight > 2 && weight < 4) ? 1'b1 : 1'b0;
     
 endmodule
